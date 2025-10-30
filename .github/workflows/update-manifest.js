@@ -5,12 +5,8 @@ const { execSync } = require('child_process');
 const manifestPath = path.join(__dirname, '../../manifest.json');
 const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
 
-// Get the commit SHAs from the environment variables
-const beforeSha = process.env.GITHUB_EVENT_BEFORE;
-const afterSha = process.env.GITHUB_SHA;
-
 // Get the changed files in the push
-const changedFiles = execSync(`git diff --name-only ${beforeSha} ${afterSha}`).toString().trim().split('\n');
+const changedFiles = execSync('git diff --name-only HEAD~1 HEAD').toString().trim().split('\n');
 
 // Get the current timestamp for the new version
 const timestamp = new Date().toISOString();
@@ -35,10 +31,10 @@ for (const file of changedFiles) {
 }
 
 // Update the global manifest version
-manifest.version = timestamp;
-
-// Write the updated manifest file back to the repository
-fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+if (changedFile) {
+  manifest.version = timestamp;
+  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+}
 
 // Set an output to be used in the commit message
 console.log(`::set-output name=changed_file::${changedFile}`);
