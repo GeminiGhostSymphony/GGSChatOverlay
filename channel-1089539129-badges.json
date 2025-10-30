@@ -10,6 +10,15 @@
       ]
     },
     {
+      "set_id": "moderator",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3267646d-33f0-4b17-b3df-f923a41db1d0/1"
+        }
+      ]
+    },
+    {
       "set_id": "vip",
       "versions": [
         {
