@@ -1,0 +1,31 @@
+name: Auto-update manifest.json
+
+on:
+  push:
+    # Trigger the workflow on pushes to global-badges.json or any channel-badges file
+    paths:
+      - 'global-badges.json'
+      - 'channel-*-badges.json'
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Determine changed file and update manifest
+        id: update_step
+        run: node .github/workflows/update-manifest.js
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "feat: Update manifest version for changes to ${{ steps.update_step.outputs.changed_file }}"
