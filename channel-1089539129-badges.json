@@ -28,6 +28,15 @@
       ]
     },
     {
+      "set_id": "founder",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://assets.help.twitch.tv/article/img/000002253-01.png"
+        }
+      ]
+    },
+    {
       "set_id": "subscriber",
       "versions": [
         {
