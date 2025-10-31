@@ -1,51 +1,6 @@
 {
   "channel": [
     {
-      "set_id": "broadcaster",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5527c58c-fb7d-422d-b71b-f309dcb85cc1/1"
-        }
-      ]
-    },
-    {
-      "set_id": "moderator",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3267646d-33f0-4b17-b3df-f923a41db1d0/1"
-        }
-      ]
-    },
-    {
-      "set_id": "vip",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-45a8-b639-65b106322986/1"
-        }
-      ]
-    },
-    {
-      "set_id": "founder",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://assets.help.twitch.tv/article/img/000002253-01.png"
-        }
-      ]
-    },
-    {
-      "set_id": "artist",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://assets.help.twitch.tv/article/img/000002399-05.png"
-        }
-      ]
-    },
-    {
       "set_id": "subscriber",
       "versions": [
         {
