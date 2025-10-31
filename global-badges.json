@@ -5,7 +5,7 @@
       "versions": [
         {
           "id": "1",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a1d01402-4752-4740-81f1-638fe978d38e/1"
+          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a1dd5073-19c3-4911-8cb4-c464a7bc1510/1"
         }
       ]
     },
@@ -14,16 +14,25 @@
       "versions": [
         {
           "id": "1",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/735c33a9-399a-4c22-b9e7-575510427329/1"
+          "image_url_1x": "https://assets.help.twitch.tv/article/img/973896-03.png"
         }
       ]
     },
     {
-      "set_id": "bits",
+      "set_id": "no_video",
       "versions": [
         {
           "id": "1",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d9765870-8e0f-488f-99e7-f131a9805908/1"
+          "image_url_1x": "https://assets.help.twitch.tv/article/img/659115-05.png"
+        }
+      ]
+    },
+    {
+      "set_id": "no_audio",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://assets.help.twitch.tv/article/img/659115-04.png"
         }
       ]
     }
