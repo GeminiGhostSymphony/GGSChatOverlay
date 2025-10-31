@@ -19,6 +19,15 @@
       ]
     },
     {
+      "set_id": "partner",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d12a2e27-16f6-41d0-ab77-b780518f00a3/1"
+        }
+      ]
+    },
+    {
       "set_id": "no_video",
       "versions": [
         {
