@@ -37,6 +37,15 @@
       ]
     },
     {
+      "set_id": "artist",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://assets.help.twitch.tv/article/img/000002399-05.png"
+        }
+      ]
+    },
+    {
       "set_id": "partner",
       "versions": [
         {
@@ -50,19 +59,19 @@
       "versions": [
         {
           "id": "0",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5d9f2a00-1c0b-469b-851a-7b5610e2d1d4/1"
+          "image_url_1x": "https://cdn2.frankerfacez.com/static/badges/twitch/2/subscriber/0/1.png"
         },
         {
           "id": "1",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5d9f2a00-1c0b-469b-851a-7b5610e2d1d4/1"
+          "image_url_1x": "https://cdn2.frankerfacez.com/static/badges/twitch/2/subscriber/0/1.png"
         },
         {
           "id": "2",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5d9f2a00-1c0b-469b-851a-7b5610e2d1d4/1"
+          "image_url_1x": "https://cdn2.frankerfacez.com/static/badges/twitch/2/subscriber/0/1.png"
         },
         {
           "id": "3",
-          "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2569b91e-451e-42b7-a359-3a32ce1161d1/1"
+          "image_url_1x": "https://cdn2.frankerfacez.com/static/badges/twitch/2/subscriber/0/1.png"
         }
       ]
     }
