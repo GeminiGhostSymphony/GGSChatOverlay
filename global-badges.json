@@ -89,6 +89,58 @@
           "image_url_1x": "https://assets.help.twitch.tv/article/img/000002399-05.png"
         }
       ]
-    }
+    },
+    {
+      "set_id": "sub-gift-leader",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/Dark-GiftBadge-Gold.png"
+        },
+        {
+          "id": "2",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/Dark-GiftBadge-Silver.png"
+        },
+        {
+          "id": "3",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/Dark-GiftBadge-Bronze.png"
+        }
+      ]
+    },
+    {
+      "set_id": "clips-leader",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/clip_leaderboard_top_clip_med.png"
+        },
+        {
+          "id": "2",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/clip_leaderboard_top_two_clip_med.png"
+        },
+        {
+          "id": "3",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/clip_leaderboard_top_three_clip_med.png"
+        }
+      ]
+    },
+    {
+      "set_id": "bits-leader",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/BitsBadge-Gold.png"
+        },
+        {
+          "id": "2",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/BitsBadge-Silver.png"
+        },
+      "versions": [
+        {
+          "id": "3",
+          "image_url_1x": "https://static-cdn.jtvnw.net/twilight-static-assets/BitsBadge-Bronze.png"
+        }
+      ]
+    },
   ]
 }
