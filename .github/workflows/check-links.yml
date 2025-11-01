@@ -1,0 +1,31 @@
+name: Check for Broken Links
+
+on:
+  schedule:
+    # Runs at 1:00 AM UTC every day
+    - cron: '0 1 * * *'
+  # Allows manual triggering from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links in JSON files
+        id: lychee
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --dump --exclude 'localhost' *.json
+          # Point this to the specific directory if your JSONs are not in the root
+          # args: --dump --exclude 'localhost' ./path/to/your/jsons/*.json
+
+      - name: Create issue on broken links
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: 🔗 Broken links found in badge JSONs
+          content_filepath: ./lychee/out.md
+          token: ${{ secrets.GITHUB_TOKEN }}
