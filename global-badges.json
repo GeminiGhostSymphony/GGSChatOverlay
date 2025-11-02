@@ -100,7 +100,7 @@
       ]
     },
     {
-      "set_id": "dj",
+      "set_id": "twitch-dj",
       "versions": [
         {
           "id": "1",
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "set_id": "chat-bot",
+      "set_id": "bot-badge",
       "versions": [
         {
           "id": "1",
@@ -118,29 +118,11 @@
       ]
     },
     {
-      "set_id": "twitch-staff",
+      "set_id": "staff",
       "versions": [
         {
           "id": "1",
           "image_url_1x": "https://i.ibb.co/yBN3tGm7/Twitch-Staff.png"
-        }
-      ]
-    },
-    {
-      "set_id": "global-moderator",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/N6318nCV/Global-Moderator.png"
-        }
-      ]
-    },
-    {
-      "set_id": "admin",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Kc5Lfnht/Admin.png"
         }
       ]
     },
@@ -163,11 +145,24 @@
       ]
     },
     {
-      "set_id": "power-clipper",
+      "set_id": "clip-champ",
       "versions": [
         {
           "id": "1",
           "image_url_1x": "https://i.ibb.co/kVhn0MDP/Power-Clipper.png"
+        }
+      ]
+    },
+    {
+      "set_id": "hype-train",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/6ckM5Zj4/Hype-Conductor.png"
+        },
+        {
+          "id": "2",
+          "image_url_1x": "https://i.ibb.co/LdHzGQ9X/Former-Hype-Conductor.png"
         }
       ]
     },
@@ -219,6 +214,351 @@
         {
           "id": "3",
           "image_url_1x": "https://i.ibb.co/23SPSX6b/Bits-Leader-Bronze.png"
+        }
+      ]
+    },
+    {
+      "set_id": "social-sharing",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/RG7yxFsw/Social-Media-Icon.png"
+        },
+        {
+          "id": "2",
+          "image_url_1x": "https://i.ibb.co/7dkG83x5/Social-Media-Pro.png"
+        },
+        {
+          "id": "3",
+          "image_url_1x": "https://i.ibb.co/zhMmBKgG/Social-Media-Legend.png"
+        }
+      ]
+    },
+    {
+      "set_id": "subscriber",
+      "versions": [
+        {
+          "id": "0",
+          "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
+        },
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
+        },
+        {
+          "id": "2",
+          "image_url_1x": "https://i.ibb.co/QFDZC2hM/2Month.png"
+        },
+        {
+          "id": "3",
+          "image_url_1x": "https://i.ibb.co/XZRpY6wB/3Month.png"
+        },
+        {
+          "id": "6",
+          "image_url_1x": "https://i.ibb.co/n8MnLxtv/6Month.png"
+        },
+        {
+          "id": "9",
+          "image_url_1x": "https://i.ibb.co/yFhqnS0T/9Month.png"
+        },
+        {
+          "id": "12",
+          "image_url_1x": "https://i.ibb.co/S7cn0d89/12Month.png"
+        }
+      ]
+    },
+    {
+      "set_id": "predictions",
+      "versions": [
+        {
+          "id": "pink-1",
+          "image_url_1x": "https://i.ibb.co/ks0fsXjz/predict-1-pink.png"
+        },
+        {
+          "id": "pink-2",
+          "image_url_1x": "https://i.ibb.co/1trxNDqb/predict-2-pink.png"
+        },
+        {
+          "id": "gray-1",
+          "image_url_1x": "https://i.ibb.co/Txz0qvY0/predict-1-gray.png"
+        },
+        {
+          "id": "gray-2",
+          "image_url_1x": "https://i.ibb.co/k2wpf2xC/predict-2-gray.png"
+        },
+        {
+          "id": "blue-1",
+          "image_url_1x": "https://i.ibb.co/zV88xdQc/predict-1-blue.png"
+        },
+        {
+          "id": "blue-2",
+          "image_url_1x": "https://i.ibb.co/Hpk9ydpx/predict-2-blue.png"
+        },
+        {
+          "id": "blue-3",
+          "image_url_1x": "https://i.ibb.co/1YVpsB7d/predict-3-blue.png"
+        },
+        {
+          "id": "blue-4",
+          "image_url_1x": "https://i.ibb.co/1GsR0FY0/predict-4-blue.png"
+        },
+        {
+          "id": "blue-5",
+          "image_url_1x": "https://i.ibb.co/dNt888k/predict-5-blue.png"
+        },
+        {
+          "id": "blue-6",
+          "image_url_1x": "https://i.ibb.co/DPrHNTgt/predict-6-blue.png"
+        },
+        {
+          "id": "blue-7",
+          "image_url_1x": "https://i.ibb.co/XrTSrqT1/predict-7-blue.png"
+        },
+        {
+          "id": "blue-8",
+          "image_url_1x": "https://i.ibb.co/9B9YMk3/predict-8-blue.png"
+        },
+        {
+          "id": "blue-9",
+          "image_url_1x": "https://i.ibb.co/VYCvBQTc/predict-9-blue.png"
+        },
+        {
+          "id": "blue-10",
+          "image_url_1x": "https://i.ibb.co/1tP967Gg/predict-10-blue.png"
+        }
+      ]
+    },
+    {
+      "set_id": "sub-gifter",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/6RhWHJ1J/Gifted-1.png"
+        },
+        {
+          "id": "5",
+          "image_url_1x": "https://i.ibb.co/v64X27qS/Gifted-5.png"
+        },
+        {
+          "id": "10",
+          "image_url_1x": "https://i.ibb.co/mFbppXN0/Gifted-10.png"
+        },
+        {
+          "id": "25",
+          "image_url_1x": "https://i.ibb.co/WpfwQ9Zy/Gifted-25.png"
+        },
+        {
+          "id": "50",
+          "image_url_1x": "https://i.ibb.co/VcQ4BWT1/Gifted-50.png"
+        },
+        {
+          "id": "100",
+          "image_url_1x": "https://i.ibb.co/LX931sWz/Gifted-100.png"
+        },
+        {
+          "id": "150",
+          "image_url_1x": "https://i.ibb.co/XrrvcKTH/Gifted-150.png"
+        },
+        {
+          "id": "200",
+          "image_url_1x": "https://i.ibb.co/1tGL4w7J/Gifted-200.png"
+        },
+        {
+          "id": "250",
+          "image_url_1x": "https://i.ibb.co/Z6cXtCKH/Gifted-250.png"
+        },
+        {
+          "id": "300",
+          "image_url_1x": "https://i.ibb.co/jv4W3Dvr/Gifted-300.png"
+        },
+        {
+          "id": "350",
+          "image_url_1x": "https://i.ibb.co/7dzjXK6N/Gifted-350.png"
+        },
+        {
+          "id": "400",
+          "image_url_1x": "https://i.ibb.co/vvQxBQ92/Gifted-400.png"
+        },
+        {
+          "id": "450",
+          "image_url_1x": "https://i.ibb.co/Y4J5RYWX/Gifted-450.png"
+        },
+        {
+          "id": "500",
+          "image_url_1x": "https://i.ibb.co/rfzgqttr/Gifted-500.png"
+        },
+        {
+          "id": "550",
+          "image_url_1x": "https://i.ibb.co/Ng9z8dt7/Gifted-550.png"
+        },
+        {
+          "id": "600",
+          "image_url_1x": "https://i.ibb.co/4ZYL0nHS/Gifted-600.png"
+        },
+        {
+          "id": "650",
+          "image_url_1x": "https://i.ibb.co/214mLtzm/Gifted-650.png"
+        },
+        {
+          "id": "700",
+          "image_url_1x": "https://i.ibb.co/CrTBMbp/Gifted-700.png"
+        },
+        {
+          "id": "750",
+          "image_url_1x": "https://i.ibb.co/PvQ1GRB4/Gifted-750.png"
+        },
+        {
+          "id": "800",
+          "image_url_1x": "https://i.ibb.co/mCNcykLx/Gifted-800.png"
+        },
+        {
+          "id": "850",
+          "image_url_1x": "https://i.ibb.co/HfMXg42Z/Gifted-850.png"
+        },
+        {
+          "id": "900",
+          "image_url_1x": "https://i.ibb.co/TDvDk3xP/Gifted-900.png"
+        },
+        {
+          "id": "950",
+          "image_url_1x": "https://i.ibb.co/pjMWZNN6/Gifted-950.png"
+        },
+        {
+          "id": "1000",
+          "image_url_1x": "https://i.ibb.co/tp1MCwHc/Gifted-1000.png"
+        },
+        {
+          "id": "2000",
+          "image_url_1x": "https://i.ibb.co/vxgSfXK3/Gifted-2000.png"
+        },
+        {
+          "id": "3000",
+          "image_url_1x": "https://i.ibb.co/pjbNk5ft/Gifted-3000.png"
+        },
+        {
+          "id": "4000",
+          "image_url_1x": "https://i.ibb.co/fYj2G3MT/Gifted-4000.png"
+        },
+        {
+          "id": "5000",
+          "image_url_1x": "https://i.ibb.co/NnQVTLYd/Gifted-5000.png"
+        }
+      ]
+    },
+    {
+      "set_id": "bits",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/TDDhc2GD/1.png"
+        },
+        {
+          "id": "100",
+          "image_url_1x": "https://i.ibb.co/XZSyy2Sj/100.png"
+        },
+        {
+          "id": "1000",
+          "image_url_1x": "https://i.ibb.co/60ZtbnSG/1k.png"
+        },
+        {
+          "id": "5000",
+          "image_url_1x": "https://i.ibb.co/C3Kvp0j3/5k.png"
+        },
+        {
+          "id": "10000",
+          "image_url_1x": "https://i.ibb.co/0yWJXmfP/10k.png"
+        },
+        {
+          "id": "25000",
+          "image_url_1x": "https://i.ibb.co/mrphLGMw/25k.png"
+        },
+        {
+          "id": "50000",
+          "image_url_1x": "https://i.ibb.co/jvP5GkhQ/50k.png"
+        },
+        {
+          "id": "75000",
+          "image_url_1x": "https://i.ibb.co/6R2Rgf2k/75k.png"
+        },
+        {
+          "id": "100000",
+          "image_url_1x": "https://i.ibb.co/q393g3v5/100k.png"
+        },
+        {
+          "id": "200000",
+          "image_url_1x": "https://i.ibb.co/zHDkns88/200k.png"
+        },
+        {
+          "id": "300000",
+          "image_url_1x": "https://i.ibb.co/NgXBL4Z2/300k.png"
+        },
+        {
+          "id": "400000",
+          "image_url_1x": "https://i.ibb.co/rfqYKwF2/400k.png"
+        },
+        {
+          "id": "500000",
+          "image_url_1x": "https://i.ibb.co/GvVw0wyC/500k.png"
+        },
+        {
+          "id": "600000",
+          "image_url_1x": "https://i.ibb.co/8nBCf3kp/600k.png"
+        },
+        {
+          "id": "700000",
+          "image_url_1x": "https://i.ibb.co/s9yhbfGj/700k.png"
+        },
+        {
+          "id": "800000",
+          "image_url_1x": "https://i.ibb.co/0ys1V2XK/800k.png"
+        },
+        {
+          "id": "900000",
+          "image_url_1x": "https://i.ibb.co/8n2RjWsN/900k.png"
+        },
+        {
+          "id": "1000000",
+          "image_url_1x": "https://i.ibb.co/WWwGkNHt/1M.png"
+        },
+        {
+          "id": "1250000",
+          "image_url_1x": "https://i.ibb.co/nqFPHqfx/1M250k.png"
+        },
+        {
+          "id": "1500000",
+          "image_url_1x": "https://i.ibb.co/cXJrBsrP/1M500k.png"
+        },
+        {
+          "id": "1750000",
+          "image_url_1x": "https://i.ibb.co/hxNgDRVZ/1M750k.png"
+        },
+        {
+          "id": "2000000",
+          "image_url_1x": "https://i.ibb.co/x8ChGNgK/2M.png"
+        },
+        {
+          "id": "2500000",
+          "image_url_1x": "https://i.ibb.co/1fwfgPLf/2M500k.png"
+        },
+        {
+          "id": "3000000",
+          "image_url_1x": "https://i.ibb.co/8LyLNrQg/3M.png"
+        },
+        {
+          "id": "3500000",
+          "image_url_1x": "https://i.ibb.co/B5Dp21qy/3M500k.png"
+        },
+        {
+          "id": "4000000",
+          "image_url_1x": "https://i.ibb.co/TM3VJgY4/4M.png"
+        },
+        {
+          "id": "4500000",
+          "image_url_1x": "https://i.ibb.co/zhYbcgWw/4M500k.png"
+        },
+        {
+          "id": "5000000",
+          "image_url_1x": "https://i.ibb.co/rRYYVgwn/5M.png"
         }
       ]
     }
