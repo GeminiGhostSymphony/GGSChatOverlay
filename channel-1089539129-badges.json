@@ -5,19 +5,31 @@
       "versions": [
         {
           "id": "0",
-          "image_url_1x": "https://cdn2.frankerfacez.com/static/badges/twitch/2/subscriber/0/1.png"
+          "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
         },
         {
           "id": "1",
-          "image_url_1x": "https://cdn2.frankerfacez.com/static/badges/twitch/2/subscriber/0/1.png"
+          "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
         },
         {
           "id": "2",
-          "image_url_1x": "https://cdn2.frankerfacez.com/static/badges/twitch/2/subscriber/0/1.png"
+          "image_url_1x": "https://i.ibb.co/QFDZC2hM/2Month.png"
         },
         {
           "id": "3",
-          "image_url_1x": "https://cdn2.frankerfacez.com/static/badges/twitch/2/subscriber/0/1.png"
+          "image_url_1x": "https://i.ibb.co/XZRpY6wB/3Month.png"
+        },
+        {
+          "id": "6",
+          "image_url_1x": "https://i.ibb.co/n8MnLxtv/6Month.png"
+        },
+        {
+          "id": "9",
+          "image_url_1x": "https://i.ibb.co/yFhqnS0T/9Month.png"
+        },
+        {
+          "id": "12",
+          "image_url_1x": "https://i.ibb.co/S7cn0d89/12Month.png"
         }
       ]
     }
