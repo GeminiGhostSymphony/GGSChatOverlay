@@ -2035,6 +2035,15 @@
           "image_url_1x": "https://i.ibb.co/KjnP31Lq/Arc-Raiders-Launch2025.png"
         }
       ]
+    },
+    {
+      "set_id": "black-ops-7-global-launch",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/Gf9zJDqm/Black-Ops7-Global-Launch.png"
+        }
+      ]
     }
   ]
 }
