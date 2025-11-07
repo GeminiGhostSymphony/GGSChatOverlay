@@ -1,12 +1,12 @@
 {
-  "version": "2025-11-07T20:40:46.586Z",
+  "version": "2025-11-07T20:45:43.009Z",
   "global_badges": {
     "version": "2025-11-07T20:40:46.586Z",
     "url": "https://raw.githubusercontent.com/GeminiGhostSymphony/GGSChatOverlay/refs/heads/main/global-badges.json"
   },
   "channels": {
     "1089539129": {
-      "version": "2025-11-03T00:00:47.264Z",
+      "version": "2025-11-07T20:45:43.009Z",
       "url": "https://raw.githubusercontent.com/GeminiGhostSymphony/GGSChatOverlay/refs/heads/main/channel-1089539129-badges.json"
     }
   }
