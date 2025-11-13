@@ -2057,6 +2057,15 @@
           "image_url_1x": "https://i.ibb.co/Gf9zJDqm/Black-Ops7-Global-Launch.png"
         }
       ]
+    },
+    {
+      "set_id": "stream-for-humanity-2-2025",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/chJ7nhvc/streamforhumanity20252.png"
+        }
+      ]
     }
   ]
 }
