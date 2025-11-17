@@ -2066,6 +2066,42 @@
           "image_url_1x": "https://i.ibb.co/chJ7nhvc/streamforhumanity20252.png"
         }
       ]
+    },
+    {
+      "set_id": "together-for-good-25---good-badge",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/99NHXdHR/Together-For-Good25-Good.png"
+        }
+      ]
+    },
+    {
+      "set_id": "together-for-good-25---gooder-badge",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/XxkHnBh5/Together-For-Good25-Gooder.png"
+        }
+      ]
+    },
+    {
+      "set_id": "together-for-good-25---goodest-badge",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/67KjhT8g/Together-For-Good25-Goodest.png"
+        }
+      ]
+    },
+    {
+      "set_id": "together-for-good-25---wicked-dub-badge",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/GfLW49VR/Together-For-Good25-Wicked.png"
+        }
+      ]
     }
   ]
 }
