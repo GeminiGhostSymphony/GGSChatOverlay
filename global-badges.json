@@ -2102,6 +2102,15 @@
           "image_url_1x": "https://i.ibb.co/GfLW49VR/Together-For-Good25-Wicked.png"
         }
       ]
+    },
+    {
+      "set_id": "survival-cup-4",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/9kLTk49y/Survival-Cup4.png"
+        }
+      ]
     }
   ]
 }
