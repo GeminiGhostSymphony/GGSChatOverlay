@@ -2111,6 +2111,24 @@
           "image_url_1x": "https://i.ibb.co/9kLTk49y/Survival-Cup4.png"
         }
       ]
+    },
+    {
+      "set_id": "dragonscimmy",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/3y3GfHHt/Dragon-Scimmy.png"
+        }
+      ]
+    },
+    {
+      "set_id": "rainbow-six-siege-x-10th-anniversary",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/vxcb3P1k/Rainbow-Six-Siege-X.png"
+        }
+      ]
     }
   ]
 }
