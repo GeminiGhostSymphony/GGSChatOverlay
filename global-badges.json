@@ -2129,6 +2129,33 @@
           "image_url_1x": "https://i.ibb.co/vxcb3P1k/Rainbow-Six-Siege-X.png"
         }
       ]
+    },
+    {
+      "set_id": "ugly-sweater",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/1tNCnQc6/Ugly-Sweater.png"
+        }
+      ]
+    },
+    {
+      "set_id": "streamer-awards-tux",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/tMPd4n7J/Streamer-Awards-2025.png"
+        }
+      ]
+    },
+    {
+      "set_id": "twitch-recap-2025",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/Z60kGwP9/Twitch-Recap2025.png"
+        }
+      ]
     }
   ]
 }
