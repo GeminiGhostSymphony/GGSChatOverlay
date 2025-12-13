@@ -64,6 +64,15 @@
       ]
     },
     {
+      "set_id": "lead_moderator",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/0ypCqf3J/Lead-Moderator.png"
+        }
+      ]
+    },
+    {
       "set_id": "moderator",
       "versions": [
         {
@@ -2154,6 +2163,132 @@
         {
           "id": "1",
           "image_url_1x": "https://i.ibb.co/Z60kGwP9/Twitch-Recap2025.png"
+        }
+      ]
+    },
+    {
+      "set_id": "total-war-anniversary",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/gZzkP2p8/Total-War-Anniversary.png"
+        }
+      ]
+    },
+    {
+      "set_id": "revedtv-stream-awards-2025",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/sptcc3x6/Reved-TVStream-Awards2025.png"
+        }
+      ]
+    },
+    {
+      "set_id": "rustmas-2025",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/236xcYRw/Rustmas2025.png"
+        }
+      ]
+    },
+    {
+      "set_id": "k4sen-con-2025",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/6ccCcZGg/K4-SENCon2025.png"
+        }
+      ]
+    },
+    {
+      "set_id": "jeff-the-land-shark",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/Spt6X8T/Jeff-The-Land-Shark.png"
+        }
+      ]
+    },
+    {
+      "set_id": "raider-icon-badge",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/XrcjqZdv/Raider-Icon.png"
+        }
+      ]
+    },
+    {
+      "set_id": "hunt-crosses",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/70R8D7P/Hunt-Crosses.png"
+        }
+      ]
+    },
+    {
+      "set_id": "support-a-streamer-ho26-badge",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/KcJDkcSQ/Support-Streamer-HO26.png"
+        }
+      ]
+    },
+    {
+      "set_id": "frog-lantern",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/FLjwSTPS/Frog-Lantern.png"
+        }
+      ]
+    },
+    {
+      "set_id": "tft-paris-open",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/pqwgXWf/TFTParis-Open.png"
+        }
+      ]
+    },
+    {
+      "set_id": "diana",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/qLH6DvB3/Diana.png"
+        }
+      ]
+    },
+    {
+      "set_id": "5-years-as-twitch-staff",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/hFYP79Wx/Twitch-Staff05-Years.png"
+        }
+      ]
+    },
+    {
+      "set_id": "10-years-as-twitch-staff",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/nqVtnLqP/Twitch-Staff10-Years.png"
+        }
+      ]
+    },
+    {
+      "set_id": "15-years-as-twitch-staff",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/nMBKsMy3/Twitch-Staff15-Years.png"
         }
       ]
     }
