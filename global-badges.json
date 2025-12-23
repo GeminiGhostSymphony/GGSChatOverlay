@@ -2291,6 +2291,24 @@
           "image_url_1x": "https://i.ibb.co/nMBKsMy3/Twitch-Staff15-Years.png"
         }
       ]
+    },
+    {
+      "set_id": "fallout-season-2-ghoul",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/wN9NbZTq/Fallout-Season2-Ghoul.png"
+        }
+      ]
+    },
+    {
+      "set_id": "purple-noob",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/zWk9bzDp/Purple-Noob.png"
+        }
+      ]
     }
   ]
 }
