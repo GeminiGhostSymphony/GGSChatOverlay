@@ -3,7 +3,7 @@
 This repository contains an automated system to track and update Twitch Global Badges, including event-specific and limited-time badges.
 
 ## How it Works
-1. **Scraping:** A Python script runs every 15 minutes via GitHub Actions.
+1. **Scraping:** A Python script runs every hour via GitHub Actions.
 2. **Detection:** It scrapes StreamDatabase to find new `set_id`s or `versions`.
 3. **High Resolution:** It automatically converts Twitch CDN URLs to Size 3 (72x72px) for maximum quality.
 4. **Data Integrity:**
