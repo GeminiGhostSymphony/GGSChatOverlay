@@ -18,7 +18,7 @@ DISCORD_WEBHOOK = os.getenv("DISCORD_WEBHOOK")
 
 def notify_discord(message, image_url=None):
     if not DISCORD_WEBHOOK: return
-    payload = {"username": "GGS Badge Tracker", "content": message}
+    payload = {"username": "Badge Bot", "content": message}
     if image_url:
         payload["embeds"] = [{"image": {"url": image_url}, "color": 10181046}]
     try:
