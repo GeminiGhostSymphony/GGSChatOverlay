@@ -63,44 +63,92 @@ def get_scraped_data():
     return scraped
 
 def sync():
-    if not os.path.exists(JSON_FILE): return
-    with open(JSON_FILE, 'r', encoding='utf-8') as f:
-        try: db = json.load(f)
-        except: return
+    """Synchronizes local JSON file with newly scraped badge data."""
+    if not os.path.exists(JSON_FILE):
+        db = {"global": []}
+    else:
+        with open(JSON_FILE, 'r', encoding='utf-8') as f:
+            try:
+                db = json.load(f)
+            except:
+                db = {"global": []}
     
     scraped = get_scraped_data()
-    lookup = {(b['set_id'], b['id']): b for b in scraped}
+    # Normalize scraped data into a lookup table for repairs
+    lookup = {(b['set_id'], str(b['id'])): b for b in scraped}
     changed = False
 
-    # Check 10% of existing + any broken ones
+    # Map existing badges to prevent duplicates, usubf a set of (set_id, version_id) tuples for O(1) lookups
+    existing_combinations = set()
     if "global" in db:
         for item in db["global"]:
-            sid = item.get("set_id")
+            sid = str(item.get("set_id"))
+            for v in item.get("versions", []):
+                existing_combinations.add((sid, str(v.get("id"))))
+
+    # Repair Existing/Broken Links
+    if "global" in db:
+        for item in db["global"]:
+            sid = str(item.get("set_id"))
             for v in item.get("versions", []):
                 vid = str(v.get("id"))
+                # Randomly check 10% for updates, or always check if broken
                 if random.random() < 0.10 or is_url_broken(v.get("image_url_1x")):
-                    if is_url_broken(v.get("image_url_1x")):
-                        fresh = lookup.get((sid, vid))
-                        if fresh:
-                            v.update({"image_url_1x": fresh["url"], "image_url_2x": fresh["url"], "image_url_4x": fresh["url"]})
-                            changed = True
-                            notify_discord(f"🔧 Repaired link: `{sid}` ({vid})", fresh["url"])
+                    fresh = lookup.get((sid, vid))
+                    if fresh and v.get("image_url_1x") != fresh["url"]:
+                        v.update({
+                            "image_url_1x": fresh["url"], 
+                            "image_url_2x": fresh["url"], 
+                            "image_url_4x": fresh["url"]
+                        })
+                        changed = True
+                        print(f"Repaired: {sid} v{vid}")
 
-    # Add New Badges
+    # 3. Add New Badges & Versions
     for b in scraped:
-        target = next((i for i in db.get("global", []) if i["set_id"] == b["set_id"]), None)
+        sid = str(b["set_id"])
+        vid = str(b["id"])
+        
+        # SKIP if this specific set and version already exists
+        if (sid, vid) in existing_combinations:
+            continue
+
+        target = next((i for i in db.get("global", []) if str(i["set_id"]) == sid), None)
+        
         if not target:
-            db["global"].append({"set_id": b["set_id"], "versions": [{"id": b["id"], "image_url_1x": b["url"], "image_url_2x": b["url"], "image_url_4x": b["url"]}]})
+            # Add an entirely new badge set
+            db["global"].append({
+                "set_id": sid, 
+                "versions": [{
+                    "id": vid, 
+                    "image_url_1x": b["url"], 
+                    "image_url_2x": b["url"], 
+                    "image_url_4x": b["url"]
+                }]
+            })
             changed = True
             notify_discord(f"🚀 New Badge Set: `{b['name']}`", b["url"])
-        elif not any(str(v["id"]) == b["id"] for v in target["versions"]):
-            target["versions"].append({"id": b["id"], "image_url_1x": b["url"], "image_url_2x": b["url"], "image_url_4x": b["url"]})
+        else:
+            # Add a new version to an existing set
+            target["versions"].append({
+                "id": vid, 
+                "image_url_1x": b["url"], 
+                "image_url_2x": b["url"], 
+                "image_url_4x": b["url"]
+            })
             changed = True
-            notify_discord(f"✨ New Version Detected: `{b['set_id']}` ({b['id']})", b["url"])
+            notify_discord(f"✨ New Version Detected: `{sid}` ({vid})", b["url"])
+        
+        # Add to seen set to prevent internal duplicates during the same run
+        existing_combinations.add((sid, vid))
 
+    # Save changes back to file
     if changed:
         with open(JSON_FILE, 'w', encoding='utf-8') as f:
             json.dump(db, f, indent=4, ensure_ascii=False, sort_keys=False)
+        print("Sync complete. Changes saved.")
+    else:
+        print("Sync complete. No changes needed.")
 
 if __name__ == "__main__":
     sync()
