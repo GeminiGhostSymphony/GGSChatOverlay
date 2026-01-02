@@ -11,7 +11,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     permissions:
       contents: write
     steps:
@@ -24,12 +24,14 @@ jobs:
           python-version: '3.10'
           cache: 'pip'
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 cloudscraper
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
       - name: Heartbeat Notification
         if: always()
         run: |
           curl -H "Content-Type: application/json" \
-          -d '{"username": "Badge Bot", "content": "💓 **Heartbeat:** Badge sync started."}' \
+          -d '{"username": "Badge Bot", "content": "▶️ **Syncing:** Badge sync started."}' \
           ${{ secrets.DISCORD_WEBHOOK }}
       - name: Run Sync
         env:
