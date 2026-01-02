@@ -87,31 +87,27 @@ def is_url_broken(url):
 
 def sync():
     try:
-        if not os.path.exists(JSON_FILE):
-            db = {"global": []}
-        else:
+        db = {"global": []}
+        if os.path.exists(JSON_FILE):
             with open(JSON_FILE, 'r', encoding='utf-8') as f:
                 db = json.load(f)
 
         scraped = get_scraped_data()
-        if not scraped:
-            raise Exception("No data could be scraped. Site may be down or protection too strong.")
+        if not scraped: raise Exception("Scrape empty.")
 
         lookup = {(b['set_id'], str(b['id'])): b for b in scraped}
-        changed = False
-        existing_combinations = set()
+        changed, existing_combinations = False, set()
 
-        if "global" in db:
-            for item in db["global"]:
-                sid = str(item.get("set_id"))
-                for v in item.get("versions", []):
-                    vid = str(v.get("id"))
-                    existing_combinations.add((sid, vid))
-                    if is_url_broken(v.get("image_url_1x")):
-                        fresh = lookup.get((sid, vid))
-                        if fresh:
-                            v.update({"image_url_1x": fresh["url"], "image_url_2x": fresh["url"], "image_url_4x": fresh["url"]})
-                            changed = True
+        for item in db.get("global", []):
+            sid = str(item.get("set_id"))
+            for v in item.get("versions", []):
+                vid = str(v.get("id"))
+                existing_combinations.add((sid, vid))
+                if is_url_broken(v.get("image_url_1x")):
+                    fresh = lookup.get((sid, vid))
+                    if fresh:
+                        v.update({"image_url_1x": fresh["url"], "image_url_2x": fresh["url"], "image_url_4x": fresh["url"]})
+                        changed = True
 
         for b in scraped:
             sid, vid = str(b["set_id"]), str(b["id"])
@@ -124,16 +120,17 @@ def sync():
             else:
                 target["versions"].append(new_v)
                 notify_discord(f"✨ New Version Detected: `{sid}` ({vid})", b["url"])
-            changed = True
-            existing_combinations.add((sid, vid))
+            changed, existing_combinations.add((sid, vid))
 
         if changed:
             with open(JSON_FILE, 'w', encoding='utf-8') as f:
                 json.dump(db, f, indent=4, ensure_ascii=False)
-            print("Sync successful.")
+            print("Changes detected and saved.")
+        else:
+            print("No changes found.")
     except Exception as e:
-        print(f"Sync error: {e}")
-        raise # Rethrow to trigger GitHub Actions failure step
+        print(f"Error: {e}")
+        raise
 
 if __name__ == "__main__":
     sync()
