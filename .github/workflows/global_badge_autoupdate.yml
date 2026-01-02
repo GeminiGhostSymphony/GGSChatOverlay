@@ -29,6 +29,7 @@ jobs:
         run: python update_global_badges.py
       - name: Deploy
         run: |
+          git config --global --add safe.directory /github/workspace
           git config --global user.name "Global-Badges-Automator"
           git config --global user.email "bot@github.com"
           git pull --rebase origin main
