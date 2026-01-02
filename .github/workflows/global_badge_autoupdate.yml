@@ -25,6 +25,12 @@ jobs:
           cache: 'pip'
       - name: Install dependencies
         run: pip install requests beautifulsoup4 cloudscraper
+      - name: Heartbeat Notification
+        if: always()
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{"username": "Badge Bot", "content": "💓 **Heartbeat:** Badge sync started."}' \
+          ${{ secrets.DISCORD_WEBHOOK }}
       - name: Run Sync
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
@@ -38,3 +44,15 @@ jobs:
           git add global-badges.json
           git commit -m "Auto-sync and repair [Skip CI]" || exit 0
           git push origin main
+      - name: No New Badges Notification
+        if: steps.deploy.outputs.changes == 'false'
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{"username": "Badge Bot", "content": "✅ **Sync Complete:** No new badges found."}' \
+          ${{ secrets.DISCORD_WEBHOOK }}
+      - name: Failure Notification
+        if: failure()
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{"username": "Badge Bot", "content": "⚠️ **ERROR:** Global Badge Sync failed. Check GitHub Actions logs."}' \
+          ${{ secrets.DISCORD_WEBHOOK }}
