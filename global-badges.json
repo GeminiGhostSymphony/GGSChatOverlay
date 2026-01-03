@@ -2318,7 +2318,9 @@
             "versions": [
                 {
                     "id": "1",
-                    "image_url_1x": "https://i.ibb.co/zWk9bzDp/Purple-Noob.png"
+                    "image_url_1x": "https://i.ibb.co/zWk9bzDp/Purple-Noob.png",
+                    "image_url_2x": "https://i.ibb.co/zWk9bzDp/Purple-Noob.png",
+                    "image_url_4x": "https://i.ibb.co/zWk9bzDp/Purple-Noob.png"
                 }
             ]
         },
