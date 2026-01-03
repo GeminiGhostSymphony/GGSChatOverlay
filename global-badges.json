@@ -1,2314 +1,2442 @@
 {
-  "global": [
-    {
-      "set_id": "premium",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/TD76LMgn/Prime.png"
-        }
-      ]
-    },
-    {
-      "set_id": "turbo",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Pv7cWT8L/Turbo.png"
-        }
-      ]
-    },
-    {
-      "set_id": "partner",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/HL4DKcfH/Partner.png"
-        }
-      ]
-    },
-    {
-      "set_id": "ambassador",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/0ykThCkc/Ambassador.png"
-        }
-      ]
-    },
-    {
-      "set_id": "no_video",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/v4v3ZZBD/NoVideo.png"
-        }
-      ]
-    },
-    {
-      "set_id": "no_audio",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/kVTDwnr5/NoAudio.png"
-        }
-      ]
-    },
-    {
-      "set_id": "broadcaster",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/xqKD9dng/Broadcaster.png"
-        }
-      ]
-    },
-    {
-      "set_id": "lead_moderator",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/0ypCqf3J/Lead-Moderator.png"
-        }
-      ]
-    },
-    {
-      "set_id": "moderator",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/tPm66MCX/Moderator.png"
-        }
-      ]
-    },
-    {
-      "set_id": "vip",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zhPL3tPd/VIP.png"
-        }
-      ]
-    },
-    {
-      "set_id": "founder",
-      "versions": [
-        {
-          "id": "0",
-          "image_url_1x": "https://i.ibb.co/hFfm7vQr/Founder.png"
-        }
-      ]
-    },
-    {
-      "set_id": "artist-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zHsHT9K4/Artist.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitch-dj",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/7JXJ0v8g/DJ.png"
-        }
-      ]
-    },
-    {
-      "set_id": "bot-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/N2rk4d7r/Chat-Bot.png"
-        }
-      ]
-    },
-    {
-      "set_id": "staff",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/yBN3tGm7/Twitch-Staff.png"
-        }
-      ]
-    },
-    {
-      "set_id": "extension",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/LzJvk1JH/Extension.png"
-        }
-      ]
-    },
-    {
-      "set_id": "game-developer",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/0Vp4FTdz/Game-Developer.png"
-        }
-      ]
-    },
-    {
-      "set_id": "clip-champ",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/kVhn0MDP/Power-Clipper.png"
-        }
-      ]
-    },
-    {
-      "set_id": "hype-train",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/6ckM5Zj4/Hype-Conductor.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/LdHzGQ9X/Former-Hype-Conductor.png"
-        }
-      ]
-    },
-    {
-      "set_id": "sub-gift-leader",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/C3hgdkCG/Gift-Leader-Gold.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/WpzV2FRN/Gift-Leader-Silver.png"
-        },
-        {
-          "id": "3",
-          "image_url_1x": "https://i.ibb.co/Fk5KZMZs/Gift-Leader-Bronze.png"
-        }
-      ]
-    },
-    {
-      "set_id": "clips-leader",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/fGpcNqS5/Clips-Leader-Gold.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/MkCY4ZWf/Clips-Leader-Silver.png"
-        },
-        {
-          "id": "3",
-          "image_url_1x": "https://i.ibb.co/RTPc2Vr5/Clips-Leader-Bronze.png"
-        }
-      ]
-    },
-    {
-      "set_id": "bits-leader",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/svrFfXhz/Bits-Leader-Gold.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/pjN2pptj/Bits-Leader-Silver.png"
-        },
-        {
-          "id": "3",
-          "image_url_1x": "https://i.ibb.co/23SPSX6b/Bits-Leader-Bronze.png"
-        }
-      ]
-    },
-    {
-      "set_id": "social-sharing",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/RG7yxFsw/Social-Media-Icon.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/7dkG83x5/Social-Media-Pro.png"
-        },
-        {
-          "id": "3",
-          "image_url_1x": "https://i.ibb.co/zhMmBKgG/Social-Media-Legend.png"
-        }
-      ]
-    },
-    {
-      "set_id": "subscriber",
-      "versions": [
-        {
-          "id": "0",
-          "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
-        },
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/QFDZC2hM/2Month.png"
-        },
-        {
-          "id": "3",
-          "image_url_1x": "https://i.ibb.co/XZRpY6wB/3Month.png"
-        },
-        {
-          "id": "6",
-          "image_url_1x": "https://i.ibb.co/n8MnLxtv/6Month.png"
-        },
-        {
-          "id": "9",
-          "image_url_1x": "https://i.ibb.co/yFhqnS0T/9Month.png"
-        },
-        {
-          "id": "12",
-          "image_url_1x": "https://i.ibb.co/S7cn0d89/12Month.png"
-        }
-      ]
-    },
-    {
-      "set_id": "badge-flair",
-      "versions": [
-        {
-          "id": "2000",
-          "image_url_1x": "https://i.ibb.co/TxSs8tS3/Tier2-Flair.png"
-        },
-        {
-          "id": "3000",
-          "image_url_1x": "https://i.ibb.co/sdBYzh1r/Tier3-Flair.png"
-        }
-      ]
-    },
-    {
-      "set_id": "predictions",
-      "versions": [
-        {
-          "id": "pink-1",
-          "image_url_1x": "https://i.ibb.co/ks0fsXjz/predict-1-pink.png"
-        },
-        {
-          "id": "pink-2",
-          "image_url_1x": "https://i.ibb.co/1trxNDqb/predict-2-pink.png"
-        },
-        {
-          "id": "gray-1",
-          "image_url_1x": "https://i.ibb.co/Txz0qvY0/predict-1-gray.png"
-        },
-        {
-          "id": "gray-2",
-          "image_url_1x": "https://i.ibb.co/k2wpf2xC/predict-2-gray.png"
-        },
-        {
-          "id": "blue-1",
-          "image_url_1x": "https://i.ibb.co/zV88xdQc/predict-1-blue.png"
-        },
-        {
-          "id": "blue-2",
-          "image_url_1x": "https://i.ibb.co/Hpk9ydpx/predict-2-blue.png"
-        },
-        {
-          "id": "blue-3",
-          "image_url_1x": "https://i.ibb.co/1YVpsB7d/predict-3-blue.png"
-        },
-        {
-          "id": "blue-4",
-          "image_url_1x": "https://i.ibb.co/1GsR0FY0/predict-4-blue.png"
-        },
-        {
-          "id": "blue-5",
-          "image_url_1x": "https://i.ibb.co/dNt888k/predict-5-blue.png"
-        },
-        {
-          "id": "blue-6",
-          "image_url_1x": "https://i.ibb.co/DPrHNTgt/predict-6-blue.png"
-        },
-        {
-          "id": "blue-7",
-          "image_url_1x": "https://i.ibb.co/XrTSrqT1/predict-7-blue.png"
-        },
-        {
-          "id": "blue-8",
-          "image_url_1x": "https://i.ibb.co/9B9YMk3/predict-8-blue.png"
-        },
-        {
-          "id": "blue-9",
-          "image_url_1x": "https://i.ibb.co/VYCvBQTc/predict-9-blue.png"
-        },
-        {
-          "id": "blue-10",
-          "image_url_1x": "https://i.ibb.co/1tP967Gg/predict-10-blue.png"
-        }
-      ]
-    },
-    {
-      "set_id": "sub-gifter",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/6RhWHJ1J/Gifted-1.png"
-        },
-        {
-          "id": "5",
-          "image_url_1x": "https://i.ibb.co/v64X27qS/Gifted-5.png"
-        },
-        {
-          "id": "10",
-          "image_url_1x": "https://i.ibb.co/mFbppXN0/Gifted-10.png"
-        },
-        {
-          "id": "25",
-          "image_url_1x": "https://i.ibb.co/WpfwQ9Zy/Gifted-25.png"
-        },
-        {
-          "id": "50",
-          "image_url_1x": "https://i.ibb.co/VcQ4BWT1/Gifted-50.png"
-        },
-        {
-          "id": "100",
-          "image_url_1x": "https://i.ibb.co/LX931sWz/Gifted-100.png"
-        },
-        {
-          "id": "150",
-          "image_url_1x": "https://i.ibb.co/XrrvcKTH/Gifted-150.png"
-        },
-        {
-          "id": "200",
-          "image_url_1x": "https://i.ibb.co/1tGL4w7J/Gifted-200.png"
-        },
-        {
-          "id": "250",
-          "image_url_1x": "https://i.ibb.co/Z6cXtCKH/Gifted-250.png"
-        },
-        {
-          "id": "300",
-          "image_url_1x": "https://i.ibb.co/jv4W3Dvr/Gifted-300.png"
-        },
-        {
-          "id": "350",
-          "image_url_1x": "https://i.ibb.co/7dzjXK6N/Gifted-350.png"
-        },
-        {
-          "id": "400",
-          "image_url_1x": "https://i.ibb.co/vvQxBQ92/Gifted-400.png"
-        },
-        {
-          "id": "450",
-          "image_url_1x": "https://i.ibb.co/Y4J5RYWX/Gifted-450.png"
-        },
-        {
-          "id": "500",
-          "image_url_1x": "https://i.ibb.co/rfzgqttr/Gifted-500.png"
-        },
-        {
-          "id": "550",
-          "image_url_1x": "https://i.ibb.co/Ng9z8dt7/Gifted-550.png"
-        },
-        {
-          "id": "600",
-          "image_url_1x": "https://i.ibb.co/4ZYL0nHS/Gifted-600.png"
-        },
-        {
-          "id": "650",
-          "image_url_1x": "https://i.ibb.co/214mLtzm/Gifted-650.png"
-        },
-        {
-          "id": "700",
-          "image_url_1x": "https://i.ibb.co/CrTBMbp/Gifted-700.png"
-        },
-        {
-          "id": "750",
-          "image_url_1x": "https://i.ibb.co/PvQ1GRB4/Gifted-750.png"
-        },
-        {
-          "id": "800",
-          "image_url_1x": "https://i.ibb.co/mCNcykLx/Gifted-800.png"
-        },
-        {
-          "id": "850",
-          "image_url_1x": "https://i.ibb.co/HfMXg42Z/Gifted-850.png"
-        },
-        {
-          "id": "900",
-          "image_url_1x": "https://i.ibb.co/TDvDk3xP/Gifted-900.png"
-        },
-        {
-          "id": "950",
-          "image_url_1x": "https://i.ibb.co/pjMWZNN6/Gifted-950.png"
-        },
-        {
-          "id": "1000",
-          "image_url_1x": "https://i.ibb.co/tp1MCwHc/Gifted-1000.png"
-        },
-        {
-          "id": "2000",
-          "image_url_1x": "https://i.ibb.co/vxgSfXK3/Gifted-2000.png"
-        },
-        {
-          "id": "3000",
-          "image_url_1x": "https://i.ibb.co/pjbNk5ft/Gifted-3000.png"
-        },
-        {
-          "id": "4000",
-          "image_url_1x": "https://i.ibb.co/fYj2G3MT/Gifted-4000.png"
-        },
-        {
-          "id": "5000",
-          "image_url_1x": "https://i.ibb.co/NnQVTLYd/Gifted-5000.png"
-        }
-      ]
-    },
-    {
-      "set_id": "bits",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/TDDhc2GD/1.png"
-        },
-        {
-          "id": "100",
-          "image_url_1x": "https://i.ibb.co/XZSyy2Sj/100.png"
-        },
-        {
-          "id": "1000",
-          "image_url_1x": "https://i.ibb.co/60ZtbnSG/1k.png"
-        },
-        {
-          "id": "5000",
-          "image_url_1x": "https://i.ibb.co/C3Kvp0j3/5k.png"
-        },
-        {
-          "id": "10000",
-          "image_url_1x": "https://i.ibb.co/0yWJXmfP/10k.png"
-        },
-        {
-          "id": "25000",
-          "image_url_1x": "https://i.ibb.co/mrphLGMw/25k.png"
-        },
-        {
-          "id": "50000",
-          "image_url_1x": "https://i.ibb.co/jvP5GkhQ/50k.png"
-        },
-        {
-          "id": "75000",
-          "image_url_1x": "https://i.ibb.co/6R2Rgf2k/75k.png"
-        },
-        {
-          "id": "100000",
-          "image_url_1x": "https://i.ibb.co/q393g3v5/100k.png"
-        },
-        {
-          "id": "200000",
-          "image_url_1x": "https://i.ibb.co/zHDkns88/200k.png"
-        },
-        {
-          "id": "300000",
-          "image_url_1x": "https://i.ibb.co/NgXBL4Z2/300k.png"
-        },
-        {
-          "id": "400000",
-          "image_url_1x": "https://i.ibb.co/rfqYKwF2/400k.png"
-        },
-        {
-          "id": "500000",
-          "image_url_1x": "https://i.ibb.co/GvVw0wyC/500k.png"
-        },
-        {
-          "id": "600000",
-          "image_url_1x": "https://i.ibb.co/8nBCf3kp/600k.png"
-        },
-        {
-          "id": "700000",
-          "image_url_1x": "https://i.ibb.co/s9yhbfGj/700k.png"
-        },
-        {
-          "id": "800000",
-          "image_url_1x": "https://i.ibb.co/0ys1V2XK/800k.png"
-        },
-        {
-          "id": "900000",
-          "image_url_1x": "https://i.ibb.co/8n2RjWsN/900k.png"
-        },
-        {
-          "id": "1000000",
-          "image_url_1x": "https://i.ibb.co/WWwGkNHt/1M.png"
-        },
-        {
-          "id": "1250000",
-          "image_url_1x": "https://i.ibb.co/nqFPHqfx/1M250k.png"
-        },
-        {
-          "id": "1500000",
-          "image_url_1x": "https://i.ibb.co/cXJrBsrP/1M500k.png"
-        },
-        {
-          "id": "1750000",
-          "image_url_1x": "https://i.ibb.co/hxNgDRVZ/1M750k.png"
-        },
-        {
-          "id": "2000000",
-          "image_url_1x": "https://i.ibb.co/x8ChGNgK/2M.png"
-        },
-        {
-          "id": "2500000",
-          "image_url_1x": "https://i.ibb.co/1fwfgPLf/2M500k.png"
-        },
-        {
-          "id": "3000000",
-          "image_url_1x": "https://i.ibb.co/8LyLNrQg/3M.png"
-        },
-        {
-          "id": "3500000",
-          "image_url_1x": "https://i.ibb.co/B5Dp21qy/3M500k.png"
-        },
-        {
-          "id": "4000000",
-          "image_url_1x": "https://i.ibb.co/TM3VJgY4/4M.png"
-        },
-        {
-          "id": "4500000",
-          "image_url_1x": "https://i.ibb.co/zhYbcgWw/4M500k.png"
-        },
-        {
-          "id": "5000000",
-          "image_url_1x": "https://i.ibb.co/rRYYVgwn/5M.png"
-        }
-      ]
-    },
-    {
-      "set_id": "1979-revolution_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/cX6vkywR/1979-Revolution.png"
-        }
-      ]
-    },
-    {
-      "set_id": "60-seconds_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/TDmdPK9Q/60-Seconds.png"
-        }
-      ]
-    },
-    {
-      "set_id": "60-seconds_2",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/ym4gdDkF/60-Seconds2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "60-seconds_3",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Nd1HjTPv/60-Seconds3.png"
-        }
-      ]
-    },
-    {
-      "set_id": "H1Z1_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zT0pkgDb/H1Z1.png"
-        }
-      ]
-    },
-    {
-      "set_id": "anomaly-2_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/x8Gy3y6D/Anomaly2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "anomaly-warzone-earth_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/ksPpTNns/Anomaly-Warzone-Earth.png"
-        }
-      ]
-    },
-    {
-      "set_id": "axiom-verge_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/8LzwTjmG/Axiom-Verge.png"
-        }
-      ]
-    },
-    {
-      "set_id": "battlechefbrigade_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/7dY9rd99/Battle-Chef-Brigade.png"
-        }
-      ]
-    },
-    {
-      "set_id": "battlechefbrigade_2",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/XfbMs9xc/Battle-Chef-Brigade2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "battlechefbrigade_3",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/5x89DGrb/Battle-Chef-Brigade3.png"
-        }
-      ]
-    },
-    {
-      "set_id": "battlerite_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/5W0gPr3k/Battlerite.png"
-        }
-      ]
-    },
-    {
-      "set_id": "bits-charity",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/gFFSCYQ7/Direct-Relief-Charity2018.png"
-        }
-      ]
-    },
-    {
-      "set_id": "brawlhalla_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/rRprrK16/Brawlhalla.png"
-        }
-      ]
-    },
-    {
-      "set_id": "broken-age_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/TB5Nc0cr/Broken-Age.png"
-        }
-      ]
-    },
-    {
-      "set_id": "bubsy-the-woolies_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zhkxMMtm/Bubsy-The-Woolies-Strike-Back.png"
-        }
-      ]
-    },
-    {
-      "set_id": "chatter-cs-go-2022",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/XZ3JKhqN/CSGOWeek-Brazil2022.png"
-        }
-      ]
-    },
-    {
-      "set_id": "creator-cs-go-2022",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Z6WGLmTX/CSGOWeek-Brazil2022-Creator.png"
-        }
-      ]
-    },
-    {
-      "set_id": "cuphead_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/k2V8n61M/Cuphead.png"
-        }
-      ]
-    },
-    {
-      "set_id": "darkest-dungeon_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/mV0qV7c8/Darkest-Dungeon.png"
-        }
-      ]
-    },
-    {
-      "set_id": "deceit_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/rG4Rjnx9/Deceit.png"
-        }
-      ]
-    },
-    {
-      "set_id": "devil-may-cry-hd_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/WvHqfw6c/Devil-May-Cry-HDCollection.png"
-        }
-      ]
-    },
-    {
-      "set_id": "devil-may-cry-hd_2",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/tMnSh4y0/Devil-May-Cry-HDCollection2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "devil-may-cry-hd_3",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/XxQJC2XH/Devil-May-Cry-HDCollection3.png"
-        }
-      ]
-    },
-    {
-      "set_id": "devil-may-cry-hd_4",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/BVcTvgGD/Devil-May-Cry-HDCollection4.png"
-        }
-      ]
-    },
-    {
-      "set_id": "devilian_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/DHcPDCL0/Devilian.png"
-        }
-      ]
-    },
-    {
-      "set_id": "duelyst_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/SwwB8dft/Duelyst.png"
-        }
-      ]
-    },
-    {
-      "set_id": "duelyst_2",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/3yQvhRQX/Duelyst2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "duelyst_3",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/LdrDZnLs/Duelyst3.png"
-        }
-      ]
-    },
-    {
-      "set_id": "duelyst_4",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/C3V39fXy/Duelyst4.png"
-        }
-      ]
-    },
-    {
-      "set_id": "duelyst_5",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/ynrLrPxs/Duelyst5.png"
-        }
-      ]
-    },
-    {
-      "set_id": "duelyst_6",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/nq9FwmJG/Duelyst6.png"
-        }
-      ]
-    },
-    {
-      "set_id": "duelyst_7",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Y7kwBf4w/Duelyst7.png"
-        }
-      ]
-    },
-    {
-      "set_id": "enter-the-gungeon_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/KjNDQfHW/Enter-The-Gungeon.png"
-        }
-      ]
-    },
-    {
-      "set_id": "eso_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/v6dqqHkN/Elder-Scrolls-Online.png"
-        }
-      ]
-    },
-    {
-      "set_id": "firewatch_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/mV5V8M30/Firewatch.png"
-        }
-      ]
-    },
-    {
-      "set_id": "frozen-cortext_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/7NN91MgZ/Frozen-Cortext.png"
-        }
-      ]
-    },
-    {
-      "set_id": "frozen-synapse_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/gFyyh2BC/Frozen-Synapse.png"
-        }
-      ]
-    },
-    {
-      "set_id": "getting-over-it_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/wZCGmm6j/Getting-Over-It.png"
-        }
-      ]
-    },
-    {
-      "set_id": "getting-over-it_2",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/yFjsQM54/Getting-Over-It2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "glhf-pledge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/JWvsGyzP/GLHFPledge.png"
-        }
-      ]
-    },
-    {
-      "set_id": "glitchcon2020",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/93wrw4LZ/Glitch-Con2020.png"
-        }
-      ]
-    },
-    {
-      "set_id": "gold-pixel-heart",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/d0wbmcc9/Gold-Pixel-Heart.png"
-        }
-      ]
-    },
-    {
-      "set_id": "gold-pixel-heart---together-for-good-24",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/qF0SncjF/Together-For-Good24-Gold-Pixel-Heart.png"
-        }
-      ]
-    },
-    {
-      "set_id": "purple-pixel-heart---together-for-good-24",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Wpg4FP9C/Together-For-Good24-Purple-Pixel-Heart.png"
-        }
-      ]
-    },
-    {
-      "set_id": "ruby-pixel-heart---together-for-good-24",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/fVFfVcnB/Together-For-Good24-Ruby-Pixel-Heart.png"
-        }
-      ]
-    },
-    {
-      "set_id": "heavy-bullets_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/ynk7FL83/Heavy-Bullets.png"
-        }
-      ]
-    },
-    {
-      "set_id": "hello_neighbor_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/pvRpVbtQ/Hello-Neighbor.png"
-        }
-      ]
-    },
-    {
-      "set_id": "innerspace_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/pjfdrPTW/Innerspace.png"
-        }
-      ]
-    },
-    {
-      "set_id": "innerspace_2",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/WhkTmDk/Innerspace2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "jackbox-party-pack_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/C5wL5BCd/Jackbox-Party-Pack.png"
-        }
-      ]
-    },
-    {
-      "set_id": "kingdom-new-lands_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/F4krV364/Kingdom-New-Lands.png"
-        }
-      ]
-    },
-    {
-      "set_id": "moments",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/gZxKnKgv/Moments-Tier1.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/yFyMBHz6/Moments-Tier2.png"
-        },
-        {
-          "id": "3",
-          "image_url_1x": "https://i.ibb.co/dw3z7k8r/Moments-Tier3.png"
-        },
-        {
-          "id": "4",
-          "image_url_1x": "https://i.ibb.co/Qjvcw4vR/Moments-Tier4.png"
-        },
-        {
-          "id": "5",
-          "image_url_1x": "https://i.ibb.co/wZX2mND5/Moments-Tier5.png"
-        },
-        {
-          "id": "6",
-          "image_url_1x": "https://i.ibb.co/4RZtX8Dz/Moments-Tier6.png"
-        },
-        {
-          "id": "7",
-          "image_url_1x": "https://i.ibb.co/bjhJms9R/Moments-Tier7.png"
-        },
-        {
-          "id": "8",
-          "image_url_1x": "https://i.ibb.co/D2rQqJH/Moments-Tier8.png"
-        },
-        {
-          "id": "9",
-          "image_url_1x": "https://i.ibb.co/fdWRkWXb/Moments-Tier9.png"
-        },
-        {
-          "id": "10",
-          "image_url_1x": "https://i.ibb.co/mCWxtG5R/Moments-Tier10.png"
-        },
-        {
-          "id": "11",
-          "image_url_1x": "https://i.ibb.co/FbWS5m8b/Moments-Tier11.png"
-        },
-        {
-          "id": "12",
-          "image_url_1x": "https://i.ibb.co/fdYssdSz/Moments-Tier12.png"
-        },
-        {
-          "id": "13",
-          "image_url_1x": "https://i.ibb.co/LhrbykSy/Moments-Tier13.png"
-        },
-        {
-          "id": "14",
-          "image_url_1x": "https://i.ibb.co/ksTkd2Cd/Moments-Tier14.png"
-        },
-        {
-          "id": "15",
-          "image_url_1x": "https://i.ibb.co/dwQkjQRF/Moments-Tier15.png"
-        },
-        {
-          "id": "16",
-          "image_url_1x": "https://i.ibb.co/g070dvt/Moments-Tier16.png"
-        },
-        {
-          "id": "17",
-          "image_url_1x": "https://i.ibb.co/mr60Cqny/Moments-Tier17.png"
-        },
-        {
-          "id": "18",
-          "image_url_1x": "https://i.ibb.co/7dvtzcPm/Moments-Tier18.png"
-        },
-        {
-          "id": "19",
-          "image_url_1x": "https://i.ibb.co/CXmRSxL/Moments-Tier19.png"
-        },
-        {
-          "id": "20",
-          "image_url_1x": "https://i.ibb.co/8ncLCXbx/Moments-Tier20.png"
-        }
-      ]
-    },
-    {
-      "set_id": "okhlos_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Dg9PyWbf/Okhlos.png"
-        }
-      ]
-    },
-    {
-      "set_id": "overwatch-league-insider_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/s9mZNckr/Owl-All-Access-Pass2018.png"
-        }
-      ]
-    },
-    {
-      "set_id": "overwatch-league-insider_2018B",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zTS1h4bT/Owl-All-Access-Pass2018-2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "overwatch-league-insider_2019A",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/RT6dJRrk/Owl-All-Access-Pass2019.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/d49Q3m5K/Owl-All-Access-Pass2019-2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "overwatch-league-insider_2019B",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/0jrM5FfZ/Owl-All-Access-Pass2019-3.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/Myf7PGrz/Owl-All-Access-Pass2019-4.png"
-        },
-        {
-          "id": "3",
-          "image_url_1x": "https://i.ibb.co/YFGjC7MF/Owl-All-Access-Pass2019-5.png"
-        },
-        {
-          "id": "4",
-          "image_url_1x": "https://i.ibb.co/x816Pshj/Owl-All-Access-Pass2019-6.png"
-        },
-        {
-          "id": "5",
-          "image_url_1x": "https://i.ibb.co/fzrVm8XH/Owl-All-Access-Pass2019-7.png"
-        }
-      ]
-    },
-    {
-      "set_id": "power-rangers",
-      "versions": [
-        {
-          "id": "0",
-          "image_url_1x": "https://i.ibb.co/8DQPRLsp/Ranger-Black.png"
-        },
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/XZ043dfK/Ranger-Blue.png"
-        },
-        {
-          "id": "2",
-          "image_url_1x": "https://i.ibb.co/xtz6rKKP/Ranger-Green.png"
-        },
-        {
-          "id": "3",
-          "image_url_1x": "https://i.ibb.co/k2LQDXSs/Ranger-Pink.png"
-        },
-        {
-          "id": "4",
-          "image_url_1x": "https://i.ibb.co/gFhLRq0g/Ranger-Red.png"
-        },
-        {
-          "id": "5",
-          "image_url_1x": "https://i.ibb.co/p6YTW7dH/Ranger-White.png"
-        },
-        {
-          "id": "6",
-          "image_url_1x": "https://i.ibb.co/3y0Jnp1D/Ranger-Yellow.png"
-        }
-      ]
-    },
-    {
-      "set_id": "psychonauts_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zT9jHrZv/Psychonauts.png"
-        }
-      ]
-    },
-    {
-      "set_id": "raiden-v-directors-cut_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/t7nTKht/RaidenV.png"
-        }
-      ]
-    },
-    {
-      "set_id": "rift_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/gb7CrSTy/Rift.png"
-        }
-      ]
-    },
-    {
-      "set_id": "rplace-2023",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/mCPT9nd6/RPlace2023-Cake.png"
-        }
-      ]
-    },
-    {
-      "set_id": "samusoffer_beta",
-      "versions": [
-        {
-          "id": "0",
-          "image_url_1x": "https://i.ibb.co/8LqNJsGr/Beta-Title1.png"
-        }
-      ]
-    },
-    {
-      "set_id": "starbound_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/XxSR5rr0/Starbound.png"
-        }
-      ]
-    },
-    {
-      "set_id": "strafe_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Tqt5Prsd/Strafe.png"
-        }
-      ]
-    },
-    {
-      "set_id": "streamer-awards-2024",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/ynhMXhQk/Streamer-Awards-2024.png"
-        }
-      ]
-    },
-    {
-      "set_id": "superhot_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Cp7HxcGF/Superhot.png"
-        }
-      ]
-    },
-    {
-      "set_id": "superultracombo-2023",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/1J0869tx/Super-Ultra-Combo2023.png"
-        }
-      ]
-    },
-    {
-      "set_id": "the-game-awards-2023",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/HLLSZrJS/The-Game-Awards2023.png"
-        }
-      ]
-    },
-    {
-      "set_id": "the-golden-predictor-of-the-game-awards-2023",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/C3TF2RgR/The-Game-Awards2023-The-Golden-Predictor.png"
-        }
-      ]
-    },
-    {
-      "set_id": "the-surge_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/nqyd2YBw/TheSurge.png"
-        }
-      ]
-    },
-    {
-      "set_id": "the-surge_2",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/CKx1C44L/The-Surge1.png"
-        }
-      ]
-    },
-    {
-      "set_id": "the-surge_3",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/KjYNKBts/The-Surge2.png"
-        }
-      ]
-    },
-    {
-      "set_id": "this-war-of-mine_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/9mnn20Hv/This-War-Of-Mine.png"
-        }
-      ]
-    },
-    {
-      "set_id": "titan-souls_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/7NLfSkKF/Titan-Souls.png"
-        }
-      ]
-    },
-    {
-      "set_id": "treasure-adventure-world_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/1Y4LBc6g/Treasure-Adventure-World.png"
-        }
-      ]
-    },
-    {
-      "set_id": "subtember-2024",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/HLBgt0sG/SUBtember2024.png"
-        }
-      ]
-    },
-    {
-      "set_id": "subtember-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/G4HVKq7L/SUBtember2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitch-intern-2022",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/F4YD81bv/Twitch-Intern2022.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitch-intern-2023",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/dwPv10Yg/Twitch-Intern2023.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitch-intern-2024",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/vxfzyNFk/Twitch-Intern2024.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitch-recap-2023",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/rK32wmfh/Twitch-Recap2023.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitch-recap-2024",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Q7KkVgcH/Twitch-Recap2024.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchcon2017",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/fdJHG6Ct/Twitch-Con2017-Long-Beach.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchcon2018",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/NQKvbrS/Twitch-Con2018-San-Jose.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchconNA2019",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/d4PNfw64/Twitch-Con2019-San-Diego.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchconEU2019",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/j925cg6S/Twitch-Con2019-Berlin.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchconNA2020",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/cSKsspzF/Twitch-Con2020-North-America.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchconAmsterdam2020",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/PGBqMhTf/Twitch-Con2020-Amsterdam.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchconNA2022",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/BHxv3QQK/Twitch-Con2022-San-Diego.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchconEU2022",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/RktbVnQK/Twitch-Con2022-Amsterdam.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchconNA2023",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/gZc9G2KW/Twitch-Con2023-Las-Vegas.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchconEU2023",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/9mXysGkv/Twitch-Con2023-Paris.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchcon-2024---san-diego",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/JFQF3WRm/Twitch-Con2024-San-Diego.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchcon-2024---rotterdam",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/cXrytnKZ/Twitch-Con2024-Rotterdam.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchcon-2025---rotterdam",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/XZDH7fvZ/Twitch-Con2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchcon-referral-program-2025-bleedpurple",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/sp5Y0pLF/Twitch-Con-Referral-Program2025-Bleed-Purple.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitchcon-referral-program-2025-chrome-star",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/qMnwbJ4p/Twitch-Con-Referral-Program2025-Chrome-Star.png"
-        }
-      ]
-    },
-    {
-      "set_id": "user-anniversary",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Q3FPDMH3/Twitchiversary.png"
-        }
-      ]
-    },
-    {
-      "set_id": "tyranny_1",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/3yj56qhj/Tyranny.png"
-        }
-      ]
-    },
-    {
-      "set_id": "vga-champ-2017",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/hJjMXCJw/2017-VGAChamp.png"
-        }
-      ]
-    },
-    {
-      "set_id": "warcraft",
-      "versions": [
-        {
-          "id": "alliance",
-          "image_url_1x": "https://i.ibb.co/ZpsNZMRy/Alliance.png"
-        },
-        {
-          "id": "horde",
-          "image_url_1x": "https://i.ibb.co/jPn12k5W/Horde.png"
-        }
-      ]
-    },
-    {
-      "set_id": "minecraft-15th-anniversary-celebration",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/V0MWS39D/Minecraft15th-Anniversay-Celebration.png"
-        }
-      ]
-    },
-    {
-      "set_id": "destiny-2-final-shape-raid-race",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/hFmNx55p/Destiny2-The-Final-Shape-Raid-Race.png"
-        }
-      ]
-    },
-    {
-      "set_id": "destiny-2-the-final-shape-streamer",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/hFtDZkRD/Destiny2-The-Final-Shape-Streamer.png"
-        }
-      ]
-    },
-    {
-      "set_id": "raging-wolf-helm",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/DfHNRfg0/Raging-Wolf-Helm.png"
-        }
-      ]
-    },
-    {
-      "set_id": "la-velada-iv",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/nqcvFHB8/La-Velada-Del-Ano-IV.png"
-        }
-      ]
-    },
-    {
-      "set_id": "la-velada-v-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/SX9hgCMT/La-Velada-V.png"
-        }
-      ]
-    },
-    {
-      "set_id": "dreamcon-2024",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/ccNN9Kt0/Dream-Con2024.png"
-        }
-      ]
-    },
-    {
-      "set_id": "zevent-2024",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/ccjsXqfB/Zevent2024.png"
-        }
-      ]
-    },
-    {
-      "set_id": "zevent25",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/HTK6rNHX/ZEvent25.png"
-        }
-      ]
-    },
-    {
-      "set_id": "arcane-season-2-premiere",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/ds81w9dv/Arcane-Season2-Premiere.png"
-        }
-      ]
-    },
-    {
-      "set_id": "clip-the-halls",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/V0gNp7Jv/Clip-The-Halls.png"
-        }
-      ]
-    },
-    {
-      "set_id": "share-the-love",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/fz0qY0fY/Share-The-Love.png"
-        }
-      ]
-    },
-    {
-      "set_id": "speedons-5-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zTFh1rv9/Speedons5.png"
-        }
-      ]
-    },
-    {
-      "set_id": "gone-bananas",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/V0Dyb8J4/Gone-Bananas.png"
-        }
-      ]
-    },
-    {
-      "set_id": "marathon-reveal-runner",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/7NkgC3v2/Marathon-Reveal-Runner.png"
-        }
-      ]
-    },
-    {
-      "set_id": "elden-ring-recluse",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/JRGgCm31/Elden-Ring-Superfan-Recluse.png"
-        }
-      ]
-    },
-    {
-      "set_id": "elden-ring-wylder",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/wFJ5N1v6/Elden-Ring-Nightreign-Wylder.png"
-        }
-      ]
-    },
-    {
-      "set_id": "borderlands-4-badge---ripper",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/KzNxX1P3/Borderlands4-Ripper.png"
-        }
-      ]
-    },
-    {
-      "set_id": "borderlands-4-badge---vault-symbol",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/v6hvwnR1/Borderlands4-Vault.png"
-        }
-      ]
-    },
-    {
-      "set_id": "league-of-legends-mid-season-invitational-2025---purple",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/7xJrDQgj/League-Of-Legends-Mid-Season-Invitational2025-Purple.png"
-        }
-      ]
-    },
-    {
-      "set_id": "league-of-legends-mid-season-invitational-2025---grey",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/7Np6g9DY/League-Of-Legends-Mid-Season-Invitational2025-Grey.png"
-        }
-      ]
-    },
-    {
-      "set_id": "legendus",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/4ZzNMww2/LEGENDUS.png"
-        }
-      ]
-    },
-    {
-      "set_id": "evo-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/KCwNbMd/Evo2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "the-first-descendant-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/WNj4H7ts/The-First-Descendant.png"
-        }
-      ]
-    },
-    {
-      "set_id": "touch-grass",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/C3HRcNNq/Touch-Grass.png"
-        }
-      ]
-    },
-    {
-      "set_id": "path-of-exile-2-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/nN5bz1KX/ChaosOrb.png"
-        }
-      ]
-    },
-    {
-      "set_id": "gears-of-war-superfan-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Jj3Pk872/Gears-Of-War-Superfan.png"
-        }
-      ]
-    },
-    {
-      "set_id": "hornet",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zWSPqSBM/Hornet.png"
-        }
-      ]
-    },
-    {
-      "set_id": "vct-paris-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/tMw0Kbw8/VCTParis2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "video-games-day",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/6JZ2Kvc2/Video-Games-Day.png"
-        }
-      ]
-    },
-    {
-      "set_id": "gp-explorer-3",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/35dmqkwH/GPExplorer3.png"
-        }
-      ]
-    },
-    {
-      "set_id": "mel",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/21WZWCBR/Mel.png"
-        }
-      ]
-    },
-    {
-      "set_id": "sonic-racing-crossworlds",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/4g3wb0RQ/Sonic-Racing.png"
-        }
-      ]
-    },
-    {
-      "set_id": "gamerduo",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/pB87rHP7/Gamerduo.png"
-        }
-      ]
-    },
-    {
-      "set_id": "gingko-leaf",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/nsw0bnP1/Gingko-Leaf.png"
-        }
-      ]
-    },
-    {
-      "set_id": "the-onryos-mask",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Nd5cwwsm/The-Onryos-Mask.png"
-        }
-      ]
-    },
-    {
-      "set_id": "alone",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Q7q7ZhSH/Alone.png"
-        }
-      ]
-    },
-    {
-      "set_id": "low",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/qLfgFNFj/Low.png"
-        }
-      ]
-    },
-    {
-      "set_id": "battlefield-6",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/xSCYBXQc/Battlefield6.png"
-        }
-      ]
-    },
-    {
-      "set_id": "the-man-without-fear",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/h19PQkFg/The-Man-Without-Fear.png"
-        }
-      ]
-    },
-    {
-      "set_id": "lol-worlds-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/99vsz2Pt/LOLWorlds2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "pokemon-legends-z-a-chikorita",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/YT3HzXnB/Pokemon-Legends-ZA-Chikorita.png"
-        }
-      ]
-    },
-    {
-      "set_id": "pokemon-legends-z-a-tepig",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/YFwvfhLK/Pokemon-Legends-ZA-Tepig.png"
-        }
-      ]
-    },
-    {
-      "set_id": "pokemon-legends-z-a-totodile",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/39ywB12s/Pokemon-Legends-ZA-Totodile.png"
-        }
-      ]
-    },
-    {
-      "set_id": "sajam-slam-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/23StZkFm/Sajam-Slam.png"
-        }
-      ]
-    },
-    {
-      "set_id": "fright-fest-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/dJVVCKGd/Fright-Fest2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "arc-raiders-launch-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/KjnP31Lq/Arc-Raiders-Launch2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "black-ops-7-global-launch",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Gf9zJDqm/Black-Ops7-Global-Launch.png"
-        }
-      ]
-    },
-    {
-      "set_id": "stream-for-humanity-2-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/chJ7nhvc/streamforhumanity20252.png"
-        }
-      ]
-    },
-    {
-      "set_id": "together-for-good-25---good-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/99NHXdHR/Together-For-Good25-Good.png"
-        }
-      ]
-    },
-    {
-      "set_id": "together-for-good-25---gooder-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/XxkHnBh5/Together-For-Good25-Gooder.png"
-        }
-      ]
-    },
-    {
-      "set_id": "together-for-good-25---goodest-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/67KjhT8g/Together-For-Good25-Goodest.png"
-        }
-      ]
-    },
-    {
-      "set_id": "together-for-good-25---wicked-dub-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/GfLW49VR/Together-For-Good25-Wicked.png"
-        }
-      ]
-    },
-    {
-      "set_id": "survival-cup-4",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/9kLTk49y/Survival-Cup4.png"
-        }
-      ]
-    },
-    {
-      "set_id": "dragonscimmy",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/3y3GfHHt/Dragon-Scimmy.png"
-        }
-      ]
-    },
-    {
-      "set_id": "rainbow-six-siege-x-10th-anniversary",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/vxcb3P1k/Rainbow-Six-Siege-X.png"
-        }
-      ]
-    },
-    {
-      "set_id": "ugly-sweater",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/1tNCnQc6/Ugly-Sweater.png"
-        }
-      ]
-    },
-    {
-      "set_id": "streamer-awards-tux",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/tMPd4n7J/Streamer-Awards-2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "twitch-recap-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Z60kGwP9/Twitch-Recap2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "total-war-anniversary",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/gZzkP2p8/Total-War-Anniversary.png"
-        }
-      ]
-    },
-    {
-      "set_id": "revedtv-stream-awards-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/sptcc3x6/Reved-TVStream-Awards2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "rustmas-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/236xcYRw/Rustmas2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "k4sen-con-2025",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/6ccCcZGg/K4-SENCon2025.png"
-        }
-      ]
-    },
-    {
-      "set_id": "jeff-the-land-shark",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/Spt6X8T/Jeff-The-Land-Shark.png"
-        }
-      ]
-    },
-    {
-      "set_id": "raider-icon-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/XrcjqZdv/Raider-Icon.png"
-        }
-      ]
-    },
-    {
-      "set_id": "hunt-crosses",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/70R8D7P/Hunt-Crosses.png"
-        }
-      ]
-    },
-    {
-      "set_id": "support-a-streamer-ho26-badge",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/KcJDkcSQ/Support-Streamer-HO26.png"
-        }
-      ]
-    },
-    {
-      "set_id": "frog-lantern",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/FLjwSTPS/Frog-Lantern.png"
-        }
-      ]
-    },
-    {
-      "set_id": "tft-paris-open",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/pqwgXWf/TFTParis-Open.png"
-        }
-      ]
-    },
-    {
-      "set_id": "diana",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/qLH6DvB3/Diana.png"
-        }
-      ]
-    },
-    {
-      "set_id": "5-years-as-twitch-staff",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/hFYP79Wx/Twitch-Staff05-Years.png"
-        }
-      ]
-    },
-    {
-      "set_id": "10-years-as-twitch-staff",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/nqVtnLqP/Twitch-Staff10-Years.png"
-        }
-      ]
-    },
-    {
-      "set_id": "15-years-as-twitch-staff",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/nMBKsMy3/Twitch-Staff15-Years.png"
-        }
-      ]
-    },
-    {
-      "set_id": "fallout-season-2-ghoul",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/wN9NbZTq/Fallout-Season2-Ghoul.png"
-        }
-      ]
-    },
-    {
-      "set_id": "purple-noob",
-      "versions": [
-        {
-          "id": "1",
-          "image_url_1x": "https://i.ibb.co/zWk9bzDp/Purple-Noob.png"
-        }
-      ]
-    }
-  ]
+    "global": [
+        {
+            "set_id": "premium",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/TD76LMgn/Prime.png"
+                }
+            ]
+        },
+        {
+            "set_id": "turbo",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Pv7cWT8L/Turbo.png"
+                }
+            ]
+        },
+        {
+            "set_id": "partner",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/HL4DKcfH/Partner.png"
+                }
+            ]
+        },
+        {
+            "set_id": "ambassador",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/0ykThCkc/Ambassador.png"
+                }
+            ]
+        },
+        {
+            "set_id": "no_video",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/v4v3ZZBD/NoVideo.png"
+                }
+            ]
+        },
+        {
+            "set_id": "no_audio",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/kVTDwnr5/NoAudio.png"
+                }
+            ]
+        },
+        {
+            "set_id": "broadcaster",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/xqKD9dng/Broadcaster.png"
+                }
+            ]
+        },
+        {
+            "set_id": "lead_moderator",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/0ypCqf3J/Lead-Moderator.png"
+                }
+            ]
+        },
+        {
+            "set_id": "moderator",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/tPm66MCX/Moderator.png"
+                }
+            ]
+        },
+        {
+            "set_id": "vip",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zhPL3tPd/VIP.png"
+                }
+            ]
+        },
+        {
+            "set_id": "founder",
+            "versions": [
+                {
+                    "id": "0",
+                    "image_url_1x": "https://i.ibb.co/hFfm7vQr/Founder.png"
+                }
+            ]
+        },
+        {
+            "set_id": "artist-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zHsHT9K4/Artist.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitch-dj",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/7JXJ0v8g/DJ.png"
+                }
+            ]
+        },
+        {
+            "set_id": "bot-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/N2rk4d7r/Chat-Bot.png"
+                }
+            ]
+        },
+        {
+            "set_id": "staff",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/yBN3tGm7/Twitch-Staff.png"
+                }
+            ]
+        },
+        {
+            "set_id": "extension",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/LzJvk1JH/Extension.png"
+                }
+            ]
+        },
+        {
+            "set_id": "game-developer",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/0Vp4FTdz/Game-Developer.png"
+                }
+            ]
+        },
+        {
+            "set_id": "clip-champ",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/kVhn0MDP/Power-Clipper.png"
+                }
+            ]
+        },
+        {
+            "set_id": "hype-train",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/6ckM5Zj4/Hype-Conductor.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/LdHzGQ9X/Former-Hype-Conductor.png"
+                }
+            ]
+        },
+        {
+            "set_id": "sub-gift-leader",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/C3hgdkCG/Gift-Leader-Gold.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/WpzV2FRN/Gift-Leader-Silver.png"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://i.ibb.co/Fk5KZMZs/Gift-Leader-Bronze.png"
+                }
+            ]
+        },
+        {
+            "set_id": "clips-leader",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/fGpcNqS5/Clips-Leader-Gold.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/MkCY4ZWf/Clips-Leader-Silver.png"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://i.ibb.co/RTPc2Vr5/Clips-Leader-Bronze.png"
+                }
+            ]
+        },
+        {
+            "set_id": "bits-leader",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/svrFfXhz/Bits-Leader-Gold.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/pjN2pptj/Bits-Leader-Silver.png"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://i.ibb.co/23SPSX6b/Bits-Leader-Bronze.png"
+                }
+            ]
+        },
+        {
+            "set_id": "social-sharing",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/RG7yxFsw/Social-Media-Icon.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/7dkG83x5/Social-Media-Pro.png"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://i.ibb.co/zhMmBKgG/Social-Media-Legend.png"
+                }
+            ]
+        },
+        {
+            "set_id": "subscriber",
+            "versions": [
+                {
+                    "id": "0",
+                    "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
+                },
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/QFDZC2hM/2Month.png"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://i.ibb.co/XZRpY6wB/3Month.png"
+                },
+                {
+                    "id": "6",
+                    "image_url_1x": "https://i.ibb.co/n8MnLxtv/6Month.png"
+                },
+                {
+                    "id": "9",
+                    "image_url_1x": "https://i.ibb.co/yFhqnS0T/9Month.png"
+                },
+                {
+                    "id": "12",
+                    "image_url_1x": "https://i.ibb.co/S7cn0d89/12Month.png"
+                },
+                {
+                    "id": "5",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b4e6b13a-a76f-4c56-87e1-9375a7aaa610/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b4e6b13a-a76f-4c56-87e1-9375a7aaa610/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b4e6b13a-a76f-4c56-87e1-9375a7aaa610/3"
+                },
+                {
+                    "id": "4",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2d2485f6-d19b-4daa-8393-9493b019156b/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2d2485f6-d19b-4daa-8393-9493b019156b/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2d2485f6-d19b-4daa-8393-9493b019156b/3"
+                }
+            ]
+        },
+        {
+            "set_id": "badge-flair",
+            "versions": [
+                {
+                    "id": "2000",
+                    "image_url_1x": "https://i.ibb.co/TxSs8tS3/Tier2-Flair.png"
+                },
+                {
+                    "id": "3000",
+                    "image_url_1x": "https://i.ibb.co/sdBYzh1r/Tier3-Flair.png"
+                }
+            ]
+        },
+        {
+            "set_id": "predictions",
+            "versions": [
+                {
+                    "id": "pink-1",
+                    "image_url_1x": "https://i.ibb.co/ks0fsXjz/predict-1-pink.png"
+                },
+                {
+                    "id": "pink-2",
+                    "image_url_1x": "https://i.ibb.co/1trxNDqb/predict-2-pink.png"
+                },
+                {
+                    "id": "gray-1",
+                    "image_url_1x": "https://i.ibb.co/Txz0qvY0/predict-1-gray.png"
+                },
+                {
+                    "id": "gray-2",
+                    "image_url_1x": "https://i.ibb.co/k2wpf2xC/predict-2-gray.png"
+                },
+                {
+                    "id": "blue-1",
+                    "image_url_1x": "https://i.ibb.co/zV88xdQc/predict-1-blue.png"
+                },
+                {
+                    "id": "blue-2",
+                    "image_url_1x": "https://i.ibb.co/Hpk9ydpx/predict-2-blue.png"
+                },
+                {
+                    "id": "blue-3",
+                    "image_url_1x": "https://i.ibb.co/1YVpsB7d/predict-3-blue.png"
+                },
+                {
+                    "id": "blue-4",
+                    "image_url_1x": "https://i.ibb.co/1GsR0FY0/predict-4-blue.png"
+                },
+                {
+                    "id": "blue-5",
+                    "image_url_1x": "https://i.ibb.co/dNt888k/predict-5-blue.png"
+                },
+                {
+                    "id": "blue-6",
+                    "image_url_1x": "https://i.ibb.co/DPrHNTgt/predict-6-blue.png"
+                },
+                {
+                    "id": "blue-7",
+                    "image_url_1x": "https://i.ibb.co/XrTSrqT1/predict-7-blue.png"
+                },
+                {
+                    "id": "blue-8",
+                    "image_url_1x": "https://i.ibb.co/9B9YMk3/predict-8-blue.png"
+                },
+                {
+                    "id": "blue-9",
+                    "image_url_1x": "https://i.ibb.co/VYCvBQTc/predict-9-blue.png"
+                },
+                {
+                    "id": "blue-10",
+                    "image_url_1x": "https://i.ibb.co/1tP967Gg/predict-10-blue.png"
+                }
+            ]
+        },
+        {
+            "set_id": "sub-gifter",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/6RhWHJ1J/Gifted-1.png"
+                },
+                {
+                    "id": "5",
+                    "image_url_1x": "https://i.ibb.co/v64X27qS/Gifted-5.png"
+                },
+                {
+                    "id": "10",
+                    "image_url_1x": "https://i.ibb.co/mFbppXN0/Gifted-10.png"
+                },
+                {
+                    "id": "25",
+                    "image_url_1x": "https://i.ibb.co/WpfwQ9Zy/Gifted-25.png"
+                },
+                {
+                    "id": "50",
+                    "image_url_1x": "https://i.ibb.co/VcQ4BWT1/Gifted-50.png"
+                },
+                {
+                    "id": "100",
+                    "image_url_1x": "https://i.ibb.co/LX931sWz/Gifted-100.png"
+                },
+                {
+                    "id": "150",
+                    "image_url_1x": "https://i.ibb.co/XrrvcKTH/Gifted-150.png"
+                },
+                {
+                    "id": "200",
+                    "image_url_1x": "https://i.ibb.co/1tGL4w7J/Gifted-200.png"
+                },
+                {
+                    "id": "250",
+                    "image_url_1x": "https://i.ibb.co/Z6cXtCKH/Gifted-250.png"
+                },
+                {
+                    "id": "300",
+                    "image_url_1x": "https://i.ibb.co/jv4W3Dvr/Gifted-300.png"
+                },
+                {
+                    "id": "350",
+                    "image_url_1x": "https://i.ibb.co/7dzjXK6N/Gifted-350.png"
+                },
+                {
+                    "id": "400",
+                    "image_url_1x": "https://i.ibb.co/vvQxBQ92/Gifted-400.png"
+                },
+                {
+                    "id": "450",
+                    "image_url_1x": "https://i.ibb.co/Y4J5RYWX/Gifted-450.png"
+                },
+                {
+                    "id": "500",
+                    "image_url_1x": "https://i.ibb.co/rfzgqttr/Gifted-500.png"
+                },
+                {
+                    "id": "550",
+                    "image_url_1x": "https://i.ibb.co/Ng9z8dt7/Gifted-550.png"
+                },
+                {
+                    "id": "600",
+                    "image_url_1x": "https://i.ibb.co/4ZYL0nHS/Gifted-600.png"
+                },
+                {
+                    "id": "650",
+                    "image_url_1x": "https://i.ibb.co/214mLtzm/Gifted-650.png"
+                },
+                {
+                    "id": "700",
+                    "image_url_1x": "https://i.ibb.co/CrTBMbp/Gifted-700.png"
+                },
+                {
+                    "id": "750",
+                    "image_url_1x": "https://i.ibb.co/PvQ1GRB4/Gifted-750.png"
+                },
+                {
+                    "id": "800",
+                    "image_url_1x": "https://i.ibb.co/mCNcykLx/Gifted-800.png"
+                },
+                {
+                    "id": "850",
+                    "image_url_1x": "https://i.ibb.co/HfMXg42Z/Gifted-850.png"
+                },
+                {
+                    "id": "900",
+                    "image_url_1x": "https://i.ibb.co/TDvDk3xP/Gifted-900.png"
+                },
+                {
+                    "id": "950",
+                    "image_url_1x": "https://i.ibb.co/pjMWZNN6/Gifted-950.png"
+                },
+                {
+                    "id": "1000",
+                    "image_url_1x": "https://i.ibb.co/tp1MCwHc/Gifted-1000.png"
+                },
+                {
+                    "id": "2000",
+                    "image_url_1x": "https://i.ibb.co/vxgSfXK3/Gifted-2000.png"
+                },
+                {
+                    "id": "3000",
+                    "image_url_1x": "https://i.ibb.co/pjbNk5ft/Gifted-3000.png"
+                },
+                {
+                    "id": "4000",
+                    "image_url_1x": "https://i.ibb.co/fYj2G3MT/Gifted-4000.png"
+                },
+                {
+                    "id": "5000",
+                    "image_url_1x": "https://i.ibb.co/NnQVTLYd/Gifted-5000.png"
+                }
+            ]
+        },
+        {
+            "set_id": "bits",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/TDDhc2GD/1.png"
+                },
+                {
+                    "id": "100",
+                    "image_url_1x": "https://i.ibb.co/XZSyy2Sj/100.png"
+                },
+                {
+                    "id": "1000",
+                    "image_url_1x": "https://i.ibb.co/60ZtbnSG/1k.png"
+                },
+                {
+                    "id": "5000",
+                    "image_url_1x": "https://i.ibb.co/C3Kvp0j3/5k.png"
+                },
+                {
+                    "id": "10000",
+                    "image_url_1x": "https://i.ibb.co/0yWJXmfP/10k.png"
+                },
+                {
+                    "id": "25000",
+                    "image_url_1x": "https://i.ibb.co/mrphLGMw/25k.png"
+                },
+                {
+                    "id": "50000",
+                    "image_url_1x": "https://i.ibb.co/jvP5GkhQ/50k.png"
+                },
+                {
+                    "id": "75000",
+                    "image_url_1x": "https://i.ibb.co/6R2Rgf2k/75k.png"
+                },
+                {
+                    "id": "100000",
+                    "image_url_1x": "https://i.ibb.co/q393g3v5/100k.png"
+                },
+                {
+                    "id": "200000",
+                    "image_url_1x": "https://i.ibb.co/zHDkns88/200k.png"
+                },
+                {
+                    "id": "300000",
+                    "image_url_1x": "https://i.ibb.co/NgXBL4Z2/300k.png"
+                },
+                {
+                    "id": "400000",
+                    "image_url_1x": "https://i.ibb.co/rfqYKwF2/400k.png"
+                },
+                {
+                    "id": "500000",
+                    "image_url_1x": "https://i.ibb.co/GvVw0wyC/500k.png"
+                },
+                {
+                    "id": "600000",
+                    "image_url_1x": "https://i.ibb.co/8nBCf3kp/600k.png"
+                },
+                {
+                    "id": "700000",
+                    "image_url_1x": "https://i.ibb.co/s9yhbfGj/700k.png"
+                },
+                {
+                    "id": "800000",
+                    "image_url_1x": "https://i.ibb.co/0ys1V2XK/800k.png"
+                },
+                {
+                    "id": "900000",
+                    "image_url_1x": "https://i.ibb.co/8n2RjWsN/900k.png"
+                },
+                {
+                    "id": "1000000",
+                    "image_url_1x": "https://i.ibb.co/WWwGkNHt/1M.png"
+                },
+                {
+                    "id": "1250000",
+                    "image_url_1x": "https://i.ibb.co/nqFPHqfx/1M250k.png"
+                },
+                {
+                    "id": "1500000",
+                    "image_url_1x": "https://i.ibb.co/cXJrBsrP/1M500k.png"
+                },
+                {
+                    "id": "1750000",
+                    "image_url_1x": "https://i.ibb.co/hxNgDRVZ/1M750k.png"
+                },
+                {
+                    "id": "2000000",
+                    "image_url_1x": "https://i.ibb.co/x8ChGNgK/2M.png"
+                },
+                {
+                    "id": "2500000",
+                    "image_url_1x": "https://i.ibb.co/1fwfgPLf/2M500k.png"
+                },
+                {
+                    "id": "3000000",
+                    "image_url_1x": "https://i.ibb.co/8LyLNrQg/3M.png"
+                },
+                {
+                    "id": "3500000",
+                    "image_url_1x": "https://i.ibb.co/B5Dp21qy/3M500k.png"
+                },
+                {
+                    "id": "4000000",
+                    "image_url_1x": "https://i.ibb.co/TM3VJgY4/4M.png"
+                },
+                {
+                    "id": "4500000",
+                    "image_url_1x": "https://i.ibb.co/zhYbcgWw/4M500k.png"
+                },
+                {
+                    "id": "5000000",
+                    "image_url_1x": "https://i.ibb.co/rRYYVgwn/5M.png"
+                }
+            ]
+        },
+        {
+            "set_id": "1979-revolution_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/cX6vkywR/1979-Revolution.png"
+                }
+            ]
+        },
+        {
+            "set_id": "60-seconds_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/TDmdPK9Q/60-Seconds.png"
+                }
+            ]
+        },
+        {
+            "set_id": "60-seconds_2",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/ym4gdDkF/60-Seconds2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "60-seconds_3",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Nd1HjTPv/60-Seconds3.png"
+                }
+            ]
+        },
+        {
+            "set_id": "H1Z1_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zT0pkgDb/H1Z1.png"
+                }
+            ]
+        },
+        {
+            "set_id": "anomaly-2_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/x8Gy3y6D/Anomaly2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "anomaly-warzone-earth_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/ksPpTNns/Anomaly-Warzone-Earth.png"
+                }
+            ]
+        },
+        {
+            "set_id": "axiom-verge_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/8LzwTjmG/Axiom-Verge.png"
+                }
+            ]
+        },
+        {
+            "set_id": "battlechefbrigade_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/7dY9rd99/Battle-Chef-Brigade.png"
+                }
+            ]
+        },
+        {
+            "set_id": "battlechefbrigade_2",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/XfbMs9xc/Battle-Chef-Brigade2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "battlechefbrigade_3",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/5x89DGrb/Battle-Chef-Brigade3.png"
+                }
+            ]
+        },
+        {
+            "set_id": "battlerite_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/5W0gPr3k/Battlerite.png"
+                }
+            ]
+        },
+        {
+            "set_id": "bits-charity",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/gFFSCYQ7/Direct-Relief-Charity2018.png"
+                }
+            ]
+        },
+        {
+            "set_id": "brawlhalla_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/rRprrK16/Brawlhalla.png"
+                }
+            ]
+        },
+        {
+            "set_id": "broken-age_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/TB5Nc0cr/Broken-Age.png"
+                }
+            ]
+        },
+        {
+            "set_id": "bubsy-the-woolies_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zhkxMMtm/Bubsy-The-Woolies-Strike-Back.png"
+                }
+            ]
+        },
+        {
+            "set_id": "chatter-cs-go-2022",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/XZ3JKhqN/CSGOWeek-Brazil2022.png"
+                }
+            ]
+        },
+        {
+            "set_id": "creator-cs-go-2022",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Z6WGLmTX/CSGOWeek-Brazil2022-Creator.png"
+                }
+            ]
+        },
+        {
+            "set_id": "cuphead_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/k2V8n61M/Cuphead.png"
+                }
+            ]
+        },
+        {
+            "set_id": "darkest-dungeon_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/mV0qV7c8/Darkest-Dungeon.png"
+                }
+            ]
+        },
+        {
+            "set_id": "deceit_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/rG4Rjnx9/Deceit.png"
+                }
+            ]
+        },
+        {
+            "set_id": "devil-may-cry-hd_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/WvHqfw6c/Devil-May-Cry-HDCollection.png"
+                }
+            ]
+        },
+        {
+            "set_id": "devil-may-cry-hd_2",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/tMnSh4y0/Devil-May-Cry-HDCollection2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "devil-may-cry-hd_3",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/XxQJC2XH/Devil-May-Cry-HDCollection3.png"
+                }
+            ]
+        },
+        {
+            "set_id": "devil-may-cry-hd_4",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/BVcTvgGD/Devil-May-Cry-HDCollection4.png"
+                }
+            ]
+        },
+        {
+            "set_id": "devilian_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/DHcPDCL0/Devilian.png"
+                }
+            ]
+        },
+        {
+            "set_id": "duelyst_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/SwwB8dft/Duelyst.png"
+                }
+            ]
+        },
+        {
+            "set_id": "duelyst_2",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/3yQvhRQX/Duelyst2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "duelyst_3",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/LdrDZnLs/Duelyst3.png"
+                }
+            ]
+        },
+        {
+            "set_id": "duelyst_4",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/C3V39fXy/Duelyst4.png"
+                }
+            ]
+        },
+        {
+            "set_id": "duelyst_5",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/ynrLrPxs/Duelyst5.png"
+                }
+            ]
+        },
+        {
+            "set_id": "duelyst_6",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/nq9FwmJG/Duelyst6.png"
+                }
+            ]
+        },
+        {
+            "set_id": "duelyst_7",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Y7kwBf4w/Duelyst7.png"
+                }
+            ]
+        },
+        {
+            "set_id": "enter-the-gungeon_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/KjNDQfHW/Enter-The-Gungeon.png"
+                }
+            ]
+        },
+        {
+            "set_id": "eso_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/v6dqqHkN/Elder-Scrolls-Online.png"
+                }
+            ]
+        },
+        {
+            "set_id": "firewatch_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/mV5V8M30/Firewatch.png"
+                }
+            ]
+        },
+        {
+            "set_id": "frozen-cortext_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/7NN91MgZ/Frozen-Cortext.png"
+                }
+            ]
+        },
+        {
+            "set_id": "frozen-synapse_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/gFyyh2BC/Frozen-Synapse.png"
+                }
+            ]
+        },
+        {
+            "set_id": "getting-over-it_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/wZCGmm6j/Getting-Over-It.png"
+                }
+            ]
+        },
+        {
+            "set_id": "getting-over-it_2",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/yFjsQM54/Getting-Over-It2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "glhf-pledge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/JWvsGyzP/GLHFPledge.png"
+                }
+            ]
+        },
+        {
+            "set_id": "glitchcon2020",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/93wrw4LZ/Glitch-Con2020.png"
+                }
+            ]
+        },
+        {
+            "set_id": "gold-pixel-heart",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/d0wbmcc9/Gold-Pixel-Heart.png"
+                }
+            ]
+        },
+        {
+            "set_id": "gold-pixel-heart---together-for-good-24",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/qF0SncjF/Together-For-Good24-Gold-Pixel-Heart.png"
+                }
+            ]
+        },
+        {
+            "set_id": "purple-pixel-heart---together-for-good-24",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Wpg4FP9C/Together-For-Good24-Purple-Pixel-Heart.png"
+                }
+            ]
+        },
+        {
+            "set_id": "ruby-pixel-heart---together-for-good-24",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/fVFfVcnB/Together-For-Good24-Ruby-Pixel-Heart.png"
+                }
+            ]
+        },
+        {
+            "set_id": "heavy-bullets_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/ynk7FL83/Heavy-Bullets.png"
+                }
+            ]
+        },
+        {
+            "set_id": "hello_neighbor_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/pvRpVbtQ/Hello-Neighbor.png"
+                }
+            ]
+        },
+        {
+            "set_id": "innerspace_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/pjfdrPTW/Innerspace.png"
+                }
+            ]
+        },
+        {
+            "set_id": "innerspace_2",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/WhkTmDk/Innerspace2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "jackbox-party-pack_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/C5wL5BCd/Jackbox-Party-Pack.png"
+                }
+            ]
+        },
+        {
+            "set_id": "kingdom-new-lands_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/F4krV364/Kingdom-New-Lands.png"
+                }
+            ]
+        },
+        {
+            "set_id": "moments",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/gZxKnKgv/Moments-Tier1.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/yFyMBHz6/Moments-Tier2.png"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://i.ibb.co/dw3z7k8r/Moments-Tier3.png"
+                },
+                {
+                    "id": "4",
+                    "image_url_1x": "https://i.ibb.co/Qjvcw4vR/Moments-Tier4.png"
+                },
+                {
+                    "id": "5",
+                    "image_url_1x": "https://i.ibb.co/wZX2mND5/Moments-Tier5.png"
+                },
+                {
+                    "id": "6",
+                    "image_url_1x": "https://i.ibb.co/4RZtX8Dz/Moments-Tier6.png"
+                },
+                {
+                    "id": "7",
+                    "image_url_1x": "https://i.ibb.co/bjhJms9R/Moments-Tier7.png"
+                },
+                {
+                    "id": "8",
+                    "image_url_1x": "https://i.ibb.co/D2rQqJH/Moments-Tier8.png"
+                },
+                {
+                    "id": "9",
+                    "image_url_1x": "https://i.ibb.co/fdWRkWXb/Moments-Tier9.png"
+                },
+                {
+                    "id": "10",
+                    "image_url_1x": "https://i.ibb.co/mCWxtG5R/Moments-Tier10.png"
+                },
+                {
+                    "id": "11",
+                    "image_url_1x": "https://i.ibb.co/FbWS5m8b/Moments-Tier11.png"
+                },
+                {
+                    "id": "12",
+                    "image_url_1x": "https://i.ibb.co/fdYssdSz/Moments-Tier12.png"
+                },
+                {
+                    "id": "13",
+                    "image_url_1x": "https://i.ibb.co/LhrbykSy/Moments-Tier13.png"
+                },
+                {
+                    "id": "14",
+                    "image_url_1x": "https://i.ibb.co/ksTkd2Cd/Moments-Tier14.png"
+                },
+                {
+                    "id": "15",
+                    "image_url_1x": "https://i.ibb.co/dwQkjQRF/Moments-Tier15.png"
+                },
+                {
+                    "id": "16",
+                    "image_url_1x": "https://i.ibb.co/g070dvt/Moments-Tier16.png"
+                },
+                {
+                    "id": "17",
+                    "image_url_1x": "https://i.ibb.co/mr60Cqny/Moments-Tier17.png"
+                },
+                {
+                    "id": "18",
+                    "image_url_1x": "https://i.ibb.co/7dvtzcPm/Moments-Tier18.png"
+                },
+                {
+                    "id": "19",
+                    "image_url_1x": "https://i.ibb.co/CXmRSxL/Moments-Tier19.png"
+                },
+                {
+                    "id": "20",
+                    "image_url_1x": "https://i.ibb.co/8ncLCXbx/Moments-Tier20.png"
+                }
+            ]
+        },
+        {
+            "set_id": "okhlos_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Dg9PyWbf/Okhlos.png"
+                }
+            ]
+        },
+        {
+            "set_id": "overwatch-league-insider_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/s9mZNckr/Owl-All-Access-Pass2018.png"
+                }
+            ]
+        },
+        {
+            "set_id": "overwatch-league-insider_2018B",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zTS1h4bT/Owl-All-Access-Pass2018-2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "overwatch-league-insider_2019A",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/RT6dJRrk/Owl-All-Access-Pass2019.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/d49Q3m5K/Owl-All-Access-Pass2019-2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "overwatch-league-insider_2019B",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/0jrM5FfZ/Owl-All-Access-Pass2019-3.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/Myf7PGrz/Owl-All-Access-Pass2019-4.png"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://i.ibb.co/YFGjC7MF/Owl-All-Access-Pass2019-5.png"
+                },
+                {
+                    "id": "4",
+                    "image_url_1x": "https://i.ibb.co/x816Pshj/Owl-All-Access-Pass2019-6.png"
+                },
+                {
+                    "id": "5",
+                    "image_url_1x": "https://i.ibb.co/fzrVm8XH/Owl-All-Access-Pass2019-7.png"
+                }
+            ]
+        },
+        {
+            "set_id": "power-rangers",
+            "versions": [
+                {
+                    "id": "0",
+                    "image_url_1x": "https://i.ibb.co/8DQPRLsp/Ranger-Black.png"
+                },
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/XZ043dfK/Ranger-Blue.png"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://i.ibb.co/xtz6rKKP/Ranger-Green.png"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://i.ibb.co/k2LQDXSs/Ranger-Pink.png"
+                },
+                {
+                    "id": "4",
+                    "image_url_1x": "https://i.ibb.co/gFhLRq0g/Ranger-Red.png"
+                },
+                {
+                    "id": "5",
+                    "image_url_1x": "https://i.ibb.co/p6YTW7dH/Ranger-White.png"
+                },
+                {
+                    "id": "6",
+                    "image_url_1x": "https://i.ibb.co/3y0Jnp1D/Ranger-Yellow.png"
+                }
+            ]
+        },
+        {
+            "set_id": "psychonauts_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zT9jHrZv/Psychonauts.png"
+                }
+            ]
+        },
+        {
+            "set_id": "raiden-v-directors-cut_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/t7nTKht/RaidenV.png"
+                }
+            ]
+        },
+        {
+            "set_id": "rift_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/gb7CrSTy/Rift.png"
+                }
+            ]
+        },
+        {
+            "set_id": "rplace-2023",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/mCPT9nd6/RPlace2023-Cake.png"
+                }
+            ]
+        },
+        {
+            "set_id": "samusoffer_beta",
+            "versions": [
+                {
+                    "id": "0",
+                    "image_url_1x": "https://i.ibb.co/8LqNJsGr/Beta-Title1.png"
+                }
+            ]
+        },
+        {
+            "set_id": "starbound_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/XxSR5rr0/Starbound.png"
+                }
+            ]
+        },
+        {
+            "set_id": "strafe_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Tqt5Prsd/Strafe.png"
+                }
+            ]
+        },
+        {
+            "set_id": "streamer-awards-2024",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/ynhMXhQk/Streamer-Awards-2024.png"
+                }
+            ]
+        },
+        {
+            "set_id": "superhot_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Cp7HxcGF/Superhot.png"
+                }
+            ]
+        },
+        {
+            "set_id": "superultracombo-2023",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/1J0869tx/Super-Ultra-Combo2023.png"
+                }
+            ]
+        },
+        {
+            "set_id": "the-game-awards-2023",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/HLLSZrJS/The-Game-Awards2023.png"
+                }
+            ]
+        },
+        {
+            "set_id": "the-golden-predictor-of-the-game-awards-2023",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/C3TF2RgR/The-Game-Awards2023-The-Golden-Predictor.png"
+                }
+            ]
+        },
+        {
+            "set_id": "the-surge_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/nqyd2YBw/TheSurge.png"
+                }
+            ]
+        },
+        {
+            "set_id": "the-surge_2",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/CKx1C44L/The-Surge1.png"
+                }
+            ]
+        },
+        {
+            "set_id": "the-surge_3",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/KjYNKBts/The-Surge2.png"
+                }
+            ]
+        },
+        {
+            "set_id": "this-war-of-mine_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/9mnn20Hv/This-War-Of-Mine.png"
+                }
+            ]
+        },
+        {
+            "set_id": "titan-souls_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/7NLfSkKF/Titan-Souls.png"
+                }
+            ]
+        },
+        {
+            "set_id": "treasure-adventure-world_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/1Y4LBc6g/Treasure-Adventure-World.png"
+                }
+            ]
+        },
+        {
+            "set_id": "subtember-2024",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/HLBgt0sG/SUBtember2024.png"
+                }
+            ]
+        },
+        {
+            "set_id": "subtember-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/G4HVKq7L/SUBtember2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitch-intern-2022",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/F4YD81bv/Twitch-Intern2022.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitch-intern-2023",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/dwPv10Yg/Twitch-Intern2023.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitch-intern-2024",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/vxfzyNFk/Twitch-Intern2024.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitch-recap-2023",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/rK32wmfh/Twitch-Recap2023.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitch-recap-2024",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Q7KkVgcH/Twitch-Recap2024.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon2017",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/fdJHG6Ct/Twitch-Con2017-Long-Beach.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon2018",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/NQKvbrS/Twitch-Con2018-San-Jose.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchconNA2019",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/d4PNfw64/Twitch-Con2019-San-Diego.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchconEU2019",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/j925cg6S/Twitch-Con2019-Berlin.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchconNA2020",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/cSKsspzF/Twitch-Con2020-North-America.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchconAmsterdam2020",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/PGBqMhTf/Twitch-Con2020-Amsterdam.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchconNA2022",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/BHxv3QQK/Twitch-Con2022-San-Diego.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchconEU2022",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/RktbVnQK/Twitch-Con2022-Amsterdam.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchconNA2023",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/gZc9G2KW/Twitch-Con2023-Las-Vegas.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchconEU2023",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/9mXysGkv/Twitch-Con2023-Paris.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon-2024---san-diego",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/JFQF3WRm/Twitch-Con2024-San-Diego.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon-2024---rotterdam",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/cXrytnKZ/Twitch-Con2024-Rotterdam.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon-2025---rotterdam",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/XZDH7fvZ/Twitch-Con2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon-referral-program-2025-bleedpurple",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/sp5Y0pLF/Twitch-Con-Referral-Program2025-Bleed-Purple.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon-referral-program-2025-chrome-star",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/qMnwbJ4p/Twitch-Con-Referral-Program2025-Chrome-Star.png"
+                }
+            ]
+        },
+        {
+            "set_id": "user-anniversary",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Q3FPDMH3/Twitchiversary.png"
+                }
+            ]
+        },
+        {
+            "set_id": "tyranny_1",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/3yj56qhj/Tyranny.png"
+                }
+            ]
+        },
+        {
+            "set_id": "vga-champ-2017",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/hJjMXCJw/2017-VGAChamp.png"
+                }
+            ]
+        },
+        {
+            "set_id": "warcraft",
+            "versions": [
+                {
+                    "id": "alliance",
+                    "image_url_1x": "https://i.ibb.co/ZpsNZMRy/Alliance.png"
+                },
+                {
+                    "id": "horde",
+                    "image_url_1x": "https://i.ibb.co/jPn12k5W/Horde.png"
+                }
+            ]
+        },
+        {
+            "set_id": "minecraft-15th-anniversary-celebration",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/V0MWS39D/Minecraft15th-Anniversay-Celebration.png"
+                }
+            ]
+        },
+        {
+            "set_id": "destiny-2-final-shape-raid-race",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/hFmNx55p/Destiny2-The-Final-Shape-Raid-Race.png"
+                }
+            ]
+        },
+        {
+            "set_id": "destiny-2-the-final-shape-streamer",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/hFtDZkRD/Destiny2-The-Final-Shape-Streamer.png"
+                }
+            ]
+        },
+        {
+            "set_id": "raging-wolf-helm",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/DfHNRfg0/Raging-Wolf-Helm.png"
+                }
+            ]
+        },
+        {
+            "set_id": "la-velada-iv",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/nqcvFHB8/La-Velada-Del-Ano-IV.png"
+                }
+            ]
+        },
+        {
+            "set_id": "la-velada-v-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/SX9hgCMT/La-Velada-V.png"
+                }
+            ]
+        },
+        {
+            "set_id": "dreamcon-2024",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/ccNN9Kt0/Dream-Con2024.png"
+                }
+            ]
+        },
+        {
+            "set_id": "zevent-2024",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/ccjsXqfB/Zevent2024.png"
+                }
+            ]
+        },
+        {
+            "set_id": "zevent25",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/HTK6rNHX/ZEvent25.png"
+                }
+            ]
+        },
+        {
+            "set_id": "arcane-season-2-premiere",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/ds81w9dv/Arcane-Season2-Premiere.png"
+                }
+            ]
+        },
+        {
+            "set_id": "clip-the-halls",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/V0gNp7Jv/Clip-The-Halls.png"
+                }
+            ]
+        },
+        {
+            "set_id": "share-the-love",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/fz0qY0fY/Share-The-Love.png"
+                }
+            ]
+        },
+        {
+            "set_id": "speedons-5-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zTFh1rv9/Speedons5.png"
+                }
+            ]
+        },
+        {
+            "set_id": "gone-bananas",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/V0Dyb8J4/Gone-Bananas.png"
+                }
+            ]
+        },
+        {
+            "set_id": "marathon-reveal-runner",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/7NkgC3v2/Marathon-Reveal-Runner.png"
+                }
+            ]
+        },
+        {
+            "set_id": "elden-ring-recluse",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/JRGgCm31/Elden-Ring-Superfan-Recluse.png"
+                }
+            ]
+        },
+        {
+            "set_id": "elden-ring-wylder",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/wFJ5N1v6/Elden-Ring-Nightreign-Wylder.png"
+                }
+            ]
+        },
+        {
+            "set_id": "borderlands-4-badge---ripper",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/KzNxX1P3/Borderlands4-Ripper.png"
+                }
+            ]
+        },
+        {
+            "set_id": "borderlands-4-badge---vault-symbol",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/v6hvwnR1/Borderlands4-Vault.png"
+                }
+            ]
+        },
+        {
+            "set_id": "league-of-legends-mid-season-invitational-2025---purple",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/7xJrDQgj/League-Of-Legends-Mid-Season-Invitational2025-Purple.png"
+                }
+            ]
+        },
+        {
+            "set_id": "league-of-legends-mid-season-invitational-2025---grey",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/7Np6g9DY/League-Of-Legends-Mid-Season-Invitational2025-Grey.png"
+                }
+            ]
+        },
+        {
+            "set_id": "legendus",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/4ZzNMww2/LEGENDUS.png"
+                }
+            ]
+        },
+        {
+            "set_id": "evo-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/KCwNbMd/Evo2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "the-first-descendant-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/WNj4H7ts/The-First-Descendant.png"
+                }
+            ]
+        },
+        {
+            "set_id": "touch-grass",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/C3HRcNNq/Touch-Grass.png"
+                }
+            ]
+        },
+        {
+            "set_id": "path-of-exile-2-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/nN5bz1KX/ChaosOrb.png"
+                }
+            ]
+        },
+        {
+            "set_id": "gears-of-war-superfan-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Jj3Pk872/Gears-Of-War-Superfan.png"
+                }
+            ]
+        },
+        {
+            "set_id": "hornet",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zWSPqSBM/Hornet.png"
+                }
+            ]
+        },
+        {
+            "set_id": "vct-paris-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/tMw0Kbw8/VCTParis2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "video-games-day",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/6JZ2Kvc2/Video-Games-Day.png"
+                }
+            ]
+        },
+        {
+            "set_id": "gp-explorer-3",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/35dmqkwH/GPExplorer3.png"
+                }
+            ]
+        },
+        {
+            "set_id": "mel",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/21WZWCBR/Mel.png"
+                }
+            ]
+        },
+        {
+            "set_id": "sonic-racing-crossworlds",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/4g3wb0RQ/Sonic-Racing.png"
+                }
+            ]
+        },
+        {
+            "set_id": "gamerduo",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/pB87rHP7/Gamerduo.png"
+                }
+            ]
+        },
+        {
+            "set_id": "gingko-leaf",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/nsw0bnP1/Gingko-Leaf.png"
+                }
+            ]
+        },
+        {
+            "set_id": "the-onryos-mask",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Nd5cwwsm/The-Onryos-Mask.png"
+                }
+            ]
+        },
+        {
+            "set_id": "alone",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Q7q7ZhSH/Alone.png"
+                }
+            ]
+        },
+        {
+            "set_id": "low",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/qLfgFNFj/Low.png"
+                }
+            ]
+        },
+        {
+            "set_id": "battlefield-6",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/xSCYBXQc/Battlefield6.png"
+                }
+            ]
+        },
+        {
+            "set_id": "the-man-without-fear",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/h19PQkFg/The-Man-Without-Fear.png"
+                }
+            ]
+        },
+        {
+            "set_id": "lol-worlds-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/99vsz2Pt/LOLWorlds2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "pokemon-legends-z-a-chikorita",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/YT3HzXnB/Pokemon-Legends-ZA-Chikorita.png"
+                }
+            ]
+        },
+        {
+            "set_id": "pokemon-legends-z-a-tepig",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/YFwvfhLK/Pokemon-Legends-ZA-Tepig.png"
+                }
+            ]
+        },
+        {
+            "set_id": "pokemon-legends-z-a-totodile",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/39ywB12s/Pokemon-Legends-ZA-Totodile.png"
+                }
+            ]
+        },
+        {
+            "set_id": "sajam-slam-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/23StZkFm/Sajam-Slam.png"
+                }
+            ]
+        },
+        {
+            "set_id": "fright-fest-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/dJVVCKGd/Fright-Fest2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "arc-raiders-launch-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/KjnP31Lq/Arc-Raiders-Launch2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "black-ops-7-global-launch",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Gf9zJDqm/Black-Ops7-Global-Launch.png"
+                }
+            ]
+        },
+        {
+            "set_id": "stream-for-humanity-2-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/chJ7nhvc/streamforhumanity20252.png"
+                }
+            ]
+        },
+        {
+            "set_id": "together-for-good-25---good-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/99NHXdHR/Together-For-Good25-Good.png"
+                }
+            ]
+        },
+        {
+            "set_id": "together-for-good-25---gooder-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/XxkHnBh5/Together-For-Good25-Gooder.png"
+                }
+            ]
+        },
+        {
+            "set_id": "together-for-good-25---goodest-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/67KjhT8g/Together-For-Good25-Goodest.png"
+                }
+            ]
+        },
+        {
+            "set_id": "together-for-good-25---wicked-dub-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/GfLW49VR/Together-For-Good25-Wicked.png"
+                }
+            ]
+        },
+        {
+            "set_id": "survival-cup-4",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/9kLTk49y/Survival-Cup4.png"
+                }
+            ]
+        },
+        {
+            "set_id": "dragonscimmy",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/3y3GfHHt/Dragon-Scimmy.png"
+                }
+            ]
+        },
+        {
+            "set_id": "rainbow-six-siege-x-10th-anniversary",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/vxcb3P1k/Rainbow-Six-Siege-X.png"
+                }
+            ]
+        },
+        {
+            "set_id": "ugly-sweater",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/1tNCnQc6/Ugly-Sweater.png"
+                }
+            ]
+        },
+        {
+            "set_id": "streamer-awards-tux",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/tMPd4n7J/Streamer-Awards-2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "twitch-recap-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Z60kGwP9/Twitch-Recap2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "total-war-anniversary",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/gZzkP2p8/Total-War-Anniversary.png"
+                }
+            ]
+        },
+        {
+            "set_id": "revedtv-stream-awards-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/sptcc3x6/Reved-TVStream-Awards2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "rustmas-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/236xcYRw/Rustmas2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "k4sen-con-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/6ccCcZGg/K4-SENCon2025.png"
+                }
+            ]
+        },
+        {
+            "set_id": "jeff-the-land-shark",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/Spt6X8T/Jeff-The-Land-Shark.png"
+                }
+            ]
+        },
+        {
+            "set_id": "raider-icon-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/XrcjqZdv/Raider-Icon.png"
+                }
+            ]
+        },
+        {
+            "set_id": "hunt-crosses",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/70R8D7P/Hunt-Crosses.png"
+                }
+            ]
+        },
+        {
+            "set_id": "support-a-streamer-ho26-badge",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/KcJDkcSQ/Support-Streamer-HO26.png"
+                }
+            ]
+        },
+        {
+            "set_id": "frog-lantern",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/FLjwSTPS/Frog-Lantern.png"
+                }
+            ]
+        },
+        {
+            "set_id": "tft-paris-open",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/pqwgXWf/TFTParis-Open.png"
+                }
+            ]
+        },
+        {
+            "set_id": "diana",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/qLH6DvB3/Diana.png"
+                }
+            ]
+        },
+        {
+            "set_id": "5-years-as-twitch-staff",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/hFYP79Wx/Twitch-Staff05-Years.png"
+                }
+            ]
+        },
+        {
+            "set_id": "10-years-as-twitch-staff",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/nqVtnLqP/Twitch-Staff10-Years.png"
+                }
+            ]
+        },
+        {
+            "set_id": "15-years-as-twitch-staff",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/nMBKsMy3/Twitch-Staff15-Years.png"
+                }
+            ]
+        },
+        {
+            "set_id": "fallout-season-2-ghoul",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/wN9NbZTq/Fallout-Season2-Ghoul.png"
+                }
+            ]
+        },
+        {
+            "set_id": "purple-noob",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://i.ibb.co/zWk9bzDp/Purple-Noob.png"
+                }
+            ]
+        },
+        {
+            "set_id": "lead-moderator",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0822047b-65e0-46f2-94a9-d1091d685d33/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0822047b-65e0-46f2-94a9-d1091d685d33/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0822047b-65e0-46f2-94a9-d1091d685d33/3"
+                }
+            ]
+        },
+        {
+            "set_id": "revedtv-streamawards-2025",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/03cb38fd-00cc-4ed8-8d24-ce53189ee1de/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/03cb38fd-00cc-4ed8-8d24-ce53189ee1de/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/03cb38fd-00cc-4ed8-8d24-ce53189ee1de/3"
+                }
+            ]
+        },
+        {
+            "set_id": "the-onrys-mask",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e0d21894-8d58-4266-9127-b1bd61177899/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e0d21894-8d58-4266-9127-b1bd61177899/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e0d21894-8d58-4266-9127-b1bd61177899/3"
+                }
+            ]
+        },
+        {
+            "set_id": "path-of-exile-ii",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8bebe4ce-6c15-4746-8c33-42312c250ceb/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8bebe4ce-6c15-4746-8c33-42312c250ceb/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8bebe4ce-6c15-4746-8c33-42312c250ceb/3"
+                }
+            ]
+        },
+        {
+            "set_id": "elden-ring-superfan-badge---recluse",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5afadc6c-933b-4ede-b318-3752bbf267a9/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5afadc6c-933b-4ede-b318-3752bbf267a9/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5afadc6c-933b-4ede-b318-3752bbf267a9/3"
+                }
+            ]
+        },
+        {
+            "set_id": "elden-ring--nightreign-clip-badge---wylder",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5d5ab328-0916-4655-90b9-78b983ca4262/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5d5ab328-0916-4655-90b9-78b983ca4262/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5d5ab328-0916-4655-90b9-78b983ca4262/3"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchbot",
+            "versions": [
+                {
+                    "id": "2",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8dbdfef5-0901-457f-a644-afa77ba176e5/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8dbdfef5-0901-457f-a644-afa77ba176e5/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8dbdfef5-0901-457f-a644-afa77ba176e5/3"
+                },
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/df9095f6-a8a0-4cc2-bb33-d908c0adffb8/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/df9095f6-a8a0-4cc2-bb33-d908c0adffb8/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/df9095f6-a8a0-4cc2-bb33-d908c0adffb8/3"
+                }
+            ]
+        },
+        {
+            "set_id": "global_mod",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9384c43e-4ce7-4e94-b2a1-b93656896eba/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9384c43e-4ce7-4e94-b2a1-b93656896eba/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9384c43e-4ce7-4e94-b2a1-b93656896eba/3"
+                }
+            ]
+        },
+        {
+            "set_id": "anonymous-cheerer",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ca3db7f7-18f5-487e-a329-cd0b538ee979/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ca3db7f7-18f5-487e-a329-cd0b538ee979/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ca3db7f7-18f5-487e-a329-cd0b538ee979/3"
+                }
+            ]
+        },
+        {
+            "set_id": "admin",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9ef7e029-4cdf-4d4d-a0d5-e2b3fb2583fe/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9ef7e029-4cdf-4d4d-a0d5-e2b3fb2583fe/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9ef7e029-4cdf-4d4d-a0d5-e2b3fb2583fe/3"
+                }
+            ]
+        }
+    ]
 }
