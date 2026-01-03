@@ -50,9 +50,15 @@ jobs:
           git config --global --add safe.directory /github/workspace
           git config --global user.name "Global-Badges-Automator"
           git config --global user.email "bot@github.com"
-          git pull --rebase -X ours origin main
+          
           git add global-badges.json
+          git stash
 
+          git pull --rebase -X ours origin main
+
+          git stash pop || echo "No changes to pop"
+
+          git add global-badges.json
           if git diff --staged --quiet; then
             echo "changes=false" >> $GITHUB_OUTPUT
             exit 0
