@@ -93,7 +93,7 @@ def sync():
                 db = json.load(f)
 
         scraped = get_scraped_data()
-        if not scraped: raise Exception("Scrape empty.")
+        if not scraped: raise Exception("Scrape empty or failed.")
 
         lookup = {(b['set_id'], str(b['id'])): b for b in scraped}
         changed, existing_combinations = False, set()
