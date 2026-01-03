@@ -19,13 +19,14 @@ jobs:
         with:
           persist-credentials: true
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip'
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install requests beautifulsoup4 cloudscraper playwright playwright-stealth
           playwright install chromium
       - name: Heartbeat Notification
         if: always()
@@ -44,8 +45,21 @@ jobs:
           git config --global user.email "bot@github.com"
           git pull --rebase -X ours origin main
           git add global-badges.json
+
+          if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
           git commit -m "Auto-sync and repair [Skip CI]" || exit 0
           git push origin main
+          echo "changes=true" >> $GITHUB_OUTPUT
+      - name: Success Notification
+        if: steps.deploy.outputs.changes == 'true'
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{"username": "Badge Bot", "content": "🎉 **Sync Successful:** New badges have been added."}' \
+          ${{ secrets.DISCORD_WEBHOOK }}
       - name: No New Badges Notification
         if: steps.deploy.outputs.changes == 'false'
         run: |
