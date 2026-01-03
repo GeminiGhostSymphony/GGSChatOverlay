@@ -20,10 +20,17 @@ jobs:
           persist-credentials: true
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip'
+      - name: Debug Environment
+        run: |
+          echo "Current Directory: $(pwd)"
+          ls -R
+          python --version
+          pip --version
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 cloudscraper playwright playwright-stealth
@@ -37,7 +44,7 @@ jobs:
       - name: Run Sync
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: python update_global_badges.py
+        run: python -u update_global_badges.py
       - name: Deploy
         run: |
           git config --global --add safe.directory /github/workspace
