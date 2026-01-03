@@ -46,6 +46,7 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: python -u update_global_badges.py
       - name: Deploy
+        id: deploy
         run: |
           git config --global --add safe.directory /github/workspace
           git config --global user.name "Global-Badges-Automator"
@@ -64,7 +65,7 @@ jobs:
             exit 0
           fi
           
-          git commit -m "Auto-sync and repair [Skip CI]" || exit 0
+          git commit -m "Auto-sync and repair [Skip CI]"
           git push origin main
           echo "changes=true" >> $GITHUB_OUTPUT
       - name: Success Notification
