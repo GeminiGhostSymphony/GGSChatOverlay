@@ -35,18 +35,26 @@ def notify_discord(message, image_url=None):
     except: pass
 
 def get_scraped_data_playwright():
-    print("DEBUG: Using Playwright fallback with Stealth class...")
+    print("DEBUG: Using Playwright fallback with element-based waiting")
     with sync_playwright() as p:
         try:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context()
+            browser = p.chromium.launch(headless=True, args=["--disable-blink-features=AutomationControlled"])
+
+            context = browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            )
             page = context.new_page()
             
             stealth = Stealth()
             stealth.apply_stealth_sync(page)
             
-            page.goto(SOURCE_URL, wait_until="networkidle", timeout=60000)
-            time.sleep(5)
+            page.goto(SOURCE_URL, wait_until="domcontentloaded", timeout=60000)
+            
+            print("DEBUG: Waiting for badge links to appear...")
+            page.wait_for_selector('a[href*="/twitch/global-badges/"]', timeout=15000)
+            
+            time.sleep(3)
+            
             content = page.content()
             browser.close()
             return content
@@ -104,6 +112,7 @@ def sync():
         changed, existing_combinations = False, set()
 
         # Build existing map
+        print("DEBUG: Building map")
         if "global" in db:
             for item in db.get("global", []):
                 sid = str(item.get("set_id"))
@@ -112,6 +121,7 @@ def sync():
                     existing_combinations.add((sid, vid))
 
         # Add New Badges
+        print("DEBUG: Adding badges")
         for b in scraped:
             sid, vid = str(b["set_id"]), str(b["id"])
             if (sid, vid) in existing_combinations: continue
