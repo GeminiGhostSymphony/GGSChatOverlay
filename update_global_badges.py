@@ -4,12 +4,15 @@ import os
 import re
 import time
 import random
+import sys
+import traceback
 from bs4 import BeautifulSoup
 
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 
-sys.stdout.reconfigure(line_buffering=True)
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(line_buffering=True)
 
 try:
     import cloudscraper
