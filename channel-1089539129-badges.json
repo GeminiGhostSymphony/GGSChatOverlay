@@ -5,31 +5,45 @@
       "versions": [
         {
           "id": "0",
-          "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
+          "image_url_1x": "https://i.ibb.co/dJcD4w7G/1month-72px.png",
+          "image_url_2x": "https://i.ibb.co/dJcD4w7G/1month-72px.png",
+          "image_url_4x": "https://i.ibb.co/dJcD4w7G/1month-72px.png"
         },
         {
           "id": "1",
-          "image_url_1x": "https://i.ibb.co/wNVD1nBj/1Month.png"
+          "image_url_1x": "https://i.ibb.co/dJcD4w7G/1month-72px.png",
+          "image_url_2x": "https://i.ibb.co/dJcD4w7G/1month-72px.png",
+          "image_url_4x": "https://i.ibb.co/dJcD4w7G/1month-72px.png"
         },
         {
           "id": "2",
-          "image_url_1x": "https://i.ibb.co/QFDZC2hM/2Month.png"
+          "image_url_1x": "https://i.ibb.co/PvGCNKVK/2month-72px.png",
+          "image_url_2x": "https://i.ibb.co/PvGCNKVK/2month-72px.png",
+          "image_url_4x": "https://i.ibb.co/PvGCNKVK/2month-72px.png"
         },
         {
           "id": "3",
-          "image_url_1x": "https://i.ibb.co/XZRpY6wB/3Month.png"
+          "image_url_1x": "https://i.ibb.co/ccn0V1df/3month-72px.png",
+          "image_url_2x": "https://i.ibb.co/ccn0V1df/3month-72px.png",
+          "image_url_4x": "https://i.ibb.co/ccn0V1df/3month-72px.png"
         },
         {
           "id": "6",
-          "image_url_1x": "https://i.ibb.co/n8MnLxtv/6Month.png"
+          "image_url_1x": "https://i.ibb.co/WW8GtdZy/6month-72px.png",
+          "image_url_2x": "https://i.ibb.co/WW8GtdZy/6month-72px.png",
+          "image_url_4x": "https://i.ibb.co/WW8GtdZy/6month-72px.png"
         },
         {
           "id": "9",
-          "image_url_1x": "https://i.ibb.co/yFhqnS0T/9Month.png"
+          "image_url_1x": "https://i.ibb.co/PZWNfmSV/9month-72px.png",
+          "image_url_2x": "https://i.ibb.co/PZWNfmSV/9month-72px.png",
+          "image_url_4x": "https://i.ibb.co/PZWNfmSV/9month-72px.png"
         },
         {
           "id": "12",
-          "image_url_1x": "https://i.ibb.co/S7cn0d89/12Month.png"
+          "image_url_1x": "https://i.ibb.co/1JZPZKw1/1-YCassie-72px.png",
+          "image_url_2x": "https://i.ibb.co/1JZPZKw1/1-YCassie-72px.png",
+          "image_url_4x": "https://i.ibb.co/1JZPZKw1/1-YCassie-72px.png"
         }
       ]
     },
@@ -38,11 +52,15 @@
       "versions": [
         {
           "id": "2000",
-          "image_url_1x": "https://i.ibb.co/TxSs8tS3/Tier2-Flair.png"
+          "image_url_1x": "https://i.ibb.co/TxSs8tS3/Tier2-Flair.png",
+          "image_url_2x": "https://i.ibb.co/TxSs8tS3/Tier2-Flair.png",
+          "image_url_4x": "https://i.ibb.co/TxSs8tS3/Tier2-Flair.png"
         },
         {
           "id": "3000",
-          "image_url_1x": "https://i.ibb.co/sdBYzh1r/Tier3-Flair.png"
+          "image_url_1x": "https://i.ibb.co/sdBYzh1r/Tier3-Flair.png",
+          "image_url_2x": "https://i.ibb.co/sdBYzh1r/Tier3-Flair.png",
+          "image_url_2x": "https://i.ibb.co/sdBYzh1r/Tier3-Flair.png"
         }
       ]
     }
