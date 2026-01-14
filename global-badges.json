@@ -2439,6 +2439,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9ef7e029-4cdf-4d4d-a0d5-e2b3fb2583fe/3"
                 }
             ]
+        },
+        {
+            "set_id": "umbrella-corporation",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/995ff00f-c16c-4782-86ba-f2d7668dc6a2/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/995ff00f-c16c-4782-86ba-f2d7668dc6a2/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/995ff00f-c16c-4782-86ba-f2d7668dc6a2/3"
+                }
+            ]
         }
     ]
 }
