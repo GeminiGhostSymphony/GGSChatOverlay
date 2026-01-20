@@ -133,6 +133,9 @@ def sync():
                 db["global"].append({"set_id": sid, "versions": [new_v]})
             else:
                 target["versions"].append(new_v)
+
+            message = f"New Twitch Badge Found: **{b['name']}** (`{b['set_id']}/{b['id']}`)"
+            notify_discord(message, image_url=b['url'])
             
             changed = True
             existing_combinations.add((sid, vid))
