@@ -37,4 +37,4 @@ if (changedFile) {
 }
 
 // Set an output to be used in the commit message
-console.log(`::set-output name=changed_file::${changedFile}`);
+fs.appendFileSync(process.env.GITHUB_OUTPUT, `changed_file=${changedFile}\n`);
