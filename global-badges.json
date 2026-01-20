@@ -2450,6 +2450,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/995ff00f-c16c-4782-86ba-f2d7668dc6a2/3"
                 }
             ]
+        },
+        {
+            "set_id": "lamby",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c0801fe9-3d54-49d1-801c-3c1fadde09cd/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c0801fe9-3d54-49d1-801c-3c1fadde09cd/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c0801fe9-3d54-49d1-801c-3c1fadde09cd/3"
+                }
+            ]
         }
     ]
 }
