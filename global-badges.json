@@ -2461,6 +2461,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c0801fe9-3d54-49d1-801c-3c1fadde09cd/3"
                 }
             ]
+        },
+        {
+            "set_id": "bungie-foundation-supporter",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/85cb4623-0dd6-4f41-b86e-765bc8ac367d/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/85cb4623-0dd6-4f41-b86e-765bc8ac367d/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/85cb4623-0dd6-4f41-b86e-765bc8ac367d/3"
+                }
+            ]
+        },
+        {
+            "set_id": "bungie-foundation-ally",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f5f78a03-c73e-4ae4-86d3-a3bef7ceca6f/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f5f78a03-c73e-4ae4-86d3-a3bef7ceca6f/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f5f78a03-c73e-4ae4-86d3-a3bef7ceca6f/3"
+                }
+            ]
         }
     ]
 }
