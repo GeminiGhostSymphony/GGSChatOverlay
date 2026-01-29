@@ -2483,6 +2483,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f5f78a03-c73e-4ae4-86d3-a3bef7ceca6f/3"
                 }
             ]
+        },
+        {
+            "set_id": "kodama",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/374ef606-cf25-475e-994b-f7d36b8acd43/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/374ef606-cf25-475e-994b-f7d36b8acd43/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/374ef606-cf25-475e-994b-f7d36b8acd43/3"
+                }
+            ]
         }
     ]
 }
