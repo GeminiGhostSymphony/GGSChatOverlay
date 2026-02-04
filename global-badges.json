@@ -2494,6 +2494,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/374ef606-cf25-475e-994b-f7d36b8acd43/3"
                 }
             ]
+        },
+        {
+            "set_id": "scampuss",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/1ae8da3f-04ba-4cf1-93e8-a1f90e09aa45/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/1ae8da3f-04ba-4cf1-93e8-a1f90e09aa45/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1ae8da3f-04ba-4cf1-93e8-a1f90e09aa45/3"
+                }
+            ]
+        },
+        {
+            "set_id": "yellow-noob",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d87a78f5-76d9-451f-8f31-752a369e6045/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d87a78f5-76d9-451f-8f31-752a369e6045/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d87a78f5-76d9-451f-8f31-752a369e6045/3"
+                }
+            ]
         }
     ]
 }
