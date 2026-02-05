@@ -2516,6 +2516,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d87a78f5-76d9-451f-8f31-752a369e6045/3"
                 }
             ]
+        },
+        {
+            "set_id": "diablo-30th-anniversary",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2f98d79a-c78c-4c61-ac9e-7bc544d44619/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2f98d79a-c78c-4c61-ac9e-7bc544d44619/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2f98d79a-c78c-4c61-ac9e-7bc544d44619/3"
+                }
+            ]
+        },
+        {
+            "set_id": "bingbonglove",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4ffa02fc-ae89-4557-95ca-b9fc65909bd0/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4ffa02fc-ae89-4557-95ca-b9fc65909bd0/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4ffa02fc-ae89-4557-95ca-b9fc65909bd0/3"
+                }
+            ]
+        },
+        {
+            "set_id": "lost-ark-anniversary",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/77995962-b02e-48e3-92ab-b77a4b352fb3/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/77995962-b02e-48e3-92ab-b77a4b352fb3/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/77995962-b02e-48e3-92ab-b77a4b352fb3/3"
+                }
+            ]
         }
     ]
 }
