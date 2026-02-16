@@ -2571,6 +2571,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/50488ced-e1ee-4ea4-bb44-fb60d7d396c2/3"
                 }
             ]
+        },
+        {
+            "set_id": "the-deer",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5f026869-a186-4f98-bb11-3eb148633d85/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5f026869-a186-4f98-bb11-3eb148633d85/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5f026869-a186-4f98-bb11-3eb148633d85/3"
+                }
+            ]
         }
     ]
 }
