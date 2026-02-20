@@ -2593,6 +2593,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2ff5095e-8b37-489c-9a53-336bf806dca2/3"
                 }
             ]
+        },
+        {
+            "set_id": "hypershot-celestial",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3ee3441d-92d4-4f00-b8b4-64cb3d97e17e/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3ee3441d-92d4-4f00-b8b4-64cb3d97e17e/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3ee3441d-92d4-4f00-b8b4-64cb3d97e17e/3"
+                }
+            ]
         }
     ]
 }
