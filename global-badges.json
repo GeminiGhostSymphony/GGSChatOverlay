@@ -2604,6 +2604,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3ee3441d-92d4-4f00-b8b4-64cb3d97e17e/3"
                 }
             ]
+        },
+        {
+            "set_id": "marathon-sub-burger",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5bc8a500-12f5-42c4-86f7-a678d1f930a1/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5bc8a500-12f5-42c4-86f7-a678d1f930a1/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5bc8a500-12f5-42c4-86f7-a678d1f930a1/3"
+                }
+            ]
+        },
+        {
+            "set_id": "marathon-silkworm",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/eabd1994-d054-4eb1-a740-7cce1ad4f0cb/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/eabd1994-d054-4eb1-a740-7cce1ad4f0cb/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/eabd1994-d054-4eb1-a740-7cce1ad4f0cb/3"
+                }
+            ]
+        },
+        {
+            "set_id": "aang",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/dfc8243b-037c-4e5e-a8f3-87ad1f01850d/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/dfc8243b-037c-4e5e-a8f3-87ad1f01850d/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/dfc8243b-037c-4e5e-a8f3-87ad1f01850d/3"
+                }
+            ]
         }
     ]
 }
