@@ -2637,6 +2637,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/dfc8243b-037c-4e5e-a8f3-87ad1f01850d/3"
                 }
             ]
+        },
+        {
+            "set_id": "pokemon-30th-anniversary",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c4c10b31-ad76-4600-a3cc-48c875e1f7c0/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c4c10b31-ad76-4600-a3cc-48c875e1f7c0/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c4c10b31-ad76-4600-a3cc-48c875e1f7c0/3"
+                }
+            ]
+        },
+        {
+            "set_id": "mr-raccoon",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/057b7ef9-6b3d-4a9c-9f0c-ede0df1315db/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/057b7ef9-6b3d-4a9c-9f0c-ede0df1315db/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/057b7ef9-6b3d-4a9c-9f0c-ede0df1315db/3"
+                }
+            ]
+        },
+        {
+            "set_id": "toxic-zombie",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ccdf9673-a0b8-4bc1-a40f-105b8b951f98/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ccdf9673-a0b8-4bc1-a40f-105b8b951f98/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ccdf9673-a0b8-4bc1-a40f-105b8b951f98/3"
+                }
+            ]
         }
     ]
 }
