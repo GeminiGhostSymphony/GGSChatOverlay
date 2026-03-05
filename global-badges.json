@@ -2703,6 +2703,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4a354d32-ca7f-4d6f-815a-f80be9c7c088/3"
                 }
             ]
+        },
+        {
+            "set_id": "ditto",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b577304e-7dc9-49f2-bee1-68caf56a91e6/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b577304e-7dc9-49f2-bee1-68caf56a91e6/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b577304e-7dc9-49f2-bee1-68caf56a91e6/3"
+                }
+            ]
         }
     ]
 }
