@@ -2714,6 +2714,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b577304e-7dc9-49f2-bee1-68caf56a91e6/3"
                 }
             ]
+        },
+        {
+            "set_id": "first-strike-2026-viewer",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2ae99aac-ac5b-4d69-884b-3eb20621340d/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2ae99aac-ac5b-4d69-884b-3eb20621340d/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2ae99aac-ac5b-4d69-884b-3eb20621340d/3"
+                }
+            ]
+        },
+        {
+            "set_id": "first-strike-2026-supporter",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ea899f87-f7f5-4d9d-9de9-173331341199/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ea899f87-f7f5-4d9d-9de9-173331341199/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ea899f87-f7f5-4d9d-9de9-173331341199/3"
+                }
+            ]
+        },
+        {
+            "set_id": "crimson-butterfly",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/63243824-6d43-45cf-8d21-fe0b06ab587f/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/63243824-6d43-45cf-8d21-fe0b06ab587f/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/63243824-6d43-45cf-8d21-fe0b06ab587f/3"
+                }
+            ]
         }
     ]
 }
