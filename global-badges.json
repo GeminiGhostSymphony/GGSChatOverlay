@@ -2791,6 +2791,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/309c197a-69ed-4c15-8226-a0992f1f5b68/3"
                 }
             ]
+        },
+        {
+            "set_id": "crimson-desert---crest",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2107571b-2db3-401b-b8e1-13b9e9696ea7/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2107571b-2db3-401b-b8e1-13b9e9696ea7/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2107571b-2db3-401b-b8e1-13b9e9696ea7/3"
+                }
+            ]
         }
     ]
 }
