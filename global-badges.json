@@ -2802,6 +2802,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2107571b-2db3-401b-b8e1-13b9e9696ea7/3"
                 }
             ]
+        },
+        {
+            "set_id": "borderlands-4---c4sh",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/42e19e2e-a07a-4446-862b-1b1567d344b8/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/42e19e2e-a07a-4446-862b-1b1567d344b8/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/42e19e2e-a07a-4446-862b-1b1567d344b8/3"
+                }
+            ]
         }
     ]
 }
