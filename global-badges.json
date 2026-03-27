@@ -2813,6 +2813,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/42e19e2e-a07a-4446-862b-1b1567d344b8/3"
                 }
             ]
+        },
+        {
+            "set_id": "star-force-mega-man",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ce4e940c-025b-42fa-99f0-776459c511e9/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ce4e940c-025b-42fa-99f0-776459c511e9/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ce4e940c-025b-42fa-99f0-776459c511e9/3"
+                }
+            ]
+        },
+        {
+            "set_id": "puacl2026-finals-charizard",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0ff76959-0c05-4406-b18a-779fd6debdd6/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0ff76959-0c05-4406-b18a-779fd6debdd6/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0ff76959-0c05-4406-b18a-779fd6debdd6/3"
+                }
+            ]
         }
     ]
 }
