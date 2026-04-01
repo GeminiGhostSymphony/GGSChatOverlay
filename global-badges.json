@@ -2846,6 +2846,35 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/52f0ea34-b35a-4bab-97a0-c7d354a27268/3"
                 }
             ]
+        },
+        {
+            "set_id": "bloom-badge",
+            "versions": [
+                {
+                    "id": "4",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d52284fd-bf7a-4a94-85ad-e2f0427ec6db/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d52284fd-bf7a-4a94-85ad-e2f0427ec6db/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d52284fd-bf7a-4a94-85ad-e2f0427ec6db/3"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d7c40c24-02ca-4221-ae02-28402528a006/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d7c40c24-02ca-4221-ae02-28402528a006/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d7c40c24-02ca-4221-ae02-28402528a006/3"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/45eea8e2-e0b3-4560-a32f-4a4cb5b0a061/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/45eea8e2-e0b3-4560-a32f-4a4cb5b0a061/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/45eea8e2-e0b3-4560-a32f-4a4cb5b0a061/3"
+                },
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6c119c4d-adb3-4199-a0cb-3e09d7bc14c3/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6c119c4d-adb3-4199-a0cb-3e09d7bc14c3/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6c119c4d-adb3-4199-a0cb-3e09d7bc14c3/3"
+                }
+            ]
         }
     ]
 }
