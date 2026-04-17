@@ -2952,6 +2952,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ca9f2cd1-ab84-4e45-9192-e7074cb001ea/3"
                 }
             ]
+        },
+        {
+            "set_id": "cryana",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a7dda6c4-4994-4d8d-99f4-525f06690329/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a7dda6c4-4994-4d8d-99f4-525f06690329/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a7dda6c4-4994-4d8d-99f4-525f06690329/3"
+                }
+            ]
+        },
+        {
+            "set_id": "clair-obscur-expedition-33-one-year-anniversary",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/44044991-46d1-436e-9ec8-d528a211f814/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/44044991-46d1-436e-9ec8-d528a211f814/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/44044991-46d1-436e-9ec8-d528a211f814/3"
+                }
+            ]
         }
     ]
 }
