@@ -2974,6 +2974,72 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/44044991-46d1-436e-9ec8-d528a211f814/3"
                 }
             ]
+        },
+        {
+            "set_id": "final-fantasy-xiv-fan-festival-2026-jp---quest-complete-chat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5496ec38-8559-4135-ac65-e0bcbe595349/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5496ec38-8559-4135-ac65-e0bcbe595349/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5496ec38-8559-4135-ac65-e0bcbe595349/3"
+                }
+            ]
+        },
+        {
+            "set_id": "final-fantasy-xiv-fan-festival-2026-jp---alpha-chat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8e38cacd-4028-4a70-8286-4b14f8d66209/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8e38cacd-4028-4a70-8286-4b14f8d66209/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8e38cacd-4028-4a70-8286-4b14f8d66209/3"
+                }
+            ]
+        },
+        {
+            "set_id": "final-fantasy-xiv-fan-festival-2026-na---main-scenario-quest-chat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/da897ed5-2676-4e90-a92e-fc7764bd7e45/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/da897ed5-2676-4e90-a92e-fc7764bd7e45/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/da897ed5-2676-4e90-a92e-fc7764bd7e45/3"
+                }
+            ]
+        },
+        {
+            "set_id": "final-fantasy-xiv-fan-festival-2026-na---fat-cat-chat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/82ff2bf7-45cf-4cfa-8eb0-253dc879c2a9/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/82ff2bf7-45cf-4cfa-8eb0-253dc879c2a9/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/82ff2bf7-45cf-4cfa-8eb0-253dc879c2a9/3"
+                }
+            ]
+        },
+        {
+            "set_id": "final-fantasy-xiv-fan-festival-2026-eu---moogle-chat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/70fb9cfd-c505-40f0-8a90-f7dbb9a02fd6/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/70fb9cfd-c505-40f0-8a90-f7dbb9a02fd6/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/70fb9cfd-c505-40f0-8a90-f7dbb9a02fd6/3"
+                }
+            ]
+        },
+        {
+            "set_id": "final-fantasy-xiv-fan-festival-2026-eu---content-unlock-quest-chat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/54adb9cc-460d-4d16-a577-1c7a8135a162/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/54adb9cc-460d-4d16-a577-1c7a8135a162/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/54adb9cc-460d-4d16-a577-1c7a8135a162/3"
+                }
+            ]
         }
     ]
 }
