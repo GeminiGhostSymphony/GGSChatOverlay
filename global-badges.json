@@ -3040,6 +3040,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/54adb9cc-460d-4d16-a577-1c7a8135a162/3"
                 }
             ]
+        },
+        {
+            "set_id": "invincible-vs",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5bec611b-d8a1-4da4-9218-341e8e46d847/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5bec611b-d8a1-4da4-9218-341e8e46d847/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5bec611b-d8a1-4da4-9218-341e8e46d847/3"
+                }
+            ]
         }
     ]
 }
