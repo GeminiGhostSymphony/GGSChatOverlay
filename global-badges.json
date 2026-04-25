@@ -3051,6 +3051,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5bec611b-d8a1-4da4-9218-341e8e46d847/3"
                 }
             ]
+        },
+        {
+            "set_id": "final-fantasy-xiv-fan-festival-2026-na---main-scenario-quest-",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4629468f-897e-4466-8599-d828cf079cdc/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4629468f-897e-4466-8599-d828cf079cdc/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4629468f-897e-4466-8599-d828cf079cdc/3"
+                }
+            ]
+        },
+        {
+            "set_id": "final-fantasy-xiv-fan-festival-2026-na---fat-cat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/dd9eae59-5dfd-499d-9cb2-f9e4440ef622/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/dd9eae59-5dfd-499d-9cb2-f9e4440ef622/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/dd9eae59-5dfd-499d-9cb2-f9e4440ef622/3"
+                }
+            ]
         }
     ]
 }
