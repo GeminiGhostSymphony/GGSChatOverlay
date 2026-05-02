@@ -3073,6 +3073,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/dd9eae59-5dfd-499d-9cb2-f9e4440ef622/3"
                 }
             ]
+        },
+        {
+            "set_id": "unicorn-tachanka",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/dc23d5e0-b9ec-4729-9d53-ca1a8328add0/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/dc23d5e0-b9ec-4729-9d53-ca1a8328add0/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/dc23d5e0-b9ec-4729-9d53-ca1a8328add0/3"
+                }
+            ]
         }
     ]
 }
