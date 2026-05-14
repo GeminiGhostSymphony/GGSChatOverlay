@@ -3150,6 +3150,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/20098028-701d-49c5-a5b6-22763ce23dd9/3"
                 }
             ]
+        },
+        {
+            "set_id": "waterslug",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7c98905d-49ed-44f0-886e-ab6983268db6/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7c98905d-49ed-44f0-886e-ab6983268db6/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7c98905d-49ed-44f0-886e-ab6983268db6/3"
+                }
+            ]
         }
     ]
 }
