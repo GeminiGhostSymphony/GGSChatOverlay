@@ -3161,6 +3161,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7c98905d-49ed-44f0-886e-ab6983268db6/3"
                 }
             ]
+        },
+        {
+            "set_id": "civ-vii---test-of-time",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/eae24f68-7b45-4cf0-8854-d3e419006238/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/eae24f68-7b45-4cf0-8854-d3e419006238/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/eae24f68-7b45-4cf0-8854-d3e419006238/3"
+                }
+            ]
+        },
+        {
+            "set_id": "brawlhallawoo",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a3e4f5e7-a6c9-4458-b8c4-f83a0f725566/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a3e4f5e7-a6c9-4458-b8c4-f83a0f725566/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a3e4f5e7-a6c9-4458-b8c4-f83a0f725566/3"
+                }
+            ]
         }
     ]
 }
