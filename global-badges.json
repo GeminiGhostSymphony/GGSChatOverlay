@@ -3183,6 +3183,50 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a3e4f5e7-a6c9-4458-b8c4-f83a0f725566/3"
                 }
             ]
+        },
+        {
+            "set_id": "road-to-twitchcon-26",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/03eeb136-3249-49cc-b45a-569edea04907/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/03eeb136-3249-49cc-b45a-569edea04907/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/03eeb136-3249-49cc-b45a-569edea04907/3"
+                }
+            ]
+        },
+        {
+            "set_id": "lego-batman-legacy-of-the-dark-knight",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4d54795e-5f6c-4b5b-9a30-0d78e6d0d67b/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4d54795e-5f6c-4b5b-9a30-0d78e6d0d67b/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4d54795e-5f6c-4b5b-9a30-0d78e6d0d67b/3"
+                }
+            ]
+        },
+        {
+            "set_id": "skulls-10th-anniversary",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/682bdd23-f49d-4c5b-bd82-2c00a65ea22a/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/682bdd23-f49d-4c5b-bd82-2c00a65ea22a/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/682bdd23-f49d-4c5b-bd82-2c00a65ea22a/3"
+                }
+            ]
+        },
+        {
+            "set_id": "007-gun-barrel",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6ae7ce40-99e6-4d83-8487-f8b990bf5f32/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6ae7ce40-99e6-4d83-8487-f8b990bf5f32/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6ae7ce40-99e6-4d83-8487-f8b990bf5f32/3"
+                }
+            ]
         }
     ]
 }
