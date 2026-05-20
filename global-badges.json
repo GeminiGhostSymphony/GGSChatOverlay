@@ -3227,6 +3227,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6ae7ce40-99e6-4d83-8487-f8b990bf5f32/3"
                 }
             ]
+        },
+        {
+            "set_id": "alterra-corporation",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/18d8ad18-788e-4b47-9c9b-783a41c13ec3/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/18d8ad18-788e-4b47-9c9b-783a41c13ec3/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/18d8ad18-788e-4b47-9c9b-783a41c13ec3/3"
+                }
+            ]
         }
     ]
 }
