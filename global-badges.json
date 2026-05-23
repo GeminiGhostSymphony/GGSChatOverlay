@@ -3238,6 +3238,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/18d8ad18-788e-4b47-9c9b-783a41c13ec3/3"
                 }
             ]
+        },
+        {
+            "set_id": "bubsy-4d",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0652a149-9fc6-4a9b-82c4-31793c0e384a/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0652a149-9fc6-4a9b-82c4-31793c0e384a/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0652a149-9fc6-4a9b-82c4-31793c0e384a/3"
+                }
+            ]
         }
     ]
 }
