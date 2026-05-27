@@ -3249,6 +3249,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0652a149-9fc6-4a9b-82c4-31793c0e384a/3"
                 }
             ]
+        },
+        {
+            "set_id": "wholesome-direct-2026",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/76c44199-6ad5-4bde-a1c7-65f13adf07d6/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/76c44199-6ad5-4bde-a1c7-65f13adf07d6/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/76c44199-6ad5-4bde-a1c7-65f13adf07d6/3"
+                }
+            ]
         }
     ]
 }
