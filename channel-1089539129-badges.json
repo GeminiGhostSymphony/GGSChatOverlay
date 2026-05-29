@@ -63,6 +63,28 @@
           "image_url_2x": "https://i.ibb.co/sdBYzh1r/Tier3-Flair.png"
         }
       ]
+    },
+    {
+      "set_id": "campaign-1089539129-7109a805-09f0-45ad-b6a5-711b1bceca3c-mw",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/3mbGYYMB/bday26-watch.png",
+          "image_url_2x": "https://i.ibb.co/3mbGYYMB/bday26-watch.png",
+          "image_url_4x": "https://i.ibb.co/3mbGYYMB/bday26-watch.png"
+        }
+      ]
+    },
+    {
+      "set_id": "campaign-1089539129-7109a805-09f0-45ad-b6a5-711b1bceca3c-sub",
+      "versions": [
+        {
+          "id": "1",
+          "image_url_1x": "https://i.ibb.co/ymvMNsYr/bday26-subs.png",
+          "image_url_2x": "https://i.ibb.co/ymvMNsYr/bday26-subs.png",
+          "image_url_4x": "https://i.ibb.co/ymvMNsYr/bday26-subs.png"
+        }
+      ]
     }
   ]
 }
