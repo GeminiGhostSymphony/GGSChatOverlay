@@ -3260,6 +3260,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/76c44199-6ad5-4bde-a1c7-65f13adf07d6/3"
                 }
             ]
+        },
+        {
+            "set_id": "mod-founder",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b1d1da41-5616-42a5-b1fa-132753d29f8a/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b1d1da41-5616-42a5-b1fa-132753d29f8a/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b1d1da41-5616-42a5-b1fa-132753d29f8a/3"
+                }
+            ]
         }
     ]
 }
