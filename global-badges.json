@@ -3271,6 +3271,72 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b1d1da41-5616-42a5-b1fa-132753d29f8a/3"
                 }
             ]
+        },
+        {
+            "set_id": "rematch-nations-cup-eng",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/514cce91-edf6-4c20-9676-e1ba7431926f/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/514cce91-edf6-4c20-9676-e1ba7431926f/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/514cce91-edf6-4c20-9676-e1ba7431926f/3"
+                }
+            ]
+        },
+        {
+            "set_id": "rematch-us",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8d7a5df0-b8ae-4192-bc5f-d4c443406238/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8d7a5df0-b8ae-4192-bc5f-d4c443406238/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8d7a5df0-b8ae-4192-bc5f-d4c443406238/3"
+                }
+            ]
+        },
+        {
+            "set_id": "rematch-nations-cup",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a0ee40aa-d779-4f2e-bfe4-850d10bf8eae/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a0ee40aa-d779-4f2e-bfe4-850d10bf8eae/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a0ee40aa-d779-4f2e-bfe4-850d10bf8eae/3"
+                }
+            ]
+        },
+        {
+            "set_id": "rematch-france",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0c2bf01c-5f83-459c-804c-484d42bf278a/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0c2bf01c-5f83-459c-804c-484d42bf278a/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0c2bf01c-5f83-459c-804c-484d42bf278a/3"
+                }
+            ]
+        },
+        {
+            "set_id": "rematch-england",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/34f1ef71-41e7-440e-9f7e-ed3a56ff8bcc/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/34f1ef71-41e7-440e-9f7e-ed3a56ff8bcc/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/34f1ef71-41e7-440e-9f7e-ed3a56ff8bcc/3"
+                }
+            ]
+        },
+        {
+            "set_id": "rematch-brazil",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7ec48e22-597f-4900-81e9-a6daa817e78f/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7ec48e22-597f-4900-81e9-a6daa817e78f/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7ec48e22-597f-4900-81e9-a6daa817e78f/3"
+                }
+            ]
         }
     ]
 }
