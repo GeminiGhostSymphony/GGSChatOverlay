@@ -3337,6 +3337,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7ec48e22-597f-4900-81e9-a6daa817e78f/3"
                 }
             ]
+        },
+        {
+            "set_id": "runescape-skull",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7f382386-e3ce-4c3d-8c23-464851415321/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7f382386-e3ce-4c3d-8c23-464851415321/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7f382386-e3ce-4c3d-8c23-464851415321/3"
+                }
+            ]
+        },
+        {
+            "set_id": "runescape-dragon-dagger",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0a4afdfc-7b58-4674-beb4-631766208b6d/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0a4afdfc-7b58-4674-beb4-631766208b6d/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0a4afdfc-7b58-4674-beb4-631766208b6d/3"
+                }
+            ]
         }
     ]
 }
