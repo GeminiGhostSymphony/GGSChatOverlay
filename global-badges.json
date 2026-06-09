@@ -3359,6 +3359,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0a4afdfc-7b58-4674-beb4-631766208b6d/3"
                 }
             ]
+        },
+        {
+            "set_id": "football-fest-2026",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2b195857-8531-4487-a998-62fb9dbbe0e5/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2b195857-8531-4487-a998-62fb9dbbe0e5/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2b195857-8531-4487-a998-62fb9dbbe0e5/3"
+                }
+            ]
         }
     ]
 }
