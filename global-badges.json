@@ -3370,6 +3370,50 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2b195857-8531-4487-a998-62fb9dbbe0e5/3"
                 }
             ]
+        },
+        {
+            "set_id": "assassins-creed-black-flag-resynced",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/393bfb62-dca0-4133-9a63-eb53b031b404/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/393bfb62-dca0-4133-9a63-eb53b031b404/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/393bfb62-dca0-4133-9a63-eb53b031b404/3"
+                }
+            ]
+        },
+        {
+            "set_id": "dead-by-daylight-x-jason-universe",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f54d7865-e97d-4e1a-8392-788ccbcd1199/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f54d7865-e97d-4e1a-8392-788ccbcd1199/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f54d7865-e97d-4e1a-8392-788ccbcd1199/3"
+                }
+            ]
+        },
+        {
+            "set_id": "dead-by-daylight-icon",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4f1be82e-d29e-4898-a4c7-29b3ce6ce807/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4f1be82e-d29e-4898-a4c7-29b3ce6ce807/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4f1be82e-d29e-4898-a4c7-29b3ce6ce807/3"
+                }
+            ]
+        },
+        {
+            "set_id": "you-got-this",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b1e71597-54d4-497e-9e2a-f63b01f4dc82/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b1e71597-54d4-497e-9e2a-f63b01f4dc82/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b1e71597-54d4-497e-9e2a-f63b01f4dc82/3"
+                }
+            ]
         }
     ]
 }
