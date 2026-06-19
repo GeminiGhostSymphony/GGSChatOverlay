@@ -3436,6 +3436,35 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5008ac34-9165-4fc2-a87c-f7f2526c0509/3"
                 }
             ]
+        },
+        {
+            "set_id": "blossom-badge",
+            "versions": [
+                {
+                    "id": "4",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b00f8ff9-aeee-4c27-b974-5513f3abc91a/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b00f8ff9-aeee-4c27-b974-5513f3abc91a/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b00f8ff9-aeee-4c27-b974-5513f3abc91a/3"
+                },
+                {
+                    "id": "3",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/75fd2129-b0d6-4290-83f6-41740d1b7825/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/75fd2129-b0d6-4290-83f6-41740d1b7825/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/75fd2129-b0d6-4290-83f6-41740d1b7825/3"
+                },
+                {
+                    "id": "2",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d045617b-c37f-4643-9170-df05222cacc3/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d045617b-c37f-4643-9170-df05222cacc3/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d045617b-c37f-4643-9170-df05222cacc3/3"
+                },
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c255cb27-7e04-4be1-9dee-434e85523638/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c255cb27-7e04-4be1-9dee-434e85523638/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c255cb27-7e04-4be1-9dee-434e85523638/3"
+                }
+            ]
         }
     ]
 }
