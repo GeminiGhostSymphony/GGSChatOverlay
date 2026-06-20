@@ -3465,6 +3465,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c255cb27-7e04-4be1-9dee-434e85523638/3"
                 }
             ]
+        },
+        {
+            "set_id": "detroit-blue-led",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b3cc4258-07e4-4b3b-b37f-a9c9268853fb/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b3cc4258-07e4-4b3b-b37f-a9c9268853fb/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b3cc4258-07e4-4b3b-b37f-a9c9268853fb/3"
+                }
+            ]
+        },
+        {
+            "set_id": "detroit-android-triangle",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/69bf153a-cfa9-4290-9d00-6b1edc4dbe43/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/69bf153a-cfa9-4290-9d00-6b1edc4dbe43/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/69bf153a-cfa9-4290-9d00-6b1edc4dbe43/3"
+                }
+            ]
         }
     ]
 }
