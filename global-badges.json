@@ -3498,6 +3498,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/709a8b0c-cdf3-4a49-9f93-911376a1cb2e/3"
                 }
             ]
+        },
+        {
+            "set_id": "grey-zone-warfare",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/7e1936c6-4e73-4aa5-8bd6-e5ae5ab8fcd5/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/7e1936c6-4e73-4aa5-8bd6-e5ae5ab8fcd5/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7e1936c6-4e73-4aa5-8bd6-e5ae5ab8fcd5/3"
+                }
+            ]
+        },
+        {
+            "set_id": "msi-2026",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8c36a423-f3f0-49c2-a886-ecec931b05cb/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8c36a423-f3f0-49c2-a886-ecec931b05cb/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8c36a423-f3f0-49c2-a886-ecec931b05cb/3"
+                }
+            ]
+        },
+        {
+            "set_id": "evo-las-vegas-2026",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6838631a-037c-4dc3-b0f5-1cc15367bd53/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6838631a-037c-4dc3-b0f5-1cc15367bd53/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6838631a-037c-4dc3-b0f5-1cc15367bd53/3"
+                }
+            ]
         }
     ]
 }
