@@ -3531,6 +3531,94 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6838631a-037c-4dc3-b0f5-1cc15367bd53/3"
                 }
             ]
+        },
+        {
+            "set_id": "mint",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/835ca28b-5b99-4729-9c88-3dcd772b84f5/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/835ca28b-5b99-4729-9c88-3dcd772b84f5/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/835ca28b-5b99-4729-9c88-3dcd772b84f5/3"
+                }
+            ]
+        },
+        {
+            "set_id": "cool-cattiva",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e3d90ca4-f274-431f-bcc0-c0f8963e6624/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e3d90ca4-f274-431f-bcc0-c0f8963e6624/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e3d90ca4-f274-431f-bcc0-c0f8963e6624/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-ultraviolet",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a3f5d70f-268f-498d-b0cc-db51bdf355a2/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a3f5d70f-268f-498d-b0cc-db51bdf355a2/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a3f5d70f-268f-498d-b0cc-db51bdf355a2/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-silver",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b58c52e5-ed3c-41e4-9cda-90b26aa1dbcb/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b58c52e5-ed3c-41e4-9cda-90b26aa1dbcb/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b58c52e5-ed3c-41e4-9cda-90b26aa1dbcb/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-platinum",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ccd6c0c5-7854-4bc1-b196-ad13e097f2da/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ccd6c0c5-7854-4bc1-b196-ad13e097f2da/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ccd6c0c5-7854-4bc1-b196-ad13e097f2da/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-gold",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/aa891ef7-b24b-49ff-ae08-13819621fc4b/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/aa891ef7-b24b-49ff-ae08-13819621fc4b/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/aa891ef7-b24b-49ff-ae08-13819621fc4b/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-diamond",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/cb874239-c790-4f58-93c2-319254d61d18/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/cb874239-c790-4f58-93c2-319254d61d18/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/cb874239-c790-4f58-93c2-319254d61d18/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-bronze",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/40b8d131-61f0-4ae6-9f65-65a23b27c139/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/40b8d131-61f0-4ae6-9f65-65a23b27c139/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/40b8d131-61f0-4ae6-9f65-65a23b27c139/3"
+                }
+            ]
         }
     ]
 }
