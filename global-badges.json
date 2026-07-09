@@ -3619,6 +3619,72 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/40b8d131-61f0-4ae6-9f65-65a23b27c139/3"
                 }
             ]
+        },
+        {
+            "set_id": "jubilee",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/9722b4f6-c818-4f7c-8cc3-c22c70d00c53/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/9722b4f6-c818-4f7c-8cc3-c22c70d00c53/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9722b4f6-c818-4f7c-8cc3-c22c70d00c53/3"
+                }
+            ]
+        },
+        {
+            "set_id": "meltan",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/bf3cca10-6aec-4143-96ce-c41d15feebf8/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/bf3cca10-6aec-4143-96ce-c41d15feebf8/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/bf3cca10-6aec-4143-96ce-c41d15feebf8/3"
+                }
+            ]
+        },
+        {
+            "set_id": "perlica",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c81d6782-6f5a-4c63-a00b-f041ac2cdcda/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c81d6782-6f5a-4c63-a00b-f041ac2cdcda/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c81d6782-6f5a-4c63-a00b-f041ac2cdcda/3"
+                }
+            ]
+        },
+        {
+            "set_id": "killer-inn",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0900e6b7-23bf-4c64-b5c7-abfd7e9704e7/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0900e6b7-23bf-4c64-b5c7-abfd7e9704e7/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0900e6b7-23bf-4c64-b5c7-abfd7e9704e7/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ayane",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/471b7cc9-875f-445b-86f6-8009cee27843/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/471b7cc9-875f-445b-86f6-8009cee27843/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/471b7cc9-875f-445b-86f6-8009cee27843/3"
+                }
+            ]
+        },
+        {
+            "set_id": "relink-fabicon",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/fda40ef0-dbad-47ed-8293-789babaead05/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/fda40ef0-dbad-47ed-8293-789babaead05/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fda40ef0-dbad-47ed-8293-789babaead05/3"
+                }
+            ]
         }
     ]
 }
