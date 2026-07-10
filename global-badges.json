@@ -3685,6 +3685,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fda40ef0-dbad-47ed-8293-789babaead05/3"
                 }
             ]
+        },
+        {
+            "set_id": "dream-beyond",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2cbd5102-928f-4e99-819a-e38511752918/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2cbd5102-928f-4e99-819a-e38511752918/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2cbd5102-928f-4e99-819a-e38511752918/3"
+                }
+            ]
         }
     ]
 }
