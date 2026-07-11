@@ -3696,6 +3696,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2cbd5102-928f-4e99-819a-e38511752918/3"
                 }
             ]
+        },
+        {
+            "set_id": "team-valor",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8837af43-de4b-488b-b3f0-d6117b365196/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8837af43-de4b-488b-b3f0-d6117b365196/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8837af43-de4b-488b-b3f0-d6117b365196/3"
+                }
+            ]
         }
     ]
 }
