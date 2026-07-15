@@ -3729,6 +3729,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/53dd634e-9efd-46a9-9e5b-0d9da7262171/3"
                 }
             ]
+        },
+        {
+            "set_id": "hotline",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/31d7dfb0-2687-486c-a3f4-b86d1e307fa5/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/31d7dfb0-2687-486c-a3f4-b86d1e307fa5/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/31d7dfb0-2687-486c-a3f4-b86d1e307fa5/3"
+                }
+            ]
         }
     ]
 }
