@@ -3740,6 +3740,50 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/31d7dfb0-2687-486c-a3f4-b86d1e307fa5/3"
                 }
             ]
+        },
+        {
+            "set_id": "meccha-chameleon",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/97f7f702-fde1-48a2-8992-ae0711e06819/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/97f7f702-fde1-48a2-8992-ae0711e06819/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/97f7f702-fde1-48a2-8992-ae0711e06819/3"
+                }
+            ]
+        },
+        {
+            "set_id": "dreamers",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/fe2c830a-81d6-4915-b77d-f779bcfa121b/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/fe2c830a-81d6-4915-b77d-f779bcfa121b/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fe2c830a-81d6-4915-b77d-f779bcfa121b/3"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon-2026---san-diego---taco",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/aea5244a-3fb5-48f9-a17c-a377760df226/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/aea5244a-3fb5-48f9-a17c-a377760df226/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/aea5244a-3fb5-48f9-a17c-a377760df226/3"
+                }
+            ]
+        },
+        {
+            "set_id": "twitchcon-2026---san-diego---beachball",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b3f69c97-a9a7-4360-bb9e-485ec8db72bb/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b3f69c97-a9a7-4360-bb9e-485ec8db72bb/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b3f69c97-a9a7-4360-bb9e-485ec8db72bb/3"
+                }
+            ]
         }
     ]
 }
