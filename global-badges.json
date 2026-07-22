@@ -3795,6 +3795,72 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b732ba75-3f73-4ce9-b0d0-5bbe1fa3be7e/3"
                 }
             ]
+        },
+        {
+            "set_id": "ewc-2026-co-streamer-ultraviolet",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/548010ef-5b5b-497c-82dc-61fbb52738b5/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/548010ef-5b5b-497c-82dc-61fbb52738b5/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/548010ef-5b5b-497c-82dc-61fbb52738b5/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-co-streamer-silver",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a17b6a0f-6a06-4ca2-a153-82ebb368edab/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a17b6a0f-6a06-4ca2-a153-82ebb368edab/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a17b6a0f-6a06-4ca2-a153-82ebb368edab/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-co-streamer-platinum",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/fb93617f-b5fa-46c3-8354-6d1d3460b9d2/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/fb93617f-b5fa-46c3-8354-6d1d3460b9d2/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fb93617f-b5fa-46c3-8354-6d1d3460b9d2/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-co-streamer-gold",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/933df6d6-70bb-445a-8b85-c7b39af82ffd/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/933df6d6-70bb-445a-8b85-c7b39af82ffd/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/933df6d6-70bb-445a-8b85-c7b39af82ffd/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-co-streamer-diamond",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a883985f-fd23-4365-bc80-28726a8cd735/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a883985f-fd23-4365-bc80-28726a8cd735/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a883985f-fd23-4365-bc80-28726a8cd735/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ewc-2026-co-streamer-bronze",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/22d9f0cd-02a2-41e7-8e3c-f5b2387a3a3e/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/22d9f0cd-02a2-41e7-8e3c-f5b2387a3a3e/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/22d9f0cd-02a2-41e7-8e3c-f5b2387a3a3e/3"
+                }
+            ]
         }
     ]
 }
