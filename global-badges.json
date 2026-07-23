@@ -3861,6 +3861,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/22d9f0cd-02a2-41e7-8e3c-f5b2387a3a3e/3"
                 }
             ]
+        },
+        {
+            "set_id": "budz",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a7c72bfa-8758-4ba6-92ad-b31edcac1267/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a7c72bfa-8758-4ba6-92ad-b31edcac1267/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a7c72bfa-8758-4ba6-92ad-b31edcac1267/3"
+                }
+            ]
+        },
+        {
+            "set_id": "la-velada-vi",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e767e17a-252a-4047-9365-910f4f05a883/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e767e17a-252a-4047-9365-910f4f05a883/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e767e17a-252a-4047-9365-910f4f05a883/3"
+                }
+            ]
         }
     ]
 }
