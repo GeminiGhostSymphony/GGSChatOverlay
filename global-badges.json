@@ -3894,6 +3894,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/03ba20e2-11e1-481c-80d8-155e87afc724/3"
                 }
             ]
+        },
+        {
+            "set_id": "dead-by-daylight-pride-icon",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/61aac75c-fb98-4f75-9fa8-4d843c5c545a/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/61aac75c-fb98-4f75-9fa8-4d843c5c545a/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/61aac75c-fb98-4f75-9fa8-4d843c5c545a/3"
+                }
+            ]
         }
     ]
 }
