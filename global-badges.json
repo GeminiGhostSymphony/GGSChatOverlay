@@ -3905,6 +3905,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/61aac75c-fb98-4f75-9fa8-4d843c5c545a/3"
                 }
             ]
+        },
+        {
+            "set_id": "egg",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/74c777c3-715f-4c40-b991-6a36239e6ef0/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/74c777c3-715f-4c40-b991-6a36239e6ef0/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/74c777c3-715f-4c40-b991-6a36239e6ef0/3"
+                }
+            ]
         }
     ]
 }
