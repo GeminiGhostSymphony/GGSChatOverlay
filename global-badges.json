@@ -3916,6 +3916,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/74c777c3-715f-4c40-b991-6a36239e6ef0/3"
                 }
             ]
+        },
+        {
+            "set_id": "hulk",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b56139ed-b483-441f-9d89-70f5d0bca1b6/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b56139ed-b483-441f-9d89-70f5d0bca1b6/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b56139ed-b483-441f-9d89-70f5d0bca1b6/3"
+                }
+            ]
         }
     ]
 }
