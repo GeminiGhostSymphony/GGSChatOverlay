@@ -3927,6 +3927,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b56139ed-b483-441f-9d89-70f5d0bca1b6/3"
                 }
             ]
+        },
+        {
+            "set_id": "princessdonutpink",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c70f2113-d552-44be-9f8f-40550dbe5fdd/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c70f2113-d552-44be-9f8f-40550dbe5fdd/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c70f2113-d552-44be-9f8f-40550dbe5fdd/3"
+                }
+            ]
+        },
+        {
+            "set_id": "princessdonutbrown",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/88264e40-69cf-4afb-8b12-3df0ba5ca460/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/88264e40-69cf-4afb-8b12-3df0ba5ca460/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/88264e40-69cf-4afb-8b12-3df0ba5ca460/3"
+                }
+            ]
+        },
+        {
+            "set_id": "enchantedbigboiboxers",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/267664ac-261c-48e1-8dc3-dad180eb5146/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/267664ac-261c-48e1-8dc3-dad180eb5146/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/267664ac-261c-48e1-8dc3-dad180eb5146/3"
+                }
+            ]
         }
     ]
 }
