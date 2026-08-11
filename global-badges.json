@@ -3960,6 +3960,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/267664ac-261c-48e1-8dc3-dad180eb5146/3"
                 }
             ]
+        },
+        {
+            "set_id": "league-of-legends-classic",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/4bd0a409-4313-4f21-8a5a-00b1bdb77d73/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/4bd0a409-4313-4f21-8a5a-00b1bdb77d73/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/4bd0a409-4313-4f21-8a5a-00b1bdb77d73/3"
+                }
+            ]
         }
     ]
 }
