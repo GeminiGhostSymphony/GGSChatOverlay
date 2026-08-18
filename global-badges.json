@@ -4004,6 +4004,50 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1c04ddd1-6baa-4e5c-a685-976c621d5114/3"
                 }
             ]
+        },
+        {
+            "set_id": "squirtle",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6e19714e-571f-4737-bc8b-865ebfb3e2c7/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6e19714e-571f-4737-bc8b-865ebfb3e2c7/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6e19714e-571f-4737-bc8b-865ebfb3e2c7/3"
+                }
+            ]
+        },
+        {
+            "set_id": "pichu",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/20f214cf-36b0-4b42-8992-3b769bcb0461/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/20f214cf-36b0-4b42-8992-3b769bcb0461/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/20f214cf-36b0-4b42-8992-3b769bcb0461/3"
+                }
+            ]
+        },
+        {
+            "set_id": "charmander",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/afe60f97-56d1-493d-a55c-2f1cec7aca7c/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/afe60f97-56d1-493d-a55c-2f1cec7aca7c/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/afe60f97-56d1-493d-a55c-2f1cec7aca7c/3"
+                }
+            ]
+        },
+        {
+            "set_id": "bulbasaur",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/68072d07-8648-4066-9694-3f9fb594eb3d/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/68072d07-8648-4066-9694-3f9fb594eb3d/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/68072d07-8648-4066-9694-3f9fb594eb3d/3"
+                }
+            ]
         }
     ]
 }
