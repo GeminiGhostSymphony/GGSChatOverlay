@@ -4048,6 +4048,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/68072d07-8648-4066-9694-3f9fb594eb3d/3"
                 }
             ]
+        },
+        {
+            "set_id": "diablo",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/12e66b34-5748-4eb0-8cf1-63d01e925b4f/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/12e66b34-5748-4eb0-8cf1-63d01e925b4f/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/12e66b34-5748-4eb0-8cf1-63d01e925b4f/3"
+                }
+            ]
+        },
+        {
+            "set_id": "dron-e",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/70e9e169-1fbf-4279-b23c-a714ccb0c9ef/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/70e9e169-1fbf-4279-b23c-a714ccb0c9ef/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/70e9e169-1fbf-4279-b23c-a714ccb0c9ef/3"
+                }
+            ]
+        },
+        {
+            "set_id": "nasa-roman",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/c411b949-c736-4b1a-9769-d759e213923c/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/c411b949-c736-4b1a-9769-d759e213923c/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/c411b949-c736-4b1a-9769-d759e213923c/3"
+                }
+            ]
         }
     ]
 }
