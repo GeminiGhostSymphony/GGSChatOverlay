@@ -4103,6 +4103,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e3374139-6240-462e-b77d-d3ac00a4da23/3"
                 }
             ]
+        },
+        {
+            "set_id": "mouseathon",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8bce8f4e-f53a-4922-b715-35167b0fae7b/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8bce8f4e-f53a-4922-b715-35167b0fae7b/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8bce8f4e-f53a-4922-b715-35167b0fae7b/3"
+                }
+            ]
         }
     ]
 }
