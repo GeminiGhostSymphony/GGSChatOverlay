@@ -4114,6 +4114,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8bce8f4e-f53a-4922-b715-35167b0fae7b/3"
                 }
             ]
+        },
+        {
+            "set_id": "sorcerer-rogier-elden-ring",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3d6ad3b0-0a0f-43ae-a969-c5215d8d5a06/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3d6ad3b0-0a0f-43ae-a969-c5215d8d5a06/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3d6ad3b0-0a0f-43ae-a969-c5215d8d5a06/3"
+                }
+            ]
+        },
+        {
+            "set_id": "harley-mayhem",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/1d235db6-09cc-458f-9805-be2efc178e54/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/1d235db6-09cc-458f-9805-be2efc178e54/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1d235db6-09cc-458f-9805-be2efc178e54/3"
+                }
+            ]
         }
     ]
 }
