@@ -4169,6 +4169,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/9e1abb05-df79-49ee-bdb8-12869bb64f51/3"
                 }
             ]
+        },
+        {
+            "set_id": "onimusha-armament",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/379bfc94-8276-4e9e-9a34-615e10c55baf/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/379bfc94-8276-4e9e-9a34-615e10c55baf/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/379bfc94-8276-4e9e-9a34-615e10c55baf/3"
+                }
+            ]
+        },
+        {
+            "set_id": "zevent-2026",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/daea9c61-566f-41da-9b0a-1c520faf5c01/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/daea9c61-566f-41da-9b0a-1c520faf5c01/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/daea9c61-566f-41da-9b0a-1c520faf5c01/3"
+                }
+            ]
         }
     ]
 }
