@@ -4202,6 +4202,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6a34b65f-93f6-4ebd-8f75-898bdaff79e8/3"
                 }
             ]
+        },
+        {
+            "set_id": "volume-up",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8d2a48c5-f188-4468-b165-d4771f539c24/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8d2a48c5-f188-4468-b165-d4771f539c24/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8d2a48c5-f188-4468-b165-d4771f539c24/3"
+                }
+            ]
+        },
+        {
+            "set_id": "subtember-2026",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6ae639f0-a06d-40a9-ad16-7b7e7c18a323/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6ae639f0-a06d-40a9-ad16-7b7e7c18a323/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6ae639f0-a06d-40a9-ad16-7b7e7c18a323/3"
+                }
+            ]
         }
     ]
 }
