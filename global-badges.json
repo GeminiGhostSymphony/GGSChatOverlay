@@ -4224,6 +4224,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6ae639f0-a06d-40a9-ad16-7b7e7c18a323/3"
                 }
             ]
+        },
+        {
+            "set_id": "solasta-2-multiplayer",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e8430418-13e9-4325-b2ad-85664d2a4ddd/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e8430418-13e9-4325-b2ad-85664d2a4ddd/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e8430418-13e9-4325-b2ad-85664d2a4ddd/3"
+                }
+            ]
         }
     ]
 }
