@@ -4246,6 +4246,61 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a5b43a31-4534-4f9e-875b-b9f0d1be8f73/3"
                 }
             ]
+        },
+        {
+            "set_id": "wsci-2026",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e61d79be-7d9d-4de2-8571-41f00bf2081a/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e61d79be-7d9d-4de2-8571-41f00bf2081a/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e61d79be-7d9d-4de2-8571-41f00bf2081a/3"
+                }
+            ]
+        },
+        {
+            "set_id": "chains",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/909fa1c7-8f4c-41c4-9910-ee936f7236d7/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/909fa1c7-8f4c-41c4-9910-ee936f7236d7/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/909fa1c7-8f4c-41c4-9910-ee936f7236d7/3"
+                }
+            ]
+        },
+        {
+            "set_id": "dallas",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a5ba44a9-2ccd-4b69-b5b8-9e28f1c887e7/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a5ba44a9-2ccd-4b69-b5b8-9e28f1c887e7/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a5ba44a9-2ccd-4b69-b5b8-9e28f1c887e7/3"
+                }
+            ]
+        },
+        {
+            "set_id": "hoxton",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/bce13ab6-e9ae-4d9a-bf52-8ea7ba3ce8c4/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/bce13ab6-e9ae-4d9a-bf52-8ea7ba3ce8c4/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/bce13ab6-e9ae-4d9a-bf52-8ea7ba3ce8c4/3"
+                }
+            ]
+        },
+        {
+            "set_id": "wolf",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/714081b8-aded-46d7-a6c3-14b2d79f19be/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/714081b8-aded-46d7-a6c3-14b2d79f19be/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/714081b8-aded-46d7-a6c3-14b2d79f19be/3"
+                }
+            ]
         }
     ]
 }
