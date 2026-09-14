@@ -4312,6 +4312,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/7973c062-7a4f-41de-9a20-77d4b2edc56a/3"
                 }
             ]
+        },
+        {
+            "set_id": "marvels-wolverine",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/55090800-82e4-4d31-8b3c-f9feb5e25557/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/55090800-82e4-4d31-8b3c-f9feb5e25557/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/55090800-82e4-4d31-8b3c-f9feb5e25557/3"
+                }
+            ]
         }
     ]
 }
