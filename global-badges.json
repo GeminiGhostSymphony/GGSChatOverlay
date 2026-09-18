@@ -4334,6 +4334,72 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/12cb6b16-063b-4fcf-b312-c5c8f01e49ac/3"
                 }
             ]
+        },
+        {
+            "set_id": "homo-tenta",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3ec6f155-ebc7-4624-89d9-ead63122dc52/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3ec6f155-ebc7-4624-89d9-ead63122dc52/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3ec6f155-ebc7-4624-89d9-ead63122dc52/3"
+                }
+            ]
+        },
+        {
+            "set_id": "koromaru",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d08bb5f3-7638-45c6-919a-9f2eb4ef505e/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d08bb5f3-7638-45c6-919a-9f2eb4ef505e/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d08bb5f3-7638-45c6-919a-9f2eb4ef505e/3"
+                }
+            ]
+        },
+        {
+            "set_id": "morgana",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a0c09111-b247-4b40-88a2-7ef1cfc60f65/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a0c09111-b247-4b40-88a2-7ef1cfc60f65/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a0c09111-b247-4b40-88a2-7ef1cfc60f65/3"
+                }
+            ]
+        },
+        {
+            "set_id": "nahobiho",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/adc8a831-4884-471b-9723-aad8bf3e05b8/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/adc8a831-4884-471b-9723-aad8bf3e05b8/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/adc8a831-4884-471b-9723-aad8bf3e05b8/3"
+                }
+            ]
+        },
+        {
+            "set_id": "teddie",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/80786dcb-bf5e-4069-ab13-32b4fa436c51/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/80786dcb-bf5e-4069-ab13-32b4fa436c51/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/80786dcb-bf5e-4069-ab13-32b4fa436c51/3"
+                }
+            ]
+        },
+        {
+            "set_id": "blue-creeper-boss",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e349e84d-1d91-4086-afda-e0c946717878/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e349e84d-1d91-4086-afda-e0c946717878/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e349e84d-1d91-4086-afda-e0c946717878/3"
+                }
+            ]
         }
     ]
 }
