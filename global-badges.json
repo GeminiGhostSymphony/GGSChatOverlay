@@ -4444,6 +4444,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a6a681a9-3253-42de-b09a-7bda7c05c342/3"
                 }
             ]
+        },
+        {
+            "set_id": "dont-eat-the-mold",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f1617a53-9e8f-4bd4-b440-ab44f6f8f650/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f1617a53-9e8f-4bd4-b440-ab44f6f8f650/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f1617a53-9e8f-4bd4-b440-ab44f6f8f650/3"
+                }
+            ]
+        },
+        {
+            "set_id": "the-inverted-man",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/755022bc-26e1-47a4-8d6f-961224713355/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/755022bc-26e1-47a4-8d6f-961224713355/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/755022bc-26e1-47a4-8d6f-961224713355/3"
+                }
+            ]
         }
     ]
 }
