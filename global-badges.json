@@ -4466,6 +4466,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/755022bc-26e1-47a4-8d6f-961224713355/3"
                 }
             ]
+        },
+        {
+            "set_id": "rematch-blue-lock",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/13afe621-edd4-48b6-a09b-453a2dee52e9/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/13afe621-edd4-48b6-a09b-453a2dee52e9/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/13afe621-edd4-48b6-a09b-453a2dee52e9/3"
+                }
+            ]
         }
     ]
 }
