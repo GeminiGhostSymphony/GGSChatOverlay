@@ -4477,6 +4477,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/13afe621-edd4-48b6-a09b-453a2dee52e9/3"
                 }
             ]
+        },
+        {
+            "set_id": "big-walk",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/3de5a89b-533b-483a-8db2-036f9f13b9bd/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/3de5a89b-533b-483a-8db2-036f9f13b9bd/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3de5a89b-533b-483a-8db2-036f9f13b9bd/3"
+                }
+            ]
+        },
+        {
+            "set_id": "clipped-that",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/5b648ccf-dc37-4233-a96e-c6e5d693a0ae/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/5b648ccf-dc37-4233-a96e-c6e5d693a0ae/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5b648ccf-dc37-4233-a96e-c6e5d693a0ae/3"
+                }
+            ]
         }
     ]
 }
