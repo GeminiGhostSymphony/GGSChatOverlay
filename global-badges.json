@@ -4499,6 +4499,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/5b648ccf-dc37-4233-a96e-c6e5d693a0ae/3"
                 }
             ]
+        },
+        {
+            "set_id": "runescape-shrimp",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/aed4a5ae-3e02-40c6-92bc-dfb8d33576f5/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/aed4a5ae-3e02-40c6-92bc-dfb8d33576f5/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/aed4a5ae-3e02-40c6-92bc-dfb8d33576f5/3"
+                }
+            ]
         }
     ]
 }
