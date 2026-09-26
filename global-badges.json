@@ -4510,6 +4510,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/aed4a5ae-3e02-40c6-92bc-dfb8d33576f5/3"
                 }
             ]
+        },
+        {
+            "set_id": "ace-combat-8-nugget",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8468fb6c-1d33-4482-85ef-fa1898288ee2/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8468fb6c-1d33-4482-85ef-fa1898288ee2/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8468fb6c-1d33-4482-85ef-fa1898288ee2/3"
+                }
+            ]
+        },
+        {
+            "set_id": "yellow-party-hat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6325b96b-0187-4a60-90d0-8bb45efa3fff/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6325b96b-0187-4a60-90d0-8bb45efa3fff/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6325b96b-0187-4a60-90d0-8bb45efa3fff/3"
+                }
+            ]
         }
     ]
 }
