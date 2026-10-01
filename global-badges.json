@@ -4543,6 +4543,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/3e008d8a-4a24-4858-9e8f-74e8a3808955/3"
                 }
             ]
+        },
+        {
+            "set_id": "bloody-finger-elden-ring",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/12266c73-c6bc-433a-ab66-dc021bb8159f/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/12266c73-c6bc-433a-ab66-dc021bb8159f/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/12266c73-c6bc-433a-ab66-dc021bb8159f/3"
+                }
+            ]
         }
     ]
 }
