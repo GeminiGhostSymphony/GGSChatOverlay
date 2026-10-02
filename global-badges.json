@@ -4554,6 +4554,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/12266c73-c6bc-433a-ab66-dc021bb8159f/3"
                 }
             ]
+        },
+        {
+            "set_id": "frekifriend",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2d1bfde9-94a9-4ed1-84a5-4aeb85911f1d/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2d1bfde9-94a9-4ed1-84a5-4aeb85911f1d/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2d1bfde9-94a9-4ed1-84a5-4aeb85911f1d/3"
+                }
+            ]
+        },
+        {
+            "set_id": "thedragonsdogma",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f699b4ab-8952-46a1-88ff-a5515406f0a5/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f699b4ab-8952-46a1-88ff-a5515406f0a5/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f699b4ab-8952-46a1-88ff-a5515406f0a5/3"
+                }
+            ]
         }
     ]
 }
