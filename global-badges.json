@@ -4576,6 +4576,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f699b4ab-8952-46a1-88ff-a5515406f0a5/3"
                 }
             ]
+        },
+        {
+            "set_id": "vaultbreakers-golden",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/29e7e185-e4c3-4cd4-ac5b-63e16c90d401/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/29e7e185-e4c3-4cd4-ac5b-63e16c90d401/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/29e7e185-e4c3-4cd4-ac5b-63e16c90d401/3"
+                }
+            ]
+        },
+        {
+            "set_id": "dayz-yellow-king",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/739379da-c982-4294-9bfd-75c3cc4187d3/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/739379da-c982-4294-9bfd-75c3cc4187d3/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/739379da-c982-4294-9bfd-75c3cc4187d3/3"
+                }
+            ]
+        },
+        {
+            "set_id": "vaultbreakers",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/cce20332-b825-4008-8a8c-9b75e7a67e79/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/cce20332-b825-4008-8a8c-9b75e7a67e79/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/cce20332-b825-4008-8a8c-9b75e7a67e79/3"
+                }
+            ]
         }
     ]
 }
