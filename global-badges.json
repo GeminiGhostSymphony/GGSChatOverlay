@@ -4609,6 +4609,116 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/cce20332-b825-4008-8a8c-9b75e7a67e79/3"
                 }
             ]
+        },
+        {
+            "set_id": "blastoise",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2b975e12-fd49-4e54-85c4-6cc042453dbb/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2b975e12-fd49-4e54-85c4-6cc042453dbb/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2b975e12-fd49-4e54-85c4-6cc042453dbb/3"
+                }
+            ]
+        },
+        {
+            "set_id": "charizard",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ac097350-add0-44c4-b405-e70aa746389b/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ac097350-add0-44c4-b405-e70aa746389b/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ac097350-add0-44c4-b405-e70aa746389b/3"
+                }
+            ]
+        },
+        {
+            "set_id": "charmeleon",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/d9698627-aff7-434c-8002-1351b2c59984/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/d9698627-aff7-434c-8002-1351b2c59984/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d9698627-aff7-434c-8002-1351b2c59984/3"
+                }
+            ]
+        },
+        {
+            "set_id": "ivysaur",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/6de326e8-643f-4043-beb6-3ad135385708/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/6de326e8-643f-4043-beb6-3ad135385708/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/6de326e8-643f-4043-beb6-3ad135385708/3"
+                }
+            ]
+        },
+        {
+            "set_id": "pikachu",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/b9dd6905-474f-45d1-a4ff-8ba138208afc/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/b9dd6905-474f-45d1-a4ff-8ba138208afc/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/b9dd6905-474f-45d1-a4ff-8ba138208afc/3"
+                }
+            ]
+        },
+        {
+            "set_id": "venusaur",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ad14f7e4-1ca6-476b-acaf-250da22388ec/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ad14f7e4-1ca6-476b-acaf-250da22388ec/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ad14f7e4-1ca6-476b-acaf-250da22388ec/3"
+                }
+            ]
+        },
+        {
+            "set_id": "wartortle",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/15a0db5d-bef1-49bb-8594-e3925e1ec248/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/15a0db5d-bef1-49bb-8594-e3925e1ec248/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/15a0db5d-bef1-49bb-8594-e3925e1ec248/3"
+                }
+            ]
+        },
+        {
+            "set_id": "gastly",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/602335f3-4d73-40f9-b8e2-5c5e25f32d62/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/602335f3-4d73-40f9-b8e2-5c5e25f32d62/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/602335f3-4d73-40f9-b8e2-5c5e25f32d62/3"
+                }
+            ]
+        },
+        {
+            "set_id": "gengar",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f68e567f-67cf-4d4a-8c3e-a0dcee42f095/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f68e567f-67cf-4d4a-8c3e-a0dcee42f095/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f68e567f-67cf-4d4a-8c3e-a0dcee42f095/3"
+                }
+            ]
+        },
+        {
+            "set_id": "haunter",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/ddfbf317-aa77-482e-a99d-eb975deb2fe7/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/ddfbf317-aa77-482e-a99d-eb975deb2fe7/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/ddfbf317-aa77-482e-a99d-eb975deb2fe7/3"
+                }
+            ]
         }
     ]
 }
