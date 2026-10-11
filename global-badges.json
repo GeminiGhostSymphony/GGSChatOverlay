@@ -4763,6 +4763,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/52fc3c6b-f177-4f68-8334-4172d0555923/3"
                 }
             ]
+        },
+        {
+            "set_id": "modern-warfare-4",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/41505da3-121e-4d81-985f-95185a79186c/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/41505da3-121e-4d81-985f-95185a79186c/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/41505da3-121e-4d81-985f-95185a79186c/3"
+                }
+            ]
         }
     ]
 }
