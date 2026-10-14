@@ -4774,6 +4774,72 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/41505da3-121e-4d81-985f-95185a79186c/3"
                 }
             ]
+        },
+        {
+            "set_id": "castlevania-belmonts-curse",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e073c4ac-2d87-4f4b-8239-a2081f4a06e1/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e073c4ac-2d87-4f4b-8239-a2081f4a06e1/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e073c4ac-2d87-4f4b-8239-a2081f4a06e1/3"
+                }
+            ]
+        },
+        {
+            "set_id": "heartsteel-fan",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/e97f6718-9d36-4b35-8a6f-a36545ab81ff/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/e97f6718-9d36-4b35-8a6f-a36545ab81ff/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/e97f6718-9d36-4b35-8a6f-a36545ab81ff/3"
+                }
+            ]
+        },
+        {
+            "set_id": "kda-fan",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/cf6ff3ab-9153-483b-bdac-f07577e6e202/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/cf6ff3ab-9153-483b-bdac-f07577e6e202/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/cf6ff3ab-9153-483b-bdac-f07577e6e202/3"
+                }
+            ]
+        },
+        {
+            "set_id": "pentakill-fan",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/721fe947-d819-4b13-9b7a-92debcd9393b/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/721fe947-d819-4b13-9b7a-92debcd9393b/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/721fe947-d819-4b13-9b7a-92debcd9393b/3"
+                }
+            ]
+        },
+        {
+            "set_id": "true-damage-fan",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/06c27674-9c56-479d-8acf-a3dfd5680425/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/06c27674-9c56-479d-8acf-a3dfd5680425/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/06c27674-9c56-479d-8acf-a3dfd5680425/3"
+                }
+            ]
+        },
+        {
+            "set_id": "worlds-2026-supporter",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/031a4882-d8e6-4dd6-97d8-40620f59d288/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/031a4882-d8e6-4dd6-97d8-40620f59d288/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/031a4882-d8e6-4dd6-97d8-40620f59d288/3"
+                }
+            ]
         }
     ]
 }
