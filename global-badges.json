@@ -4840,6 +4840,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/031a4882-d8e6-4dd6-97d8-40620f59d288/3"
                 }
             ]
+        },
+        {
+            "set_id": "streamer-awards-2026-vote",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/941f3939-ae1c-4b47-a5fd-9adc53d3a4f4/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/941f3939-ae1c-4b47-a5fd-9adc53d3a4f4/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/941f3939-ae1c-4b47-a5fd-9adc53d3a4f4/3"
+                }
+            ]
+        },
+        {
+            "set_id": "flameborn-sigil",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/66ccfcbb-8b82-4746-8b61-2c38f69731c7/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/66ccfcbb-8b82-4746-8b61-2c38f69731c7/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/66ccfcbb-8b82-4746-8b61-2c38f69731c7/3"
+                }
+            ]
         }
     ]
 }
