@@ -4862,6 +4862,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/66ccfcbb-8b82-4746-8b61-2c38f69731c7/3"
                 }
             ]
+        },
+        {
+            "set_id": "beagoldfish",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/fa5a8b25-f4e4-443b-98c6-623c65a89296/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/fa5a8b25-f4e4-443b-98c6-623c65a89296/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/fa5a8b25-f4e4-443b-98c6-623c65a89296/3"
+                }
+            ]
+        },
+        {
+            "set_id": "believeinrichmond",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/07374c1e-6858-443f-8f57-cfbbe38364ca/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/07374c1e-6858-443f-8f57-cfbbe38364ca/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/07374c1e-6858-443f-8f57-cfbbe38364ca/3"
+                }
+            ]
         }
     ]
 }
