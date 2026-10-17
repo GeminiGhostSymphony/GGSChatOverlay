@@ -4884,6 +4884,39 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/07374c1e-6858-443f-8f57-cfbbe38364ca/3"
                 }
             ]
+        },
+        {
+            "set_id": "edgerunners-d",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/99095484-4036-40e6-a1f6-c451e93abdeb/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/99095484-4036-40e6-a1f6-c451e93abdeb/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/99095484-4036-40e6-a1f6-c451e93abdeb/3"
+                }
+            ]
+        },
+        {
+            "set_id": "edgerunners-talia",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/37886d76-944e-46ed-81ee-348d43a17922/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/37886d76-944e-46ed-81ee-348d43a17922/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/37886d76-944e-46ed-81ee-348d43a17922/3"
+                }
+            ]
+        },
+        {
+            "set_id": "edgerunners-weak",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/053062de-0527-4263-a595-740dc0ec2674/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/053062de-0527-4263-a595-740dc0ec2674/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/053062de-0527-4263-a595-740dc0ec2674/3"
+                }
+            ]
         }
     ]
 }
