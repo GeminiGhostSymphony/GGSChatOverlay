@@ -4917,6 +4917,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/053062de-0527-4263-a595-740dc0ec2674/3"
                 }
             ]
+        },
+        {
+            "set_id": "the-mox",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/1b9b6fbf-9100-4b2c-9bdf-8be0f1456ff9/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/1b9b6fbf-9100-4b2c-9bdf-8be0f1456ff9/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1b9b6fbf-9100-4b2c-9bdf-8be0f1456ff9/3"
+                }
+            ]
+        },
+        {
+            "set_id": "gray-zone-warfare-gold",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/29bd60c0-72a3-4151-8bb8-73153add8f85/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/29bd60c0-72a3-4151-8bb8-73153add8f85/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/29bd60c0-72a3-4151-8bb8-73153add8f85/3"
+                }
+            ]
         }
     ]
 }
