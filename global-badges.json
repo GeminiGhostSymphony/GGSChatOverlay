@@ -4961,6 +4961,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/20dd1791-9c66-44a8-b077-fa97d0c8b88b/3"
                 }
             ]
+        },
+        {
+            "set_id": "dbd-halloween-2026",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/0f60fb82-232f-4e16-a6a8-549866f99873/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/0f60fb82-232f-4e16-a6a8-549866f99873/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0f60fb82-232f-4e16-a6a8-549866f99873/3"
+                }
+            ]
         }
     ]
 }
