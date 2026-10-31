@@ -4972,6 +4972,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/0f60fb82-232f-4e16-a6a8-549866f99873/3"
                 }
             ]
+        },
+        {
+            "set_id": "warrior-jar-alexander",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/a080167b-6264-404b-b9b1-e5a68348299f/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/a080167b-6264-404b-b9b1-e5a68348299f/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a080167b-6264-404b-b9b1-e5a68348299f/3"
+                }
+            ]
         }
     ]
 }
