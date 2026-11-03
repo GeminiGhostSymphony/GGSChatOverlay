@@ -4983,6 +4983,28 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/a080167b-6264-404b-b9b1-e5a68348299f/3"
                 }
             ]
+        },
+        {
+            "set_id": "alliance",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/59d5bb2e-0d62-4116-a6bc-79cd5afe9246/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/59d5bb2e-0d62-4116-a6bc-79cd5afe9246/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/59d5bb2e-0d62-4116-a6bc-79cd5afe9246/3"
+                }
+            ]
+        },
+        {
+            "set_id": "horde",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8dfb6f30-1ec1-497a-91e4-028a704b4f57/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8dfb6f30-1ec1-497a-91e4-028a704b4f57/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8dfb6f30-1ec1-497a-91e4-028a704b4f57/3"
+                }
+            ]
         }
     ]
 }
