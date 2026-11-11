@@ -5071,6 +5071,17 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/d2adf631-2045-4246-9c34-201487e809ae/3"
                 }
             ]
+        },
+        {
+            "set_id": "jordan-x-space-jam",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/f7d0e088-2870-4b20-93e8-ab0fedfe50e4/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/f7d0e088-2870-4b20-93e8-ab0fedfe50e4/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/f7d0e088-2870-4b20-93e8-ab0fedfe50e4/3"
+                }
+            ]
         }
     ]
 }
