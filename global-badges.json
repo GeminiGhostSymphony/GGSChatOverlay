@@ -5203,6 +5203,61 @@
                     "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/1c51d343-754e-4fee-a717-ec95cafb5482/3"
                 }
             ]
+        },
+        {
+            "set_id": "runescape-santa-hat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/2bee9264-647c-4bdc-921f-cb5e651b1c64/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/2bee9264-647c-4bdc-921f-cb5e651b1c64/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/2bee9264-647c-4bdc-921f-cb5e651b1c64/3"
+                }
+            ]
+        },
+        {
+            "set_id": "runescape-gnome-plush",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/8b5bf6d2-3f89-4c24-a6c2-c5eda04ce1e6/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/8b5bf6d2-3f89-4c24-a6c2-c5eda04ce1e6/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/8b5bf6d2-3f89-4c24-a6c2-c5eda04ce1e6/3"
+                }
+            ]
+        },
+        {
+            "set_id": "runescape-quest-icon",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/bf75cdff-7b3a-4ba6-a1d5-e00563b9877e/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/bf75cdff-7b3a-4ba6-a1d5-e00563b9877e/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/bf75cdff-7b3a-4ba6-a1d5-e00563b9877e/3"
+                }
+            ]
+        },
+        {
+            "set_id": "runescape-sant-hat",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/044b64a3-3319-4749-973e-abc5e0dfe323/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/044b64a3-3319-4749-973e-abc5e0dfe323/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/044b64a3-3319-4749-973e-abc5e0dfe323/3"
+                }
+            ]
+        },
+        {
+            "set_id": "runescape-bones",
+            "versions": [
+                {
+                    "id": "1",
+                    "image_url_1x": "https://static-cdn.jtvnw.net/badges/v1/95507c79-f87e-4a0d-9940-92af830b3b36/3",
+                    "image_url_2x": "https://static-cdn.jtvnw.net/badges/v1/95507c79-f87e-4a0d-9940-92af830b3b36/3",
+                    "image_url_4x": "https://static-cdn.jtvnw.net/badges/v1/95507c79-f87e-4a0d-9940-92af830b3b36/3"
+                }
+            ]
         }
     ]
 }
